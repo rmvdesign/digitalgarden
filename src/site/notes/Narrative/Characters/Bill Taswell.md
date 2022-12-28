@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrative/characters/bill-taswell/"}
+{"role":"deuteragonist","apr":["DP","PS"],"prn":"he/him","spc":"tallisite","dg-publish":true,"permalink":"/narrative/characters/bill-taswell/","dgPassFrontmatter":true}
 ---
 
 
