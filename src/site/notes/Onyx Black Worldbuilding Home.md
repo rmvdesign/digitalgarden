@@ -3,6 +3,6 @@
 ---
 
 
-# Use the sidebar to get started!
+## Use the sidebar to get started
 
 Built with Obsidian.
