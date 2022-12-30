@@ -24,7 +24,7 @@ Navareo V is a terrestrial planet that is known for its extreme cold temperature
 
 ## Vi Station
 
-The Vi Station is located on the Lagrange point 3 of Navareo V, which means that it is located on the far side of the planet's orbit. This location allows the station to take advantage of the planet's gravitational pull for stability, while also providing a clear view of the rest of the Navareo star system.
+The Vi Station - known is located on the Lagrange point 3 of Navareo V, which means that it is located on the far side of the planet's orbit. This location allows the station to take advantage of the planet's gravitational pull for stability, while also providing a clear view of the rest of the Navareo star system.
 
 The station is home to a variety of different facilities and amenities, including administrative offices, living quarters, recreational areas, and more. The station is known for its luxurious accommodations, with many of the living quarters featuring large windows that offer stunning views of Navareo V and the rest of the star system.
 
