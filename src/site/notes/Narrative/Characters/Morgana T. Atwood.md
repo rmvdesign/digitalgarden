@@ -3,13 +3,12 @@
 ---
 
 
-Grown and raised on ISPD precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner Chase.
+Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner Chase.
 
-![http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/ZoWimage.png](http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/ZoWimage.png)
 
 # Physical description
 
-Morgana is a young Tallisite woman in her twenties. At the beginning of the events in OB1, she is 24 years of age. Grown and raised on an ISPD precinct station, she is a stationeer and therefore her body adjusted well to the lower spin gravity on the station. She is one of the ISPD's clones, made in an effort to ensure employment at the ISPD over the long term. Of the 22 sisters of the Atwood family, only Morgana and her sister Delilah still work for the ISPD. Being a clone, she does not possess a navel.
+Morgana is a young Tallisite woman in her twenties. At the beginning of the events in OB1, she is 24 years of age. Grown and raised on an [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct station, she is a stationeer and therefore her body adjusted well to the lower spin gravity on the station. She is one of the [[Narrative/Factions/Interstellar Police Department\|ISPD]]'s clones, made in an effort to ensure employment at the [[Narrative/Factions/Interstellar Police Department\|ISPD]] over the long term. Of the 22 sisters of the Atwood family, only Morgana and her sister Delilah still work for the [[Narrative/Factions/Interstellar Police Department\|ISPD]]. Being a clone, she does not possess a navel.
 
 Morgana has long dark brown hair and pale white skin. She is about 5'4" (162 cm) and slightly overweight, but just barely so. Her eyes are the same dark brown as all her sisters' and she's rarely seen without a Harrington jacket. Her preferred outfits include a comfortable and simple shirt and pants, and she prefers to wear magnetised loafers instead of the full gravity boots if possible. Her corneas are lightly scarred from the laser array in her NVR headset, an injury common among recovering NVR addicts.
 
