@@ -19,6 +19,6 @@ Fillion is a gruff hard-boiled veteran who has seen his fair share of battle. Af
 
 During his work aboard Galathea station, he kept up a respectful relationship with the chief of security and something that could arguably be considered a friendship with security officer Harvey Dale.
 
-Over the events of Onyx Black, he learns to trust the people around him and even forms a friendship with Bill Taswell. He is envious of Bill's seemingly perfect life, and because of that, he is willing to protect Bill with his life.
+Over the events of Onyx Black, he learns to trust the people around him and even forms a friendship with [[Narrative/Characters/Bill Taswell\|Bill Taswell]]. He is envious of Bill's seemingly perfect life, and because of that, he is willing to protect Bill with his life.
 
-Politically, he believes in the ultimate right to personal liberty and is absolutely disgusted by the chokehold the giant corporations have on colonies like Envilles and sympathises with Sector C-Null as they're trying to unify the galaxy by whatever means possible.
+Politically, he believes in the ultimate right to personal liberty and is absolutely disgusted by the chokehold the giant corporations have on colonies like Envilles and sympathises with [[Narrative/Factions/Sector C-Null\|Sector C-Null]] as they're trying to unify the galaxy by whatever means possible.
