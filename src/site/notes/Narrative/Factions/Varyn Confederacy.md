@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/narrative/factions/varyn-confederacy/","dgPassFrontmatter":true}
 ---
 
-The Varyn Confederacy is a group of silicon-based gelatinous aliens known as the [[Narrative/Species/Varyn\|Varyn]], who live on a single planet called Planet Varyn. The planet is entirely made of Silicon Dioxide, the same material that the [[Narrative/Species/Varyn\|Varyn]] are made of.
+The [[Narrative/Species/Varyn\|Varyn]] Confederacy is a group of silicon-based gelatinous aliens known as the [[Narrative/Species/Varyn\|Varyn]], who live on a single planet called Planet [[Narrative/Species/Varyn\|Varyn]]. The planet is entirely made of Silicon Dioxide, the same material that the [[Narrative/Species/Varyn\|Varyn]] are made of.
 
-The [[Narrative/Species/Varyn\|Varyn]] did not develop individuality or sentience until they made contact with the [[Narrative/Species/Navareans\|Navareans]], an intelligent alien species. This encounter sparked a period of rapid cultural and technological development for the Varyn, who were previously a primitive species.
+The [[Narrative/Species/Varyn\|Varyn]] did not develop individuality or sentience until they made contact with the [[Narrative/Species/Navareans\|Navareans]], an intelligent alien species. This encounter sparked a period of rapid cultural and technological development for the [[Narrative/Species/Varyn\|Varyn]], who were previously a primitive species.
 
-Since first contact with the [[Narrative/Species/Navareans\|Navareans]], the [[Narrative/Species/Varyn\|Varyn]] have adopted an unspoken rule of "being nice to one another", which has led to the absence of a formal government in Varyn society. Instead, the [[Narrative/Species/Varyn\|Varyn]] rely on a decentralised system of decision-making and cooperation to govern their society.
+Since first contact with the [[Narrative/Species/Navareans\|Navareans]], the [[Narrative/Species/Varyn\|Varyn]] have adopted an unspoken rule of "being nice to one another", which has led to the absence of a formal government in [[Narrative/Species/Varyn\|Varyn]] society. Instead, the [[Narrative/Species/Varyn\|Varyn]] rely on a decentralised system of decision-making and cooperation to govern their society.
 
 The [[Narrative/Species/Varyn\|Varyn]] do not have cities or any architecture, and their language is simple. However, they have developed a sophisticated system of trade and commerce, allowing them to acquire the resources they need to survive and thrive on their planet.
 
@@ -26,9 +26,9 @@ Tidēs is considered the best vacation destination in the galaxy, and it is a po
 
 |    Capital                 |    None<br>                                                                                                                                                                              |
 |:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    Official Languages      |    Universal, Varyn                                                                                                                                                                      |
+|    Official Languages      |    Universal, [[Narrative/Species/Varyn\|Varyn]]                                                                                                                                                                      |
 |    Species Distribution    | <div>99.9% [[Narrative/Species/Varyn\|Varyn]]</div>                                                                                                                                                                   |
-|    Demonym                 |    Varyn                                                                                                                                                                                 |
+|    Demonym                 |    [[Narrative/Species/Varyn\|Varyn]]                                                                                                                                                                                 |
 |    Government              |    None, "Rule of Kindness"                                                                                                                                                              |
 |    Area                    | Spatial: 42 954 446 ly2&nbsp;<div>Land: 0 km2 (excluding Tidēs)&nbsp;</div><div>Void: &gt;99.9%<br>                                                                               </div> |
 |    Population              |                                                                                                                                               Indeterminate (Year 65 census)             |
