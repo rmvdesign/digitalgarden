@@ -13,7 +13,7 @@ The Sundom of Eris consistently ranks highest in terms of development and econom
 |   Capital                |   Tallis City, Tallis<br>                                                                                                                                                     |
 |:-------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   Official Languages     |   Universal                                                                                                                                                                   |
-|   Species Distribution   |                                 92.6% Tallisite&nbsp;<div>5.1% Navarean&nbsp;</div><div>0.7% Ring Dwellers&nbsp;</div><div>0.3% Varyn&nbsp;</div><div>1.3% Others<br> </div>  |
+|   Species Distribution   |                                 92.6% Tallisite&nbsp;<div>5.1% Navarean&nbsp;</div><div>0.7% Ring Dwellers&nbsp;</div><div>0.3% [[Narrative/Species/Varyn\|Varyn]]&nbsp;</div><div>1.3% Others<br> </div>  |
 |   Demonym                |   Tallisite                                                                                                                                                                   |
 |   Government             |   Direct blank-slate democracy                                                                                                                                                |
 |   Area                   | Spatial: 18 954 446 ly2&nbsp;<div>Land: 2 772 189 503 km2&nbsp;</div><div>Void: &gt;99.9%</div>                                                                               |
