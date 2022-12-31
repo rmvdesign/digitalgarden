@@ -3,13 +3,13 @@
 ---
 
 
-One of the six androids that work for the ISPD, Detective 2nd Grade Chase Q1-K120N is a detective and undercover Lorem operative. During his five year mission with the ISPD, he became a detective and was assigned Morgana as his partner. He grows to trust and respect her, and eventually tells her the truth regarding his work.
+One of the six androids that work for the [[Narrative/Factions/Interstellar Police Department\|ISPD]], Detective 2nd Grade Chase Q1-K120N is a detective and undercover Lorem operative. During his five year mission with the [[Narrative/Factions/Interstellar Police Department\|ISPD]], he became a detective and was assigned Morgana as his partner. He grows to trust and respect her, and eventually tells her the truth regarding his work.
 
 ![http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/LX0screenshot-2022-11-04-at-02-16-50.png](http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/LX0screenshot-2022-11-04-at-02-16-50.png)
 
 # Physical description
 
-Chase is a Q1-K series android modelled for grounders. He's not much taller than 6 feet and has an athletic and toned Lightspeed Iridium+ body. His skin is Carolina blue and his short holographic hair is a darker cerulean colour. When not in ISPD uniform, he usually wears a combination of graphic tees and grey to taupe slacks. He has a fondness for leather jackets and usually decorates them with a yellow and orange android pride enamel pin. His LSI-3x3 data port can be found in his shoulder, and he takes care to cover it up for security, as it can be used to access his mind almost completely.
+Chase is a Q1-K series android modelled for grounders. He's not much taller than 6 feet and has an athletic and toned Lightspeed Iridium+ body. His skin is Carolina blue and his short holographic hair is a darker cerulean colour. When not in [[Narrative/Factions/Interstellar Police Department\|ISPD]] uniform, he usually wears a combination of graphic tees and grey to taupe slacks. He has a fondness for leather jackets and usually decorates them with a yellow and orange android pride enamel pin. His LSI-3x3 data port can be found in his shoulder, and he takes care to cover it up for security, as it can be used to access his mind almost completely.
 
 # Personality
 
