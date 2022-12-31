@@ -15,7 +15,7 @@ Despite the destruction of their homeworlds, the Ring Dwellers continue to mine 
 | Capital<br>          | Tethys Station, Tethys                                                                                         |
 |:---------------------|:---------------------------------------------------------------------------------------------------------------|
 | Official languages   | Universal, H!lok                                                                                               |
-| Species distribution | 79.2% Ring Dwellers<div>9% Navarean</div><div>1.2% Varyn</div><div>0.3% Tallisite</div><div>10.3% Others</div> |
+| Species distribution | 79.2% Ring Dwellers<div>9% Navarean</div><div>1.2% [[Narrative/Species/Varyn\|Varyn]]</div><div>0.3% Tallisite</div><div>10.3% Others</div> |
 | Demonym              | Ring Dweller                                                                                                   |
 | Government           | Formally none, corporatist rule                                                                                |
 | Area                 | Spatial: 87 332 198 ly2&nbsp;<div>Land: 73 223 935 100 km2</div><div>Void: &gt;99.9%</div>                     |
