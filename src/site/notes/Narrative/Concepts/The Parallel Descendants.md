@@ -4,7 +4,7 @@
 
 The Parallel Descendants are a group of prophesised "chosen ones" that are said to bring about a major cataclysmic change in the universe once all of them die. 
 
-The prophecy of the change of the universe (more commonly falsly translates as the *end* of the universe) has been passed down for centuries for various ancient texts and oral traditions. Interestingly, most cultures seem to have some form of the Parallel Descendant prophecy, even though their interpretations differ vastly.
+The prophecy of the change of the universe (more commonly falsely translated as the *end* of the universe) has been passed down for centuries for various ancient texts and oral traditions. Interestingly, most cultures seem to have some form of the Parallel Descendant prophecy, even though their interpretations differ vastly.
 
 Despite the uncertainty surrounding the prophecy, many people throughout history have searched for the Parallel Descendants, hoping to find and protect them. Some have even claimed to be one of the chosen ones themselves, although most of these claims have proven to be false.
 
