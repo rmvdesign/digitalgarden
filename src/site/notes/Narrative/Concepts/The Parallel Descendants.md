@@ -17,7 +17,7 @@ If reality ceases, a new reality will be formed by using the contents of the cur
 The commonly accepted version of the prophecy goes as follows:
 
 ```
-It comes in circles
+It comes in cycles
 Like turning seas pressed against the pull of planets
 Granite stones in copper spirals in time
 The alchemy of the seven phases
