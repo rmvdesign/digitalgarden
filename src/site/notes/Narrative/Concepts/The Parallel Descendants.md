@@ -12,7 +12,7 @@ The Parallel Descendants are, in fact, the 22 sisters of the Atwood family, an [
 
 As the parallel descendants die, the stress on reality rises. In quantified terms, this means the baseline factor of reality (usually 1) slowly drops until complete cessation of reality is reached.
 
-If reality ceases, a new reality will be formed by using the contents of the current reality to "learn" and improve on the next iteration of reality. However, the current reality is not destroyed during this process, but keeps existing in this "frozen" state, for later reference. This is known as Cyclic Redundancy.
+If reality ceases, a new reality will be formed by using the contents of the current reality to "learn" and improve on the next iteration of reality. However, the current reality is not destroyed during this process, but keeps existing in this "frozen" state, for later reference. This is known as [[Narrative/Concepts/Cyclic Redundancy\|Cyclic Redundancy]].
 
 The commonly accepted version of the prophecy goes as follows:
 
