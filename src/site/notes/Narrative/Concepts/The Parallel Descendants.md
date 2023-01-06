@@ -21,7 +21,7 @@ It comes in circles
 Like turning seas pressed against the pull of planets
 Granite stones in copper spirals in time
 The alchemy of the seven phases
-Earth, life, crystals, pain, loss, love, and revelation
+World, life, crystals, pain, loss, love, and revelation
 Cosmic borders call for patience under hot suns
 Nomadic operas, symphonies are blown
 Traveling melodies lay waste to the unknown
@@ -31,12 +31,12 @@ Talking through their patterns and tones
 They were the last of the parallel descendants
 Behind Sirius and the starry highways
 Infinitely reborn in the alchemy of the seven phases
-Earth, life, breath, pain, loss, detachment, and revelation
+World, life, death, pain, loss, detachment, and revelation
 Losing to the warring sirens
 Diamond changers with less deeds
 Speaking in spells to the teachers of need
 Walking slowly from darkness
 Where heartbeats and bloodlines achieve the alchemy of the seven phases
-Earth, life, breath, pain, loss, detachment, and revelation
+World, life, change, pain, loss, detachment, and revelation
 ```
 
