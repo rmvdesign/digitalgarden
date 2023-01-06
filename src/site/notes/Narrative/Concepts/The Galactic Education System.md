@@ -1,5 +1,5 @@
 ---
-{"aliases":["Educational stages"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Educational stages","permalink":"/narrative/concepts/the-galactic-education-system/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/the-galactic-education-system/","dgPassFrontmatter":true}
 ---
 
 
