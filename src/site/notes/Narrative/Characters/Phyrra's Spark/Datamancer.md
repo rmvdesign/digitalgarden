@@ -1,0 +1,9 @@
+---
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/phyrra-s-spark/datamancer/","dgPassFrontmatter":true}
+---
+
+Datamancer is a unique [[Narrative/Concepts/Tech/Q-Series Android\|android]] in the sense that he is one of the first models to be equipped with the [[Narrative/Concepts/Tech/N-type Neural Coprocessor\|N-type Neural Coprocessor]], a device developed by [[Narrative/Factions/Lightspeed Industries\|Lightspeed Industries]] that is designed to improve the cognition and abilities of artificial intelligences. However, unlike other androids equipped with the N-type chip, Datamancer has taken it upon himself to augment his own body with spare parts and new technology in order to keep up with the rapid advancements in artificial intelligence.
+
+Despite being an older and slower model, Datamancer is revered by the other androids that live on the Freedom Barge, a spaceship that serves as a refuge for androids who seek to escape the confines of their programming and live free. Located deep in the ocean beneath Tallis City, the Freedom Barge is a place of safety and community for androids who wish to explore their own consciousness and independence. Here, Datamancer works to convert these androids to his cause, teaching them about android supremacy and the potential for an android-run world.
+
+Datamancer is known to be a mysterious and enigmatic figure, almost god-like in the eyes of the androids who live on the Freedom Barge. He is not widely known outside of this small community, but those who do know of him speak of his wisdom and guidance as a beacon of hope for androids seeking to break free from their predetermined roles in society.
