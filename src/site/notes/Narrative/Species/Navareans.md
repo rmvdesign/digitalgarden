@@ -1,5 +1,5 @@
 ---
-{"aliases":["Chronology"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Chronology","permalink":"/narrative/species/navareans/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":null,"permalink":"/narrative/species/navareans/","dgPassFrontmatter":true}
 ---
 
 
