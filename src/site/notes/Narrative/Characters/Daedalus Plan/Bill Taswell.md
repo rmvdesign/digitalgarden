@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"role":"deuteragonist","apr":["DP","PS"],"prn":"he/him","spc":"tallisite","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/bill-taswell/","dgPassFrontmatter":true}
+{"aliases":"Bill","tags":null,"role":"deuteragonist","apr":["DP","PS"],"prn":"he/him","spc":"tallisite","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/bill-taswell/","dgPassFrontmatter":true}
 ---
 
 
