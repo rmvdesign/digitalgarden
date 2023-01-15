@@ -1,17 +1,7 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
+{"role":"protagonist","gnd":"Cis Woman","apr":["DP","PS","OB3","OB4","IF"],"prn":"she/her","spc":"tallisite","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
 ---
 
-
----
-
-role: protagonist
-apr: [DP, PS, OB3, OB4, IF]
-prn: she/her
-spc: tallisite
-dg-publish: true
-
----
 
 Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner Chase.
 
