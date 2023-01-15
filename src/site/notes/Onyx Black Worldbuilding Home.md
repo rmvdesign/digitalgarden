@@ -6,3 +6,5 @@
 ## Use the sidebar to get started
 
 Built with Obsidian.
+
+<a rel="me" href="https://c.im/@delphi">Mastodon</a>
