@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/phyrra-s-spark/althea-maxwell/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Althea Maxwell","Pronouns":"she/her","Role":"Opponent","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/phyrra-s-spark/althea-maxwell/","dgPassFrontmatter":true}
 ---
 
 **Althea Maxwell** is a well-known and respected news anchor and reporter for the Galactic Feed, the most popular video-based news outlet in the known galaxy. She has been in the industry for over a decade and has established herself as one of the top journalists in the business.
