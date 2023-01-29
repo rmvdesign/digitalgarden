@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/phyrra-s-spark/austin-taswell/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Austin Taswell","Pronouns":"he/him","Role":"Dreamer","Species":"Tallisite","Gender":"Trans Man","permalink":"/narrative/characters/phyrra-s-spark/austin-taswell/","dgPassFrontmatter":true}
 ---
 
 Austin Taswell is a Tallisite man in his mid-thirties. Standing at around 6', he is tall and lean, with short black hair and a neatly trimmed goatee. He wears round glasses that frame his piercing blue eyes, and is known for his love of white button-down shirts paired with grey pants and a crisp white apron when he's working in his studio. As a trans man, Austin has always been proud of his identity and has worked hard to establish himself as a respected and successful architect.
