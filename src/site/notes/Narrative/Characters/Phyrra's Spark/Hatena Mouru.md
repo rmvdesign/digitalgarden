@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/phyrra-s-spark/hatena-mouru/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Hatena Mouru","Pronouns":"she/her","Role":"Opponent","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/phyrra-s-spark/hatena-mouru/","dgPassFrontmatter":true}
 ---
 
 Hatena Mouru is the CEO of [[Narrative/Factions/Lightspeed Industries\|Lightspeed Industries]], a company known for the development of the modern [[Narrative/Concepts/Tech/Q-Series Android\|android]] and the most cutting-edge artificial intelligence research. A former neuroscientist and AI researcher, Hatena is credited with the development of the [[Narrative/Concepts/Tech/N-type Neural Coprocessor\|N-type Neural Coprocessor]], a device that enhances the cognitive abilities of artificial intelligences using brain matter.
