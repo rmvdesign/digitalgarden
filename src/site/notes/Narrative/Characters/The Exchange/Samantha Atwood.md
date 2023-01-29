@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/the-exchange/samantha-atwood/","dgPassFrontmatter":true}
+{"aliases":null,"alias":"Sam","tags":null,"dg-publish":true,"Pronouns":"she/they","Full Name":"Samantha Avery Atwood","Role":"Dreamer","Species":"Tallisite","Gender":"Non-Binary","permalink":"/narrative/characters/the-exchange/samantha-atwood/","dgPassFrontmatter":true}
 ---
 
 Samantha Atwood is a member of the Atwood Family and one of [[Narrative/Concepts/The Parallel Descendants\|the parallel descendants]]. She quit the ISPD and pursued a carreer in IT, eventually being hired as the head IT administrator at QEX-TC1.
