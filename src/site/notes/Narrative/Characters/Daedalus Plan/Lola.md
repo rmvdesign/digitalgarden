@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/lola/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Dolorys","Role":"Chorus","Species":"Navarean","Gender":"Cis Woman","permalink":"/narrative/characters/daedalus-plan/lola/","dgPassFrontmatter":true}
 ---
 
 Lola is a former blackporter and porter who currently resides on the Vi Station with her partner, [[Narrative/Characters/Daedalus Plan/Charlie\|Charlie]] Augustine. Born on the planet Ten'Serrat, Lola had a rough upbringing and turned to smuggling and transporting illegal goods as a means of survival. It was during one of her runs that she stumbled upon the barely alive [[Narrative/Characters/Daedalus Plan/Charlie\|Charlie]], who had been spaced by [[Narrative/Characters/Daedalus Plan/C-Null\|C-Null]] and left for dead in the dead space behind Sgt.A*. Lola took [[Narrative/Characters/Daedalus Plan/Charlie\|Charlie]] in and helped them regain their strength and start a new life on the Vi Station.
