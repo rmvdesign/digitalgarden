@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":"gardenEntry","dg-publish":true,"dg-home":true,"permalink":"/onyx-black-worldbuilding-home/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/onyx-black-worldbuilding-home/","dgPassFrontmatter":true}
 ---
 
 
