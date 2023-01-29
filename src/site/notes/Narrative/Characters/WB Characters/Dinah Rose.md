@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/wb-characters/dinah-rose/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Dorothy Valery Rose-Fortescue","Pronouns":"she/her","Role":"Tree","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/wb-characters/dinah-rose/","dgPassFrontmatter":true}
 ---
 
 **Dorothy Valery Rose-Fortescue**, more commonly known as **Dinah Rose**, is the current CEO of [[Narrative/Factions/Theotech, LLC\|Theotech]], the largest and most influential technology company in the known galaxy. She took over the role from her father, Theodore Rose, in the late 40s and has since led the company to even greater heights of innovation and success.
