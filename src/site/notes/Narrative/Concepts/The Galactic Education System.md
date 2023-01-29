@@ -56,6 +56,6 @@ Commonly, these five stages are not divided further down to make it easier to st
 -   Ld. [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]], LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
 -   Ld. Palla Parvenu, LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
 -   Ld. Corie Mouru, LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
--   Ld. [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], LSc - Lightspeed Industries
--   Ld. Quentin Marcolla, LSc - QEX Quantum Communications, Ltd.
+-   Ld. [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], LSc - [[Narrative/Factions/Lightspeed Industries\|Lightspeed Industries]]
+-   Ld. [[Narrative/Characters/The Exchange/Quentin Marcolla\|Quentin Marcolla]], LSc - QEX Quantum Communications, Ltd.
 -   Ld. Katherine Yalgeth, LSc - Yalgeth Labs
