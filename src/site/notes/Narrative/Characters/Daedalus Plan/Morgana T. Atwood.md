@@ -1,5 +1,5 @@
 ---
-{"role":"protagonist","gnd":"Cis Woman","apr":["DP","PS","OB3","OB4","IF"],"prn":"she/her","spc":"tallisite","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Morgana Terry Atwood","Role":"Protagonist","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
 ---
 
 
