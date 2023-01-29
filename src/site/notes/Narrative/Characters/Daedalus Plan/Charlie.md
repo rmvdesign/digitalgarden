@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"role":"tritagonist","apr":["DP","IF"],"prn":"they/them","spc":"navarean","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/charlie/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Charlie Augustine","Pronouns":"they/them","Role":"Dreamer","Species":"Navarean","Gender":"Non-Binary","permalink":"/narrative/characters/daedalus-plan/charlie/","dgPassFrontmatter":true}
 ---
 
 
