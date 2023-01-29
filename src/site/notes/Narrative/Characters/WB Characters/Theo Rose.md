@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/wb-characters/theo-rose/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Theodore Rose","Role":"Tree","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/wb-characters/theo-rose/","dgPassFrontmatter":true}
 ---
 
 **Theodore "Theo" Rose** (born -36 on Tallis, died 52 on New Tallis) is the CEO and founder of [[Narrative/Factions/Theotech, LLC\|Theotech]], the largest and most influential technology company in the known galaxy. Born into a wealthy Tallisite family, Rose received a substantial sum of seed money from his parents to start his own company.
