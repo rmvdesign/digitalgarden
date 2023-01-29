@@ -1,5 +1,5 @@
 ---
-{"aliases":["Datamancer","Q1-Prototype"],"tags":null,"dg-publish":true,"permalink":"/narrative/characters/phyrra-s-spark/datamancer/","dgPassFrontmatter":true}
+{"aliases":"Datamancer,Q1-Prototype","tags":null,"dg-publish":true,"Full Name":"Datamancer","Pronouns":"any/all","Role":"Antagonist","Species":"Android","Gender":"Indeterminate","permalink":"/narrative/characters/phyrra-s-spark/datamancer/","dgPassFrontmatter":true}
 ---
 
 Datamancer is a unique android in the sense that he is one of the first models to be equipped with the [[Narrative/Concepts/Tech/N-type Neural Coprocessor\|N-type Neural Coprocessor]], a device developed by [[Narrative/Factions/Lightspeed Industries\|Lightspeed Industries]] that is designed to improve the cognition and abilities of artificial intelligences. However, unlike other androids equipped with the N-type chip, Datamancer has taken it upon himself to augment his own body with spare parts and new technology in order to keep up with the rapid advancements in artificial intelligence.
