@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/qex-tc-1-quantum-exchange/","dgPassFrontmatter":true}
+{"aliases":["TC1","QEX-TC1"],"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/qex-tc-1-quantum-exchange/","dgPassFrontmatter":true}
 ---
 
 The QEX-TC1 Quantum Exchange, also known as the Tallis City Quantum Exchange, is a groundbreaking information exchange system that utilizes the principles of [[Narrative/Concepts/Tech/Theotech Products/Theotech QuantumLink\|QuantumLink]]. Developed by [[Narrative/Factions/Theotech, LLC\|Theotech]], the QEX-TC1 is the first and largest quantum exchange in the galaxy, and has revolutionized the way information is transmitted and shared across the known universe.
