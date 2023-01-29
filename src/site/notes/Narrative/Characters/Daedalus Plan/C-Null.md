@@ -1,11 +1,9 @@
 ---
-{"aliases":null,"tags":null,"role":"antagonist","apr":["DP","PS","OB3","OB4","IF"],"prn":"she/her","spc":"navarean","dg-publish":true,"permalink":"/narrative/characters/daedalus-plan/c-null/","dgPassFrontmatter":true}
+{"aliases":null,"tags":[""],"dg-publish":true,"Pronouns":"she/they","Full Name":"Constance Augustine","Role":"Antagonist","Species":"Navarean","Gender":"Cis Woman","permalink":"/narrative/characters/daedalus-plan/c-null/","dgPassFrontmatter":true}
 ---
 
 
 **Constance Augustine** (born 40-1823.22), also known under the pseudonym **C-Null**, is a Navarean terrorist, anarcho-syndicalist and former xenobiologist. Being the youngest ever graduate and Lord of Science recorded in the history of the Navarean Academy of Applied Sciences, she was a prodigy in the field of reproductive cloning, xenoneurology and augmentation technology, but abandoned her academic career following expulsion in 56 to pursue an anarchist life in the Neutral Zone. Following drastic reorganisation of opposing pirate and mercenary groups, she founded the anarchist federation **[[Narrative/Factions/Sector C-Null\|Sector C-Null]]**.
-
-![http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/4FLimage.jpeg](http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/4FLimage.jpeg)
 
 In 56, Augustine abandoned her previous life on Navareo following her academic expulsion. The official reason for her dismissal is stated as various violations of ethics guidelines, but the details of this dismissal are confidential and have not been released to the public. The night following expulsion, she broke into her former research complex and retrieved her research, as well as stealing equipment the value of approximately Cr70.000 and a Faraday Cargo 100T starship. The following weeks she spent on a hyperlight flight to uncharted territory within the neutral zone, where she started studying the sociopolitical systems and tensions between criminal organisations. In the subsequent year she started offering charity and free medical care to anyone in need, making sure to offer her services to everyone without regarding their aligned faction, which she then weaponised to force many pirate and mercenary syndicates to work together, creating [[Narrative/Factions/Sector C-Null\|Sector C-Null]]. This federation continues to exist and subscribes to socialist values, exerting a powerful force over the Neutral Zone.
 
