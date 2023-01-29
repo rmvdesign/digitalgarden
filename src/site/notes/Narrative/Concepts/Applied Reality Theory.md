@@ -1,5 +1,5 @@
 ---
-{"aliases":["Macroscopic effects"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Macroscopic effects","permalink":"/narrative/concepts/applied-reality-theory/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/applied-reality-theory/","dgPassFrontmatter":true}
 ---
 
 **Applied Reality Theory**, also known as **Realistics**, is a branch of theoretical physics that focuses on the manipulation of fundamental constants, the fundamental physical quantities that define the nature of the universe. It is based on the idea that these constants are not fixed, but can be altered through the application of certain stimuli.
