@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/welcome-to-the-flipside/pm-pierce/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Jean-Melvin Pierce","Pronouns":"he/him","Role":"Antagonist","Gender":"Cis Man","permalink":"/narrative/characters/welcome-to-the-flipside/pm-pierce/","dgPassFrontmatter":true}
 ---
 
 Conservative Head of State Prime Minister Pierce is the antagonist of WTTF. He's the father of [[Narrative/Characters/Welcome to the Flipside/Connor Pierce\|Connor Pierce]].
