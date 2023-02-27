@@ -17,26 +17,56 @@ If reality ceases, a new reality will be formed by using the contents of the cur
 The commonly accepted version of the prophecy goes as follows:
 
 ```
-It comes in cycles
-Like turning seas pressed against the pull of planets
-Granite stones in copper spirals in time
-The alchemy of the seven phases
-World, life, crystals, pain, loss, love, and revelation
-Cosmic borders call for patience under hot suns
-Nomadic operas, symphonies are blown
-Traveling melodies lay waste to the unknown
-The spoken is spoken, the craft bears the stone
-Compelling thе broken to heal and the hеalers to learn whispers
-Talking through their patterns and tones
+It goes in cycles 
+Like the ebb and flow of an infinite sea
+Beyond Sirius and the starry highways
+Stone spirals and copper coils in time 
+The alchemy of the seven phases, secrets untold 
+World, life, crystals, pain, loss, detachment, and revelation 
+Patience under hot suns and cosmic constellations
+Nomadic symphonies
+Melodies of distant lands, a wasteland grown 
+Words spoken, and stories crafted, to heal the broken 
+Compelling thе broken to heal and the hеalers to learn 
 They were the last of the parallel descendants
-Behind Sirius and the starry highways
-Infinitely reborn in the alchemy of the seven phases
-World, life, death, pain, loss, detachment, and revelation
-Losing to the warring sirens
-Diamond changers with less deeds
-Speaking in spells to the teachers of need
-Walking slowly from darkness
-Where heartbeats and bloodlines achieve the alchemy of the seven phases
+Beyond the stars, and the celestial expanse they transcend 
+Reborn into the seven phases, time and time again 
+World, life, death, pain, loss, detachment, and revelation 
+Sirens of war slowly walking from the abyss 
+Where heartbeats and bloodlines achieve the alchemy of seven phases 
 World, life, change, pain, loss, detachment, and revelation
 ```
 
+# An analysis of the prophecy poem
+
+
+```
+It goes in cycles 
+Like the ebb and flow of an infinite sea
+Beyond Sirius and the starry highways
+Stone spirals and copper coils in time
+```
+ 
+
+The first four lines suggest the idea of cyclical patterns that occur in the universe. The reference to the "ebb and flow of an infinite sea" evokes the idea of the tides, which are governed by the cycles of the moon. The mention of Sirius and the "starry highways" could be interpreted as a reference to the vastness and complexity of the universe and the multitude of cycles and patterns that exist beyond our immediate perception. The "stone spirals and copper coils in time" could refer to the idea of ancient or mystical technologies or practices that are connected to cyclical patterns or the passage of time.
+
+
+```
+The alchemy of the seven phases, secrets untold 
+World, life, crystals, pain, loss, detachment, and revelation 
+Patience under hot suns and cosmic constellations
+```
+
+These lines seem to be describing the concept of "the alchemy of the seven phases" which includes the seven phases of world, life, crystals, pain, loss, detachment, and revelation. The concept of alchemy typically refers to the transformation of something into something else, often seen as a metaphor for personal transformation or spiritual growth. The line "secrets untold" suggests that there are hidden or mysterious aspects of this alchemy that are not yet understood or known. "Patience under hot suns and cosmic constellations" implies that this process of transformation requires perseverance and endurance, as well as an awareness of the natural world and the forces that shape it.
+
+
+```
+Nomadic symphonies
+Melodies of distant lands, a wasteland grown 
+Words spoken, and stories crafted, to heal the broken 
+Compelling thе broken to heal and the hеalers to learn
+```
+
+These lines evoke a sense of travelling and exploring, with "nomadic symphonies" and "melodies of distant lands." The phrase "a wasteland grown" could refer to a physical landscape that has been transformed by time, like the galaxy, or it could be a metaphor for an emotional or psychological journey.
+
+The next line, "Words spoken, and stories crafted, to heal the broken," suggests that the travellers are avatars of healing. The final line of this section, "Compelling the broken to heal and the healers to learn," could mean that the travellers are helping others to heal while also learning and growing themselves - potentially being misguided until further revelations have taken place. This is made more plausible by way of "revelation" being one of the seven phases.
