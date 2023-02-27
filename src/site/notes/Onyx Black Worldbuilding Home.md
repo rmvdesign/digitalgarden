@@ -9,9 +9,21 @@ Onyx Black is a balanced-dark science fiction world with an emphasis on individu
 
 It hasn't been going very well.
 
-## Get Started
+## Starting Points
 
+All notes are linked to one another in some way or another. Here are a few notes to start you off:
 
+[[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana T. Atwood]] - the protagonist of the mainline Onyx Black novels.
+
+[[Narrative/Factions/Theotech, LLC\|Theotech, LLC]] - biggest corporation and sole patent holder for silicon semiconductors.
+
+[[Narrative/Factions/Interstellar Police Department\|Interstellar Police Department]] - the law enforcement agency keeping what passes for peace in the galactic neutral zone. There so the big players don't tear each other to shreds over the GNZ.
+
+[[Narrative/Species/Navareans\|Navareans]] - the most populous species in the galaxy, heralding from the Navareo system.
+
+[[Narrative/Concepts/The Parallel Descendants\|The Parallel Descendants]] - Of course there's chosen ones!
+
+---
 
 Built with Obsidian.
 
