@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-head-space/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Type":"Computer","Target Market":"Consumer","permalink":"/narrative/concepts/tech/theotech-products/theotech-head-space/","dgPassFrontmatter":true}
 ---
 
 The [[Narrative/Factions/Theotech, LLC\|Theotech]] HeadSpace is a state-of-the-art headset developed by [[Narrative/Factions/Theotech, LLC\|Theotech]], the leading technology company in the known galaxy. The HeadSpace is designed for use with neural virtual reality (NVR) systems, allowing users to fully immerse themselves in virtual worlds and experiences.
