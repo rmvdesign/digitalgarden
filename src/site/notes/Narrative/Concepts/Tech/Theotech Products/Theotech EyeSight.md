@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-eye-sight/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Type":"Augmentation","Target Market":["Consumer"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-eye-sight/","dgPassFrontmatter":true}
 ---
 
 The **[[Narrative/Factions/Theotech, LLC\|Theotech]] EyeSight** is a neurointegrated mechanical augmentation that is designed to replace the organic eye. It is one of the more popular augmentations that [[Narrative/Factions/Theotech, LLC\|Theotech]] sells, and is used by individuals who have lost their eye due to injury or disease, as well as those who are looking to improve their vision beyond the capabilities of their natural eye.
