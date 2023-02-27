@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-glass-read/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Type":"Computer","Target Market":["Consumer"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-glass-read/","dgPassFrontmatter":true}
 ---
 
 The [[Narrative/Factions/Theotech, LLC\|Theotech]] GlassRead is a transparent tablet designed specifically for reading newspaper articles and other printed media. Made of clear polycarbonate, the GlassRead allows users to read their favorite print publications in a digital format without sacrificing the feel of holding a physical newspaper.
