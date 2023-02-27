@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theotech GlassType","GlassType","The Threedim","Threedim"],"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-glass-type/","dgPassFrontmatter":true}
+{"aliases":["Theotech GlassType","GlassType","The Threedim","Threedim"],"tags":null,"dg-publish":true,"Type":"Computer","Target Market":["Universal"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-glass-type/","dgPassFrontmatter":true}
 ---
 
 The Threedim, short for Three-Dimensional Mobile Terminal, is a type of handheld device used for communication, computing, and entertainment. It was developed by [[Narrative/Factions/Theotech, LLC\|Theotech]], a leading technology company in the galaxy.
