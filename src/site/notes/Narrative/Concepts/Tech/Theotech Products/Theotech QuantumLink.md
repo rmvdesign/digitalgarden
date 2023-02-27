@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":["QuantumLink","Theotech QuantumLink","Quantum Network"],"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-quantum-link/","dgPassFrontmatter":true}
+{"tags":null,"aliases":["QuantumLink","Theotech QuantumLink","Quantum Network"],"dg-publish":true,"Type":"Service","Target Market":["Universal"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-quantum-link/","dgPassFrontmatter":true}
 ---
 
 Invented by [[Narrative/Characters/WB Characters/Theo Rose\|Theo Rose]], founder and former CEO of [[Narrative/Factions/Theotech, LLC\|Theotech]] LLC, The **Quantum Network** is a revolutionary technology that allows for instant communication over vast distances. It works by using two specially-designed devices called Quantum Grids, which are equipped with entangled quantum particles.
