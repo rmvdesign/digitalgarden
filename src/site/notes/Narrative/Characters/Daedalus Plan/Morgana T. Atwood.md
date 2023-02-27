@@ -20,5 +20,3 @@ While she does not have many friends, the ones she does have she also considers 
 
 Due to the nature of her residence aboard Precinct 21-A, she also doesn't really take up many hobbies. To work around this, she owns a [[Narrative/Factions/Theotech, LLC\|Theotech]] Rima-X [[Narrative/Concepts/Tech/Neural Virtual Reality\|Neural Virtual Reality]] headset the uses to spend her free time in virtual. However, this has drawbacks - she eventually developed an addiction to the virtual world she is fighting during the events of OB1, especially virtual puzzles. She loves puzzle adventures, enjoys Sudoku puzzles and can't sleep if there's a riddle that goes unsolved.
 
-# Cynical Reading
-
