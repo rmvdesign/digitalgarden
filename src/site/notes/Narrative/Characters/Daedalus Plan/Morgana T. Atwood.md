@@ -3,7 +3,7 @@
 ---
 
 
-Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner Chase.
+Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner Chase. One of [[Narrative/Concepts/The Parallel Descendants\|The Parallel Descendants]].
 
 
 # Physical description
@@ -19,3 +19,6 @@ Morgana Terry Atwood is a good-natured idealist, arguably to a fault. She likes 
 While she does not have many friends, the ones she does have she also considers her closest confidantes. The list of these people is very short, though: Aside from her partner Chase and her sister Delilah she does not have many social contacts.
 
 Due to the nature of her residence aboard Precinct 21-A, she also doesn't really take up many hobbies. To work around this, she owns a [[Narrative/Factions/Theotech, LLC\|Theotech]] Rima-X [[Narrative/Concepts/Tech/Neural Virtual Reality\|Neural Virtual Reality]] headset the uses to spend her free time in virtual. However, this has drawbacks - she eventually developed an addiction to the virtual world she is fighting during the events of OB1, especially virtual puzzles. She loves puzzle adventures, enjoys Sudoku puzzles and can't sleep if there's a riddle that goes unsolved.
+
+# Cynical Reading
+
