@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/the-exchange/quentin-marcolla/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Quentin Fjellin Marcolla","Role":"Tree","Species":"Tallisite","Gender":"Cis Man","Pronouns":"he/him","permalink":"/narrative/characters/the-exchange/quentin-marcolla/","dgPassFrontmatter":true}
 ---
 
 **Ld. Quentin Fjellin Marcolla** is a [[Narrative/Species/Tallisites\|Tallisite]] scientist who has devoted his entire life to the study of quantum physics. His work on the [[Narrative/Concepts/Tech/Theotech Products/Theotech QuantumLink\|QuantumLink]] programme at [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/QEX-TC1 Quantum Exchange\|TC1]] has been groundbreaking, and he is considered one of the leading experts in the field of quantum communication.
