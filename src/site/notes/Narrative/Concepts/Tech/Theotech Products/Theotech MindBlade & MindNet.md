@@ -1,5 +1,5 @@
 ---
-{"aliases":["Theotech MindBlade","Theotech MindNet"],"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-mind-blade-and-mind-net/","dgPassFrontmatter":true}
+{"aliases":["Theotech MindBlade","Theotech MindNet"],"tags":null,"dg-publish":true,"Type":"Service","Target Market":["Universal"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-mind-blade-and-mind-net/","dgPassFrontmatter":true}
 ---
 
 The **[[Narrative/Factions/Theotech, LLC\|Theotech]] MindBlade** is a revolutionary digital supercomputer developed by [[Narrative/Factions/Theotech, LLC\|Theotech]], a leading company in the field of artificial intelligence and neural virtual reality. It is the first supercomputer to be built on the sub-nanometre silicon process, which allows it to achieve unprecedented levels of processing power.
