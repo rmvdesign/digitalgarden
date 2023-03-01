@@ -6,7 +6,7 @@ The **Sundom of Eris**, commonly known as **Tallis**, is a political and econo
 
 The Sundom is a direct democracy founded on blank-slate law. If a law needs to be changed or added, any Sundom citizen is allowed to start a campaign to add, change or remove any law. In order to pass, several referendums have to be held, with different rule sets for local and regional ordinances.
 
-The Sundom of Eris consistently ranks highest in terms of development and economy. It has, due to its status as [[Narrative/Factions/Theotech, LLC\|Theotech]]'s origin world, the highest GDP in the galaxy and still collects royalty taxes, a law implemented by the Tallisite High Court after the success of [[Narrative/Factions/Theotech, LLC\|Theotech]]'s initial product runs.
+The Sundom of Eris consistently ranks highest in terms of development and economy. It has, due to its status as [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]]'s origin world, the highest GDP in the galaxy and still collects royalty taxes, a law implemented by the Tallisite High Court after the success of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]]'s initial product runs.
 
 # Quick Facts
 
