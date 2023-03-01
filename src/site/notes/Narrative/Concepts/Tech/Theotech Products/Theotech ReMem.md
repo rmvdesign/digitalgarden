@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"Type":"Software","Target Market":["Consumer"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-re-mem/","dgPassFrontmatter":true}
 ---
 
-**[[Narrative/Factions/Theotech, LLC\|Theotech]] ReMem** is a piece of NVR technology developed by [[Narrative/Factions/Theotech, LLC\|Theotech]]. It allows users to access and reconstruct their memories in real-time, providing a highly immersive and interactive VR experience.
+**[[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] ReMem** is a piece of NVR technology developed by [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]]. It allows users to access and reconstruct their memories in real-time, providing a highly immersive and interactive VR experience.
 
 ReMem works by recording the brain activity of the user as they actively recall their memories. This data is then used to reconstruct the memories in a virtual space, allowing the user to relive their past experiences as if they were happening in the present.
 
