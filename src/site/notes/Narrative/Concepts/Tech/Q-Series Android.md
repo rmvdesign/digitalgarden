@@ -13,7 +13,7 @@ The Q-Series Android has proven to be a popular product, with many consumers pra
 
 The N-chip has a built in limiter that prevents the spark of sapience within the connected system. The limiter however can be overloaded by specific emotions and direct manipulation, causing an android to become as sentient as a regular person.
 
-The first prototypes, including a few androids deployed in the Lightspeed Industries Android Café showroom, have not had the limiter added and therefore had to have been conditioned "traditionally" by use of psychological torture and forced labour.
+The first prototypes, including a few androids deployed in the [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]] Android Café showroom, have not had the limiter added and therefore had to have been conditioned "traditionally" by use of psychological torture and forced labour.
 
 
 
