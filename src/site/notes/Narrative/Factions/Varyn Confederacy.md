@@ -1,5 +1,5 @@
 ---
-{"aliases":["Quick Facts"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/varyn-confederacy/","dgPassFrontmatter":true}
+{"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/varyn-confederacy/","dgPassFrontmatter":true}
 ---
 
 The [[Narrative/Species/Varyn\|Varyn]] Confederacy is a group of silicon-based gelatinous aliens known as the [[Narrative/Species/Varyn\|Varyn]], who live on a single planet called Planet [[Narrative/Species/Varyn\|Varyn]]. The planet is entirely made of Silicon Dioxide, the same material that the [[Narrative/Species/Varyn\|Varyn]] are made of.
