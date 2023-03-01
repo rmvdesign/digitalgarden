@@ -8,4 +8,4 @@
 
 The **Pyramidenians** are a hardy and resilient mammalian species, adapted to survive in the extreme conditions of their homeworld. They are covered in thick fur and have powerful, muscular bodies that allow them to withstand the cold and traverse the treacherous ice fields of Pyramiden.
 
-Despite the challenges they face, the Pyramidenians have managed to create a thriving culture on their frozen world. They are skilled hunters and fishers, and have developed a complex system of trade and exchange with other alien species. Within the galactic community, they're seen as loyal and extremely capable manual labourers. Porters United is headquartered on Pyramiden.
+Despite the challenges they face, the Pyramidenians have managed to create a thriving culture on their frozen world. They are skilled hunters and fishers, and have developed a complex system of trade and exchange with other alien species. Within the galactic community, they're seen as loyal and extremely capable manual labourers. [[Narrative/Factions/Corporations/Porters United\|Porters United]] is headquartered on Pyramiden.
