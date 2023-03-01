@@ -1,0 +1,19 @@
+---
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/enle-tera/","dgPassFrontmatter":true}
+---
+
+**Enle Tera**, Navarean for "Earth's Bounty", is a private corporation specialising in hydroponics and phytogenetics. The sole patent holder for multiple Ruinous plants, their business model is based on producing said plants and derivative projects of them. They are mainly known for producing coffee beans and selling coffee directly.
+
+Enle Tera operates coffee shops in most large cities and on major stations, which have a cafe and hydroponics facility combined. As opposed to regular coffee shops, Enle Tera coffee shops are also state-of-the-art hydroponics and genetics research facilities, and are staffed with experienced bioengineers to maintain product quality.
+
+Enle Tera was founded on the planet Navareo III, which had a diverse array of plant life that proved to be a fertile ground for experimentation and research in the field of phytogenetics. With a dedicated team of scientists and researchers, Enle Tera quickly made a name for itself as the premier producer of high-quality, genetically-modified coffee beans.
+
+It should be noted that coffee affects Navarean physiology, and that of many other species, quite significantly. Consuming even a small amount of caffeine can act as a potent stimulant, increasing cognitive function, physical performance, and alertness. However, this effect is especially pronounced in [[Narrative/Species/Navareans\|Navareans]], who are particularly sensitive to caffeine. For [[Narrative/Species/Navareans\|Navareans]], even a single cup of coffee can result in heightened senses and a boost in physical and mental capabilities that lasts for several hours.
+
+Interestingly, [[Narrative/Species/Tallisites\|Tallisites]] are not affected by caffeine in the same way as other species. Due to their unique biology, [[Narrative/Species/Tallisites\|Tallisites]] do not experience the same stimulant effects that coffee has on most other species. In fact, some [[Narrative/Species/Tallisites\|Tallisites]] are known to consume large amounts of coffee simply for the taste, without experiencing much of the energising effects that others seek. This has led to some confusion and curiosity among other species, who are fascinated by the [[Narrative/Species/Tallisites\|Tallisites]]' ability to consume caffeine without feeling its effects.
+
+As the corporation grew in size and reputation, it expanded its operations to other planets and systems, often partnering with local governments and institutions to further its research and development efforts. One of its most successful projects involved the development of a new strain of coffee bean that could be grown in low-gravity environments, which opened up new opportunities for space exploration and colonisation.
+
+Enle Tera also began to diversify its offerings, branching out into the development of other Ruinous plants that had potential applications in medicine, biotechnology, and even terraforming. While these projects were not as lucrative as the coffee business, they helped to establish Enle Tera as a leader in the field of phytogenetics and hydroponics.
+
+As the demand for Enle Tera's products and services grew, so did its network of coffee shops and research facilities. Today, Enle Tera operates on dozens of planets and systems, with its coffee shops serving as popular destinations for travelers and locals alike. Each coffee shop features a unique hydroponics facility and genetics lab, staffed by experienced bioengineers who are constantly working to improve the quality and flavor of Enle Tera's products.
