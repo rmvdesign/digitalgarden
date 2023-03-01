@@ -8,4 +8,4 @@
 
 The **Quiri** have developed a unique system of underground cities in order to preserve the surface of their planet for wildlife and natural habitats. These underground cities are connected by a network of tunnels and are powered by renewable energy sources.
 
-In addition to their eco-friendly approach to living, the Quiri are also known for their advanced medical and scientific research. They have made numerous discoveries in the fields of xenogenetics and biotechnology, and their hospitals and research facilities are considered some of the best in the galaxy. [[Narrative/Factions/Theotech, LLC\|Theotech]]'s mechanical augmentation division is almost exclusively led by Quiri.
+In addition to their eco-friendly approach to living, the Quiri are also known for their advanced medical and scientific research. They have made numerous discoveries in the fields of xenogenetics and biotechnology, and their hospitals and research facilities are considered some of the best in the galaxy. [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]]'s mechanical augmentation division is almost exclusively led by Quiri.
