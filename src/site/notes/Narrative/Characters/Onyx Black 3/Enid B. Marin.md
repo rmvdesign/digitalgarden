@@ -10,7 +10,7 @@ Enid was born on Date Line Farmstead in the town of New Anna on the Tallis Date 
 
 Enid comes from a long line of farmers, but was quickly disillusioned by this life. Not wanting to continue the legacy of the Humans and instead being fascinated with the galaxy and the endless solitude of outer space.
 
-At age 20, they went out to the [[Narrative/Factions/Ring Worlds\|Ring Worlds]] to buy a refurbished but pre-owned cargo spaceship she'd later name the Pequod after Captain Ahab's ship. Then, after signing up with [[Narrative/Factions/Porters United\|Porters United]], they started delivering large amounts of goods to lesser-trafficked areas of the galaxy such as the Northern Neutral Zone, EdgeLabs and C-Null space.
+At age 20, they went out to the [[Narrative/Factions/Ring Worlds\|Ring Worlds]] to buy a refurbished but pre-owned cargo spaceship she'd later name the Pequod after Captain Ahab's ship. Then, after signing up with [[Narrative/Factions/Corporations/Porters United\|Porters United]], they started delivering large amounts of goods to lesser-trafficked areas of the galaxy such as the Northern Neutral Zone, EdgeLabs and C-Null space.
 
 Because Enid is a generally confident person and isn't easily intimidated, they don't see the danger in delivering to the Neutral Zone. In fact, they're well liked by Pirates and C-Null operatives for their reliability and discretion. They've also been invited to many parties and hangouts, but have remained independent.
 
