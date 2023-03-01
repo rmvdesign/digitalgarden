@@ -4,7 +4,7 @@
 
 
 
-**Education in the United Worlds** is provided in public schools, private schools, academies, universities and education centres. While the **Council of Education** sets general education standards, the core curriculum is generally expanded with specific additions for homeworlds, colonies, languages and similar specific obligatory programmes. Private schools and private education centres are generally free to detemine their own curriculum and staffing policies, but are subject to standardised testing to provide certification. Some certifications can only be provided by some institutions, like specialist degrees (AM.QEn, SX.Rls, LSc) and require a lengthy certification process.
+**Education in the United Worlds** is provided in public schools, private schools, academies, universities and education centres. While the **Council of Education** sets general education standards, the core curriculum is generally expanded with specific additions for homeworlds, colonies, languages and similar specific obligatory programmes. Private schools and private education centres are generally free to determine their own curriculum and staffing policies, but are subject to standardised testing to provide certification. Some certifications can only be provided by some institutions, like specialist degrees (AM.QEn, SX.Rls, LSc) and require a lengthy certification process.
 
 # Educational stages
 
@@ -53,9 +53,9 @@ Commonly, these five stages are not divided further down to make it easier to st
 -   Ld. Marie Lowsik, LSc - Board member, NAAS
 -   Ld. Mercury, LSc - Board member, NAAS
 -   Ld. Tijona, LSc - Board member, NAAS
--   Ld. [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]], LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
--   Ld. Palla Parvenu, LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
--   Ld. Corie Mouru, LSc - [[Narrative/Factions/Theotech, LLC\|Theotech]] Corporation
--   Ld. [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], LSc - [[Narrative/Factions/Lightspeed Industries\|Lightspeed Industries]]
+-   Ld. [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]], LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
+-   Ld. Palla Parvenu, LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
+-   Ld. Corie Mouru, LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
+-   Ld. [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], LSc - [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]]
 -   Ld. [[Narrative/Characters/The Exchange/Quentin Marcolla\|Quentin Marcolla]], LSc - QEX Quantum Communications, Ltd.
 -   Ld. Katherine Yalgeth, LSc - Yalgeth Labs
