@@ -1,5 +1,5 @@
 ---
-{"aliases":["Quick Facts"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/ring-worlds/","dgPassFrontmatter":true}
+{"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"","permalink":"/narrative/factions/ring-worlds/","dgPassFrontmatter":true}
 ---
 
 The **Ring Worlds** are a region of space located on the western outer edge of the known galaxy. This region is inhabited by a species of reptilians known as the **Ring Dwellers**. These beings are highly advanced and have developed a hypercapitalistic society in which the pursuit of wealth and power is the driving force.
