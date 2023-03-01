@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/enle-tera/","dgPassFrontmatter":true}
 ---
 
-**Enle Tera**, Navarean for "Earth's Bounty", is a private corporation specialising in hydroponics and phytogenetics. The sole patent holder for multiple Ruinous plants, their business model is based on producing said plants and derivative projects of them. They are mainly known for producing coffee beans and selling coffee directly.
+**Enle Tera**, Navarean for "Earth's Bounty", is a private corporation specialising in hydroponics and phytogenetics. The sole patent holder for multiple [[Narrative/Concepts/Ruinous Objects\|Ruinous]] plants, their business model is based on producing said plants and derivative projects of them. They are mainly known for producing coffee beans and selling coffee directly.
 
 Enle Tera operates coffee shops in most large cities and on major stations, which have a cafe and hydroponics facility combined. As opposed to regular coffee shops, Enle Tera coffee shops are also state-of-the-art hydroponics and genetics research facilities, and are staffed with experienced bioengineers to maintain product quality.
 
@@ -14,6 +14,6 @@ Interestingly, [[Narrative/Species/Tallisites\|Tallisites]] are not affected by 
 
 As the corporation grew in size and reputation, it expanded its operations to other planets and systems, often partnering with local governments and institutions to further its research and development efforts. One of its most successful projects involved the development of a new strain of coffee bean that could be grown in low-gravity environments, which opened up new opportunities for space exploration and colonisation.
 
-Enle Tera also began to diversify its offerings, branching out into the development of other Ruinous plants that had potential applications in medicine, biotechnology, and even terraforming. While these projects were not as lucrative as the coffee business, they helped to establish Enle Tera as a leader in the field of phytogenetics and hydroponics.
+Enle Tera also began to diversify its offerings, branching out into the development of other [[Narrative/Concepts/Ruinous Objects\|Ruinous]] plants that had potential applications in medicine, biotechnology, and even terraforming. While these projects were not as lucrative as the coffee business, they helped to establish Enle Tera as a leader in the field of phytogenetics and hydroponics.
 
 As the demand for Enle Tera's products and services grew, so did its network of coffee shops and research facilities. Today, Enle Tera operates on dozens of planets and systems, with its coffee shops serving as popular destinations for travelers and locals alike. Each coffee shop features a unique hydroponics facility and genetics lab, staffed by experienced bioengineers who are constantly working to improve the quality and flavor of Enle Tera's products.
