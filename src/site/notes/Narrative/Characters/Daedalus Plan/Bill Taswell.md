@@ -9,7 +9,7 @@ The practical embodiment of the rich grounder stereotype, Executive Editor Winfr
 
 # Physical description
 
-Bill is a Tallisite man in his thirties. He's about 5'9, a little bit on the chubby side and wears his brown hair in a regular haircut. He likes to wear white button-down shirts and denim or corduroy pants with loafers, but no socks. He also wears a pair of rectangular glasses to correct his myopia, and as these glasses are "his style", he doesn't consider laser correction or augmentation to correct his vision impairment permanently. He also regularly shaves his facial hair, leaving behind a very short stubble. During [[Phyrra's Spark\|Phyrra's Spark]], he lets his moustache grow out.
+Bill is a Tallisite man in his thirties. He's about 5'9, a little bit on the chubby side and wears his brown hair in a regular haircut. He likes to wear white button-down shirts and denim or corduroy pants with loafers, but no socks. He also wears a pair of rectangular glasses to correct his myopia, and as these glasses are "his style", he doesn't consider laser correction or augmentation to correct his vision impairment permanently. He also regularly shaves his facial hair, leaving behind a very short stubble. During [[Narrative/Narration/Phyrra's Spark\|Phyrra's Spark]], he lets his moustache grow out.
 
 # Personality
 
