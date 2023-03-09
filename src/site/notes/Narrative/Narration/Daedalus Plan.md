@@ -1,16 +1,9 @@
 ---
-{"aliases":["DP","OB1","Onyx Black 1"],"tags":null,"dg-publish":true,"permalink":"/narrative/narration/daedalus-plan/","dgPassFrontmatter":true}
+{"aliases":["DP","OB1"],"tags":null,"dg-publish":true,"permalink":"/narrative/narration/daedalus-plan/","dgPassFrontmatter":true}
 ---
 
-# Plot Synopsis
-
-[[Narrative/Factions/Interstellar Police Department\|ISPD]] Detective [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana Terry Atwood]] and her partner [[Narrative/Characters/Daedalus Plan/Chase\|Chase]] investigate a series of seemingly unrelated suicides of cybernetically augmented people. During their work, an act of war throws the galaxy in disarray. Together with [[Narrative/Characters/Daedalus Plan/Officer Fillion\|Fillion]], a war veteran from Envilles, and [[Narrative/Characters/Daedalus Plan/Charlie\|Charlie]], a young augmentation designer with a mysterious past, Morgana uncovers a conspiracy that's much larger than anyone could have ever foreseen.
-
-# Detailed Plot Synopsis
 
 ```chat
-{mw=90,mode=minimal}
-[Morgana & Chase=red, Fillion & Galathea=green]
 # Act 1
 < Morgana & Chase | Morgana lives and works for the ISPD at Precinct 21-A.
 > Fillion & Galathea | Fillion is a security officer on Galathea after he deserted from the Navy.
