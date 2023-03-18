@@ -11,3 +11,4 @@ Despite its small size, Iris is home to a diverse range of plant and animal life
 The inhabitants of Iris are a peaceful, communal people. They have a strong connection to the natural world, and they place a high value on harmony and cooperation. They live in small villages and towns, and they rely on each other for support and assistance.
 
 While they are part of the galactic community, they are - perhaps paradoxically - not very interested in exploring outer space. While they are not naturalistic or opposed to the scientific method, they do value discovery on their homeworld as opposed to space.
+
