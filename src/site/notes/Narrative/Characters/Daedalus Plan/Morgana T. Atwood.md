@@ -3,7 +3,7 @@
 ---
 
 
-Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner [[Narrative/Characters/Daedalus Plan/Chase\|Chase]]. One of [[Narrative/Concepts/The Parallel Descendants\|The Parallel Descendants]].
+Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, Morgana Terry Atwood is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner [[Narrative/Characters/Daedalus Plan/Chase\|Chase]]. One of [[Narrative/Concepts/Folklore/The Parallel Descendants\|The Parallel Descendants]].
 
 
 # Physical description
