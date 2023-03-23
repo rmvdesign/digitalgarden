@@ -1,10 +1,12 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Theodore Rose","Role":"Tree","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/wb-characters/theo-rose/","dgPassFrontmatter":true}
+{"aliases":"Theodore Rose","tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Theodore Rose","Role":"Tree","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/wb-characters/theo-rose/","dgPassFrontmatter":true}
 ---
 
 **Theodore "Theo" Rose** (born -36 on Tallis, died 52 on New Tallis) is the CEO and founder of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]], the largest and most influential technology company in the known galaxy. Born into a wealthy Tallisite family, Rose received a substantial sum of seed money from his parents to start his own company.
 
-After graduating top of his class at the Tallis University for Facsimiles and Analogues with a degree in analogue carpentry and astrosimiles, Rose founded [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] in -12. The company initially focused on the development and manufacturing of spacefaring analogues, but quickly switched to developing digital computers after securing the rights to semiconductor manufacturing.
+After graduating top of his class at the Tallis University for [[Narrative/Concepts/Science/Facsimile\|Facsimiles]] and Analogues with a degree in analogue carpentry and astrosimiles, Rose founded [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] in -12. In addition to simile development, Rose had a vested interest in physics, developing a chemical refinement method to turn raw [[Narrative/Concepts/Science/Theorium\|Theorium]] into [[Narrative/Concepts/Science/Theodyne\|Theodyne]]. 
+
+The company initially focused on the development and manufacturing of spacefaring analogues, but quickly switched to developing digital computers after securing the rights to semiconductor manufacturing.
 
 Under Rose's leadership, [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] has expanded into a wide range of technologies, including artificial intelligence, robotics, virtual reality, and space exploration. The company is known for its cutting-edge research and development, as well as its aggressive business tactics and monopolistic practices.
 
