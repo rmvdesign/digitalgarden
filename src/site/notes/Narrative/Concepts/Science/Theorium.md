@@ -16,9 +16,9 @@ Theorium is a crystalline substance with a structure similar to bismuth. Its iri
 
 [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] developed a process to refine raw Theorium into a potent fuel known as [[Narrative/Concepts/Science/Theodyne\|Theodyne]]. When diluted, [[Narrative/Concepts/Science/Theodyne\|Theodyne]] serves as an exceptional energy source for cold fusion, powering starships and remote installations where renewable resources are scarce. In its purest form, [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100, the substance can generate coherence fields, which allow for the alteration of reality's fundamental constants.
 
-## [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]] and Realistics
+## [[Applied Reality Theory\|Applied Reality Theory]] and Realistics
 
-The study and application of Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 led to the development of a new scientific discipline known as [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]], or Realistics. This field explores the myriad possibilities offered by [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 and its ability to bend the rules of reality. Among its most remarkable applications is the advent of faster-than-light (FTL) travel, which is achieved by temporarily increasing the speed of light within coherence fields.
+The study and application of Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 led to the development of a new scientific discipline known as [[Applied Reality Theory\|Applied Reality Theory]], or Realistics. This field explores the myriad possibilities offered by [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 and its ability to bend the rules of reality. Among its most remarkable applications is the advent of faster-than-light (FTL) travel, which is achieved by temporarily increasing the speed of light within coherence fields.
 
 ## Applications
 
