@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/navareo-system/","dgPassFrontmatter":true}
 ---
 
-![[nav.png\|nav.png]]
+![nav.png](/img/user/Resources/planetcards/nav.png)
 
 The **Navareo star system** is home to the Navarean species and the center of operations for the [[Narrative/Factions/Navareo Empire\|Navareo Empire]]. It consists of five planets, four of which are capable of supporting life and have independently developed Navarean civilizations. The orbit of the fifth planet, Navareo V, is home to the [[Narrative/Locations/Arcology Six\|Vi Station]], an arcology located on the lagrange point L3.
 
