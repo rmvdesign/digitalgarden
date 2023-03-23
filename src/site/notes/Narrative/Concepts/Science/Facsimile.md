@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/facsimile/","dgPassFrontmatter":true}
 ---
 
-**Facsimiles** are a class of analogue computers that were widely used in the galaxy for various applications, including calculating flight trajectories and performing meteorological forecasts. The most prominent and advanced versions of these devices were the Astrosimiles, which played a crucial role in the early stages of space exploration and colonisation. With the discovery of digital computing technology among the ruins of Earth, Facsimiles evolved into hybrid systems called Digisimiles, which revolutionised space travel and exploration.
+**Facsimiles** are a class of analogue computers that were widely used in the galaxy for various applications, including calculating flight trajectories and performing meteorological forecasts. The most prominent and advanced versions of these devices were the Astrosimiles, which played a crucial role in the early stages of space exploration and colonisation. With the discovery of digital computing technology among the [[Narrative/Concepts/History/Death of Earth\|ruins of Earth]], Facsimiles evolved into hybrid systems called Digisimiles, which revolutionised space travel and exploration.
 
 ## History
 
