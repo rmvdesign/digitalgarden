@@ -11,6 +11,6 @@ Navareans are highly resistant to radiation damage in their DNA and mutations. T
 
 # Chronology
 
-Scientists still debate as to the origin of Navarean life. The predominant theory is that of precursor comets, large celestial objects that carry organic compounds known as evolution starters, being responsible for the beginnings of organic like on these homeworlds. This theory is partially proven and disproven simultaneously by the existence of the Talos-Terra link.
+Scientists still debate as to the origin of Navarean life. The predominant theory is that of precursor comets, large celestial objects that carry organic compounds known as evolution starters, being responsible for the beginnings of organic like on these homeworlds. This theory is partially proven and disproven simultaneously by the existence of the Tallis-Earth link.
 
 According to radiometric dating estimation and other evidence, the Navarean Chain (the name for the collection of five planets within the habitable zone of the star Navareo) formed over 6.2 billion standard years ago. Within the first billion years of the Navarean Chain's history, atmospheres and protective atmospheric layers did not exist and were generated approximately 1.3 billion years after the planet's creation by the introduction of organic compounds and certain _alphabacteria._ These organisms are able to provide oxygenation through a process similar to photosynthesis, which over the course of several years provided the worlds in the chain with a habitable atmosphere.
