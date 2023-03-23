@@ -21,7 +21,7 @@ All notes are linked to one another in some way or another. Here are a few notes
 
 [[Narrative/Species/Navareans\|Navareans]] - the most populous species in the galaxy, heralding from the Navareo system.
 
-[[Narrative/Concepts/Folklore/The Parallel Descendants\|The Parallel Descendants]] - Of course there's chosen ones!
+[[The Parallel Descendants\|The Parallel Descendants]] - Of course there's chosen ones!
 
 ---
 
