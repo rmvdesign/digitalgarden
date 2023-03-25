@@ -8,6 +8,6 @@ He lives on the Champs-Elysees with his father. This in itself it unheard of, as
 
 # Personality
 
-Connor is a very reserved person. Due to his social anxiety he rarely gets outside, and even at school he doesn't have many friends in the beginning. Gwen helps him to get over this lack of friends and teaches him the value of friendship.
+Connor is a very reserved person. Due to his social anxiety he rarely gets outside, and even at school he doesn't have many friends in the beginning. Gwen helps him to get over this lack of friends and teaches him the value of friendship. He develops a crush on [[Narrative/Characters/Welcome to the Flipside/Memory\|Memory]].
 
 His relationship to his father however couldn't be worse. [[Narrative/Characters/Welcome to the Flipside/PM Pierce\|PM Pierce]] is not only a workaholic and thus doesn't have much time to spend time with his son. Connor also disagrees with many of his conservative policies, and grows to resent him and his emotional distance very much.
