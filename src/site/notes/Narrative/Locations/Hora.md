@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/hora/","dgPassFrontmatter":true}
 ---
 
-**Hora** is a unique, terraformed planet in the galaxy, created as a showcase of both advanced terraforming technology and a demonstration of the potential for interspecies collaboration in the aftermath of the [[Narrative/Concepts/History/Martian Backup\|Martian Backup]]'s decryption. Conceived and developed by the Tallisite terraforming laboratory, Yalgeth Labs, Hora was transformed from a rogue wasteland planet into a lush, vibrant haven.
+**Hora** is a unique, terraformed planet in the galaxy, created as a showcase of both advanced terraforming technology and a demonstration of the potential for interspecies collaboration in the aftermath of the [[Narrative/Concepts/History/Martian Backup\|Martian Backup]]'s decryption. Conceived and developed by the Tallisite terraforming laboratory, Yalgeth Labs, Hora was transformed from a rogue wasteland planet into a lush, vibrant haven. It is located within the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]].
 
 The project aimed to symbolically apologise to nature for the harm caused by reckless exploitation of resources, particularly fossil fuels. It also sought to ensure that such mistakes were not repeated by encouraging sustainable practices and the responsible use of technology. This newly-established world brought together the collective knowledge of multiple galactic species in its planning and creation.
 
