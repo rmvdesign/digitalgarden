@@ -2,7 +2,6 @@
 {"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":null,"permalink":"/narrative/species/navareans/","dgPassFrontmatter":true}
 ---
 
-
 Navareans (N. primus) are the only sapient species on the Navarean worlds, and as such are the primary intelligent species in the [[Narrative/Factions/Navareo Empire\|Navareo Empire]]. Navareans are classes as planetary animals characterised by their humanoid stature which is visually remarkably similar to their evolutionary analogue in the PC-3 evotrail.
 
 The primary difference between the humanoids of the PC-3 (Eris, Sol) and PC-1 (Navareo) evotrails is the internal structure of their organisms: Whereas [[Narrative/Species/Tallisites\|Tallisites]](T. primus) and Terrans (H. sapiens) have a simple cardiovascular system supplying the body with oxygen using hemoglobin as an iron-based oxygen transport protein, the Navarean cardiovascular system runs at much lower pressure using two smaller hearts in both sides of the body. This also makes the Navarean body run at much lower temperatures and much lower overall power, requiring less calorie intake and less oxygen. In fact, the oxygen transport protein in Navareans is hemerythrin, which contrary to its PC-3 analogue hemoglobin not only causes oxygenated blood to appear purple, but also operate a quarter of the oxygen saturation efficiency.
