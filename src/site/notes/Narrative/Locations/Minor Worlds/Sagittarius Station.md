@@ -4,7 +4,7 @@
 
 
 
-**Sagittarius Station** is a space-based settlement located in the vicinity of the supermassive black hole at the centre of the galaxy. It is home to a diverse population of scientists, mystics, and seekers who are drawn to the black hole's enigmatic properties. Sagittarius Station is also the home base of the **Milkwalkers**.
+**Sagittarius Station** is a space-based settlement located in the vicinity of the supermassive black hole at the centre of the galaxy. It is home to a diverse population of scientists, mystics, and seekers who are drawn to the black hole's enigmatic properties. Sagittarius Station is also the home base of the **Milkwalkers**. It is also directly connected to [[Narrative/Concepts/Society/The HyperMetro\|the HyperMetro]], and was originally planned as a transfer station for multiple smaller worlds, who ended up not joining [[Narrative/Factions/The World Unity\|the World Unity]]. 
 
 The Milkwalkers are known for their unorthodox beliefs and practices, which revolve around the worship of the black hole and the pursuit of enlightenment through its cosmic energy.
 
