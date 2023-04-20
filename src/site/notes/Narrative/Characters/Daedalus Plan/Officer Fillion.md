@@ -5,8 +5,6 @@
 
 A classic satellitist, Fillion grew up in poverty and squalor on the Navarean colony Envilles. His parents were simple workers, hard labourers that worked in the mining facility of Perigard, the capital city of Envilles. As an adult, he joined the Navy in search of an honourable profession that would net him money and respect, but deserted after a traumatic mission that left him the only remaining alive member of his squad.
 
-![http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/screenshot-2022-11-04-at-02-20-36.png](http://wiki.rmv.fyi/uploads/images/gallery/2022-11/scaled-1680-/screenshot-2022-11-04-at-02-20-36.png)
-
 # Physical description
 
 Fillion is a satellitist. Due to the low gravity and terrible medical systems on his homeworld of Envilles, his bones and muscles have developed stagnantly, causing him to be inhumanly tall at almost 7'3" (220 cm). He is a Navarean, has teal-green hair that's made into a slick back, and unkempt stubble he wears because he thinks it makes him look ruggedly handsome. Fillion is augmented. In an atmospheric flight, he lost control of his ship and crashed onto the surface, leaving the right side of his face heavily scarred and his right eye critically injured.
@@ -17,7 +15,7 @@ Even though he does not like the idea of body augmentation, he likes it more tha
 
 Fillion is a gruff hard-boiled veteran who has seen his fair share of battle. After losing his squad, he has developed C-PTSD and is generally distrustful of all authority. It is hard for him to develop a friendship (or a relationship of any kind, for that matter).
 
-During his work aboard [[Narrative/Locations/Galathea Station\|Galathea station]], he kept up a respectful relationship with the chief of security and something that could arguably be considered a friendship with security officer Harvey Dale.
+During his work aboard [[Narrative/Locations/Galathea Station\|Galathea station]], he kept up a respectful relationship with the chief of security and something that could arguably be considered a friendship with security officer [[Narrative/Characters/Daedalus Plan/Harvey Dale\|Harvey Dale]].
 
 Over the events of Onyx Black, he learns to trust the people around him and even forms a friendship with [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill Taswell]]. He is envious of [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill]]'s seemingly perfect life, and because of that, he is willing to protect [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill]] with his life.
 
