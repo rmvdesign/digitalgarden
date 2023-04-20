@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/species/tallisites/","dgPassFrontmatter":true}
 ---
 
-The Tallisites (T. sapiens) are a humanoid species native to the planet Tallis, located in the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. They are genetically similar to humans (H. sapiens), with some minor differences that allow them to thrive in the low UV radiation environment of their homeworld.
+The Tallisites (T. sapiens) are a humanoid species native to the planet [[Narrative/Locations/Tallis\|Tallis]], located in the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. They are genetically similar to humans (H. sapiens), with some minor differences that allow them to thrive in the low UV radiation environment of their homeworld.
 
 Tallisites are known for their unique appearance, with pale skin and deep brown hair. They also tend to be taller and thinner than humans, with a more slender build. Despite these differences, Tallisites and humans are theoretically able to interbreed and produce healthy offspring.
 
