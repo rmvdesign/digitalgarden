@@ -3,7 +3,7 @@
 ---
 
 
-**The Church of the Sundom** is the primary religious institution of the Tallisites, based on their devotion to the sun deity Eris. As the sun plays a vital role in the physical and cultural life of the Tallisite people, the Church of the Sundom occupies a significant place in their society.
+**The Church of the Sundom** is the primary religious institution of the [[Narrative/Species/Tallisites\|Tallisites]], based on their devotion to the sun deity Eris. As the sun plays a vital role in the physical and cultural life of the Tallisite people, the Church of the Sundom occupies a significant place in their society.
 
 In addition to overseeing worship services and maintaining religious buildings known as Solar Sanctuaries, the church is also responsible for observing important celestial events and determining the dates of various festivals and rituals throughout the year. Some of the most significant celebrations include the Brightest Day Feast and the Tidal Storm ceremonies, during which followers of the church gather together to perform rituals, give offerings, and seek guidance from Eris.
 
