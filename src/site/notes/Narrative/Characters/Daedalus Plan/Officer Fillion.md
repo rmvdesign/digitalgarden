@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Fillion","Role":"Protagonist","Species":"Navarean","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/officer-fillion/","dgPassFrontmatter":true}
+{"aliases":"Fillion","tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Fillion","Role":"Protagonist","Species":"Navarean","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/officer-fillion/","dgPassFrontmatter":true}
 ---
 
 
