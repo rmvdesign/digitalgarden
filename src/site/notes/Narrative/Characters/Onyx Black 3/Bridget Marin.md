@@ -2,6 +2,12 @@
 {"aliases":"Bridget","tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Bridget Marin","Role":"Dreamer","Species":"Navarean","Gender":"Cis Woman","permalink":"/narrative/characters/onyx-black-3/bridget-marin/","dgPassFrontmatter":true}
 ---
 
-Former [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] researcher and programmer Bridget Marin is [[Narrative/Characters/Onyx Black 3/Enid B. Marin\|Enid B. Marin]]'s wife and lives with her on the Pequod. 
+Bridget Marin is a former [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] employee, programmer, and AI researcher, best known for her expertise in applied machine learning and learning network design. Born into an intellectual family, Bridget quickly rose through the ranks of academia to achieve great heights.
 
-Born and raised on Navareo III, Bridget is 
+Bridget completed her SX (Specialised Expert) degree in Applied Machine Learning before being sponsored by [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] to pursue an AM (Academic Master) degree in Learning Network Design. As part of her research for the company, she was interned at the deep space research facility, [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] EdgeLabs.
+
+However, Bridget soon became disillusioned with the mundane nature of her work at EdgeLabs. Approximately six months into her internship, she made the decision to leave the facility and seek out new horizons. It was during this time that she crossed paths with porter [[Narrative/Characters/Onyx Black 3/Enid B. Marin\|Enid B. Marin]], who was resupplying the station. Bridget requested a lift back down the well from [[Narrative/Characters/Onyx Black 3/Enid B. Marin\|Enid]], and the two ultimately fell in love on their ten-day journey through the cosmos.
+
+Bridget has a passion for tinkering and improving devices, with her most notable accomplishment being the development of a pair of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] FrameLink smart glasses. The glasses, originally scheduled for cancellation by [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] during development, were resurrected and transformed into a viable product by Bridget's unwavering commitment to their potential. She wears them nearly all the time and has a string attached to the glasses to prevent misplacement.
+
+Together with her partner [[Narrative/Characters/Onyx Black 3/Enid B. Marin\|Enid]], Bridget now plays an active role in improving the Pequod, their shared cargo spaceship, and working on independent projects. Her technical prowess and innovative spirit, combined with [[Narrative/Characters/Onyx Black 3/Enid B. Marin\|Enid]]'s free-spirited charm, have made the couple a well-known and well-liked oddity in the neutral zone.
