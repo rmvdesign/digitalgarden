@@ -3,7 +3,6 @@
 ---
 
 
-
 **Pulaski** is a planet located on the outer rim of the known galaxy. It is known for its diverse and exotic alien species, including the Pulaskians, a sapient species with a unique form of biology. Its atmosphere is, in a near perfect 1:1 ratio, argon and oxygen.
 
 The **Pulaskians** are a bipedal species with a slender, insect-like appearance. They have elongated bodies covered in a chitinous exoskeleton, which protects them from the harsh environmental conditions of Pulaski. Their bodies are segmented, with each segment containing a specialized organ or function.
