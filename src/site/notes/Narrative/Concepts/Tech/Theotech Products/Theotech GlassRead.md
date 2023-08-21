@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"Type":"Computer","Target Market":["Consumer"],"permalink":"/narrative/concepts/tech/theotech-products/theotech-glass-read/","dgPassFrontmatter":true}
 ---
 
-The [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] GlassRead is a transparent tablet designed specifically for reading newspaper articles and other printed media. Made of clear polycarbonate, the GlassRead allows users to read their favorite print publications in a digital format without sacrificing the feel of holding a physical newspaper.
+The [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] GlassRead is a transparent tablet designed specifically for reading newspaper articles and other printed media. Made of frosted polycarbonate with a hard plastic frame, the GlassRead allows users to read their favourite print publications in a digital format without sacrificing the feel of holding a physical newspaper. It is a low-power device using liquid crystal arrays to display text and images on the frosted surface, and is usually updated twice a day through the radio in the microprocessor assembly in the frame. Due to not having an internal backlight, the power consumption is very low and lasts for nearly 50 days on a charge. 
 
 The GlassRead was commissioned by the [[Narrative/Factions/Corporations/Inter Planet Indicator\|Inter Planet Indicator]], the largest newspaper in the known galaxy, and remains the primary client for the device. However, other magazines and publications can also use the GlassRead P, a variant of the original device that is formatted to accommodate different page sizes and layouts.
 
