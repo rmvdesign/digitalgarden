@@ -2,7 +2,7 @@
 {"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"","permalink":"/narrative/factions/ring-worlds/","dgPassFrontmatter":true}
 ---
 
-The **Ring Worlds** are a region of space located on the western outer edge of the known galaxy. This region is inhabited by a species of reptilians known as the **Ring Dwellers**. These beings are highly advanced and have developed a hypercapitalistic society in which the pursuit of wealth and power is the driving force.
+The **Ring Worlds** are a region of space located on the western outer edge of the known galaxy. This region is inhabited by a species of reptilians known as the **Ring Dwellers**. These beings are highly advanced and have developed a hyper capitalist society in which the pursuit of wealth and power is the driving force.
 
 The Ring Dwellers once lived on planets that were rich in valuable Theorium, the precursor to fusion fuel and reality catalyst Theodyne. This ore is highly sought after by other species for its unique properties, and the Ring Dwellers exploited their planets' resources to extract as much Theorium as possible. However, their mining operations were highly destructive, and over time, the Ring Dwellers' homeworlds were reduced to ruins.
 
