@@ -6,7 +6,7 @@ Invented by [[Narrative/Characters/WB Characters/Theo Rose\|Theo Rose]], founder
 
 Quantum entanglement is a phenomenon in which two particles become linked together, such that the state of one particle can affect the other instantaneously, regardless of the distance between them. This phenomenon, which was first predicted by Human scientist Albert Einstein, is one of the most mysterious and fascinating aspects of quantum mechanics.
 
-In the Quantum Network, the Quantum Grids are used to create and maintain this entanglement between particles. By manipulating the state of the particles on one grid, it is possible to instantaneously affect the particles on the other grid, even if they are separated by vast distances. This allows for the transmission of binary information – essentially, the sending of ones and zeros – over any distance.
+In the Quantum Network, the Quantum Grids are used to create and maintain this entanglement between particles. By manipulating the state of the particles on one grid, it is possible to instantaneously affect the particles on the other grid, even if they are separated by vast distances. This allows for the transmission of binary information – essentially, the sending of ones and zeros as well as analogue signals – over any distance.
 
 In addition to the Quantum Grids, the Quantum Network also relies on large server facilities called Quantum Exchanges. These facilities house and maintain all of the Quantum Grids on several planets, and are responsible for connecting them to the PlaNet computer network.
 
