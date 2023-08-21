@@ -15,7 +15,7 @@ Even though he does not like the idea of body augmentation, he likes it more tha
 
 Fillion is a gruff hard-boiled veteran who has seen his fair share of battle. After losing his squad, he has developed C-PTSD and is generally distrustful of all authority. It is hard for him to develop a friendship (or a relationship of any kind, for that matter).
 
-During his work aboard [[Narrative/Locations/Galathea Station\|Galathea station]], he kept up a respectful relationship with the chief of security and something that could arguably be considered a friendship with security officer [[Narrative/Characters/Daedalus Plan/Harvey Dale\|Harvey Dale]].
+During his work aboard [[Narrative/Locations/Worlds/Galathea Station\|Galathea station]], he kept up a respectful relationship with the chief of security and something that could arguably be considered a friendship with security officer [[Narrative/Characters/Daedalus Plan/Harvey Dale\|Harvey Dale]].
 
 Over the events of Onyx Black, he learns to trust the people around him and even forms a friendship with [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill Taswell]]. He is envious of [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill]]'s seemingly perfect life, and because of that, he is willing to protect [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill]] with his life.
 
