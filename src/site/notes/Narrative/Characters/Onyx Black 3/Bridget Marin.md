@@ -1,5 +1,5 @@
 ---
-{"aliases":"Bridget","tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Bridget Marin","Role":"Dreamer","Species":"Navarean","Gender":"Cis Woman","permalink":"/narrative/characters/onyx-black-3/bridget-marin/","dgPassFrontmatter":true}
+{"aliases":"Bridget","tags":["Biography"],"dg-publish":true,"Pronouns":"she/her","Full Name":"Bridget Marin","Role":"Dreamer","Species":"Navarean","Gender":"Cis Woman","permalink":"/narrative/characters/onyx-black-3/bridget-marin/","dgPassFrontmatter":true}
 ---
 
 Bridget Marin is a former [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] employee, programmer, and AI researcher, best known for her expertise in applied machine learning and learning network design. Born into an intellectual family, Bridget quickly rose through the ranks of academia to achieve great heights.
