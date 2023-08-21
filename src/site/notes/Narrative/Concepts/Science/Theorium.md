@@ -6,7 +6,7 @@ Theorium is an exotic, iridescent, and translucent crystalline material with the
 
 ## Origin and Discovery
 
-In a universe created by random chance, the emergence of life sent deterministic ripples, known as coherence waves, throughout spacetime. As these coherence waves collided and intertwined, they created the exotic material known as Theorium. [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]], a physicist at the prestigious Tallis Institute, first discovered this enigmatic crystal and recognised its potential to reshape the understanding of reality.
+In a universe created by random chance, the emergence of life sent deterministic ripples, known as coherence waves, throughout spacetime. As these coherence waves collided and intertwined, they created the exotic material known as Theorium. [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]], a physicist at the prestigious Tallis Institute, first discovered this enigmatic crystal and recognised its potential to reshape the understanding of reality while on an interplanetary trip in the Tallisite solar system.
 
 ## Properties and Characteristics
 
