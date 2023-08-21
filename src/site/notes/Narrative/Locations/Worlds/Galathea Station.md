@@ -1,7 +1,13 @@
 ---
-{"aliases":"Galathea","tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
 ---
 
+
+---
+aliases: Galathea
+tags: 
+dg-publish: true
+---
 Galathea Station, formerly known as Research Platform 55 (RP-55), is the second biggest public space station after [[Narrative/Locations/Arcology Six\|Arcology Six]]. It is a vast space station complex that's about two kilometres in length and one in width at the widest point. Using plasma thrusters, the station pushes against the gravity of the black hole below, providing a usable gravity of about .2g at the lowest and .15g at the highest point. 
 
 It's home to about 200 000 people and it supplied with water and food synthesis materials from several private hauling companies. Water is provided by hauling large chunks of ice harvested from asteroids, while food, especially fresh produce, is provided by colonies like Airesem and Ten'serrat. Both of these are Navarean colonies and were chosen for their close proximity to the station. A full haul providing food for the entire station lasts about one week and can be transported in two to three days.
