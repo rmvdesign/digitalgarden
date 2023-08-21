@@ -18,10 +18,6 @@ There are several variants of Theodyne, each with its own unique properties, app
 
 Theodyne-100 has enabled the development of faster-than-light (FTL) travel by generating coherence fields in which the speed of light is temporarily increased. This allows spacecraft to traverse vast interstellar distances without violating the universal light-speed limit, transforming space exploration and interstellar travel.
 
-### Gravity Manipulation
-
-Through the use of Theodyne-100, scientists have been able to manipulate gravity, creating artificial gravity fields for habitats in space, as well as negating gravity for transportation and construction purposes.
-
 ### Advanced Materials Engineering
 
 The reality-altering properties of Theodyne-100 have been harnessed to create materials with extraordinary properties, such as super-strong alloys and self-repairing structures, leading to advancements in architecture, transportation, and defence technologies.
