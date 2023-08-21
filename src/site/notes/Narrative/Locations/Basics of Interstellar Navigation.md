@@ -12,7 +12,7 @@ At the heart of interstellar navigation are three linear coordinates: Ascension,
 
 **Ascension** (Asc/A) replaces traditional longitudinal measurements, indicating the horizontal direction of a point in the galaxy relative to the Galactic Core, the pulsating anchor amidst the cosmic sea. It is commonly measured in 
 
-- **Degrees** (Aº)
+- **Degrees** (Aº ranging from 0 to 360)
 - **Arc-hours** (\*, 1/10 of 1º) 
 - **Arc-minutes** (', 1/100 of 1*) and 
 - **Arc-seconds** (", 1/100 of 1'). 
@@ -23,7 +23,7 @@ In layman's terms, we pick a direction - like the hand of a clock - in which we 
 
 **Declination** (Dec/D) offers a substitute for latitudinal measurements, showing the vertical alignment of a point with reference to the galaxy’s Planar Middle, an imaginary equatorial plane bisecting the galaxy. It is commonly measured in
 
-- **Degrees** (Dº)
+- **Degrees** (Dº - ranging from -90 to 90)
 - **Arc-hours** (\*, 1/10 of 1º) 
 - **Arc-minutes** (', 1/100 of 1*) and 
 - **Arc-seconds** (", 1/100 of 1'). 
@@ -40,7 +40,14 @@ Using Ascension and Declination from the galactic core, we have constructed an i
 - **Microparallaxes** (µPc, 1/1000 of 1 mPc)
 - **Nanoparallaxes** (nPc, 1/1000 of 1 µPc)
 
-One nPc is approximately 31000 Kilometres.
+delimited by apostrophes with trailing zeroes omitted ('). One nPc is approximately 31000 Kilometres.
+# Interstellar Coordinates
+
+The correct format for interstellar coordinates is A(Unit)D(Unit)R(Unit). Some examples include:
+
+[[Narrative/Locations/Worlds/Navareo\|Navareo]] - A(228º5\*22'99")D(3º0\*11'41")R(1'272'997)
+[[Narrative/Locations/Worlds/Tallis\|Tallis]] - A(265º8\*71'03")D(-17º4\*53'20")R(7'615'106)
+[[Narrative/Locations/Worlds/Galathea Station\|Galathea Station]] - A(165º2\*41'87")D(56º1\*72'97")R(0'000'087'211) 
 # Interstellar Directions
 
 To encapsulate each of the six directions in this coordinate system succinctly, each movement in Ascension, Declination and Radius has its own shorthand: Spinward and Trailward (Ascension), Zenithward and Nadirward (Declination), and Coreward and Rimward (Radius).
