@@ -15,7 +15,7 @@ Shortly after the cloning process, they were spaced by [[Narrative/Characters/Da
 
 # Personality
 
-Charlie is incredibly childish and short-sighted. Due to the arrested development brought on by the accelerated cloning process, Charlie is - mentally, at least - still very much a young child. However, they are still sapient and more or less intelligent. They have passed the Lightspeed Regulation Test and are therefore granted full human rights and complete legal accountability, practically being of legal age at the physical age of only three years during the events of [[Narrative/Characters/Daedalus Plan/Daedalus Plan\|OB1]].
+Charlie is incredibly childish and short-sighted. Due to the arrested development brought on by the accelerated cloning process, Charlie is - mentally, at least - still very much a young child. However, they are still sapient and more or less intelligent. They have passed the Lightspeed Regulation Test and are therefore granted full human rights and complete legal accountability, practically being of legal age at the physical age of only three years during the events of [[Narrative/Narration/Daedalus Plan\|OB1]].
 
 Charlie prefers to act before thinking. Undeniably, they are a natural in the field of cybernetic augmentation, but that doesn't mean that they act any less irrational. Their motto is "Thinking about it has never helped anyone", and they act accordingly.
 
