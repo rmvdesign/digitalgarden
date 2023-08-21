@@ -3,6 +3,14 @@
 ---
 
 
+
+
+---
+aliases: 
+tags: 
+dg-publish: true
+---
+
 ![](/img/user/Resources/planetcards/tallis.png)
 
 Tallis is a tidally locked planet situated in the Eris star system, notable for being the only celestial body orbiting its host star. The illuminated hemisphere is predominantly inhabited, with a majority of settlements located there, including the bustling capital, [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/Tallis City\|Tallis City]]. Rather than occupying the zenith point, the metropolis lies further towards the planet's terminator, which is known as the Tallis Date Line. 
