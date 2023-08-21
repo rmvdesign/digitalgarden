@@ -1,5 +1,5 @@
 ---
-{"aliases":["Quick Facts"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/locations/theotech-corporate-sovereignty/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/locations/theotech-corporate-sovereignty/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ The Light Fields Power Plant is a critical component of the Theotech Corporate S
 |    Capital                 |    Theotech TechLabs, Rose Complex<br>                                                                                                                                                      |
 |:---------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    Official Languages      |    Universal                                                                                                                                                                                |
-|    Species Distribution    | <div>41.6% Tallisite&nbsp;</div><div>32% Navarean</div><div>12% Hybrids&nbsp;</div><div>6% [[Narrative/Species/Varyn\|Varyn]]&nbsp;</div><div>8.4% Others<br> </div>                                                     |
+|    Species Distribution    | <div>41.6% Tallisite&nbsp;</div><div>32% Navarean</div><div>12% Hybrids&nbsp;</div><div>6% [[Narrative/Locations/Worlds/Varyn\|Varyn]]&nbsp;</div><div>8.4% Others<br> </div>                                                     |
 |    Demonym                 | None                                                                                                                                                                                        |
 |    Government              |    Limited Liability Company                                                                                                                                                                |
 |    Area                    | Spatial: 4 213 982 ly2&nbsp;<div>Land: 0km2&nbsp;</div><div>Void: 100%<br>                                                                               </div>                             |
