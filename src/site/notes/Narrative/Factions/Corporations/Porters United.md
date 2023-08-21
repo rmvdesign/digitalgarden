@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/porters-united/","dgPassFrontmatter":true}
 ---
 
-Headquartered on the planet [[Narrative/Locations/Minor Worlds/Pyramiden\|Pyramiden]], **Porters United** is a workers' cooperative specialising in logistics and galactic deliveries. It is the largest co-op in the galaxy, and is run by collective decision making of all porters. Porters are the main working staff of Porters United and are most often independent delivery contractors that have voting powers and benefits through the co-op. Porters United only has a very small number of actual employees, instead choosing to contract their deliverypeople.
+Headquartered on the planet [[Narrative/Locations/Worlds/Pyramiden\|Pyramiden]], **Porters United** is a workers' cooperative specialising in logistics and galactic deliveries. It is the largest co-op in the galaxy, and is run by collective decision making of all porters. Porters are the main working staff of Porters United and are most often independent delivery contractors that have voting powers and benefits through the co-op. Porters United only has a very small number of actual employees, instead choosing to contract their deliverypeople.
 
 Porters are loosely organised through the backbone of the Porters United Network, which can be accessed through the PlaNet. Through the network, deliveries are assigned and bountied depending on the urgency and size of the delivery. Porters can accept or decline runs, and are rewarded according to the delivery time.
 
