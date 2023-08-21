@@ -13,6 +13,6 @@ Bill is a Tallisite man in his thirties. He's about 5'9, a little bit on the chu
 
 # Personality
 
-A member of the upper middle class, Bill considers himself to be an upstanding citizen. He considers his family the most important thing in his life, with his job in as a close second. Before the events of [[Narrative/Characters/Daedalus Plan/Daedalus Plan\|Daedalus Plan]], he lives a happy and content life with his husband and children. Being an executive editor for the IPI, he mostly writes articles and longer review pieces. He hates getting put in the field for hands-on reporting, mostly because he suffers from homesickness very easily.
+A member of the upper middle class, Bill considers himself to be an upstanding citizen. He considers his family the most important thing in his life, with his job in as a close second. Before the events of [[Narrative/Narration/Daedalus Plan\|Daedalus Plan]], he lives a happy and content life with his husband and children. Being an executive editor for the IPI, he mostly writes articles and longer review pieces. He hates getting put in the field for hands-on reporting, mostly because he suffers from homesickness very easily.
 
 Bill is, for all intents and purposes, a coward. He is the epitome of a type-b personality: He is not at all brave or heroic, but rather backs down in the face of conflict. Bill is afraid of many things, especially conflict and public speaking. He's not one to take a conflict head-on, but rather relies on his wit and intelligence to solve arguments, although of course, he'd rather he didn't.
