@@ -12,7 +12,7 @@ Iterations of Reality always start from the same template - an infinite energeti
 
 Reality doesn't collapse by itself. In itself, Reality is always stable - however, to improve and iterate upon what exists and what was learned from previous iterations, "sparks" can be introduced. These might be a naturally occurring element, a precursor comet seeding life, a specific event, a change in physics, or anything else - but they introduce stress into an otherwise empty and therefore balanced universe.
 
-For instance, introducing precursor comets into the current iteration of Reality caused deterministic ripples in the fabric of Reality, causing deposits of [[Narrative/Concepts/Science/Theorium\|Theorium]] in places where ripples crash into one another. These ripples do not operate within the classic three dimensions.
+For instance, introducing [[Narrative/Concepts/History/Precursor Comets\|precursor comets]] into the current iteration of Reality caused deterministic ripples in the fabric of Reality, causing deposits of [[Narrative/Concepts/Science/Theorium\|Theorium]] in places where ripples crash into one another. These ripples do not operate within the classic three dimensions.
 
 The discovery of [[Narrative/Concepts/Science/Theorium\|Theorium]] within the current iteration led to direct manipulation of Reality from within, which wasn't intentional, but a fascinating new insight. It also meant that Reality could, if one had the proper skills and knowledge, be controlled.
 
