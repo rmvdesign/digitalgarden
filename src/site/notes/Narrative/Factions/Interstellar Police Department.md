@@ -3,7 +3,7 @@
 ---
 
 
-The Interstellar Police Department, or ISPD, is an intergalactic law enforcement agency responsible for maintaining law and order in the neutral zone. It was founded following the signing of the Galactic Peace Accords, which established the neutral zone as a demilitarised zone between the various member states of [[Narrative/Factions/The World Unity\|the World Unity]]. The ISPD operates under the jurisdiction of the Galactic Council and is headquartered on Tallis at One ISPD Plaza.
+The Interstellar Police Department, or ISPD, is an intergalactic law enforcement agency responsible for maintaining law and order in the neutral zone. It was founded following the signing of the Galactic Peace Accords, which established the neutral zone as a demilitarised zone between the various member states of [[Narrative/Factions/The World Unity\|The World Unity]]. The ISPD operates under the jurisdiction of the Galactic Council and is headquartered on Tallis at One ISPD Plaza.
 
 The ISPD is organised into several ranks, starting with officers and detectives who are responsible for patrol and investigation duties. Above them are sergeants, lieutenants, and captains, who oversee the operations of their respective units. Inspectors and chiefs are responsible for the management of larger districts or regions, and the commissioner serves as the head of the entire agency.
 
