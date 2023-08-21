@@ -1,5 +1,5 @@
 ---
-{"aliases":["Quick Facts"],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/navareo-empire/","dgPassFrontmatter":true}
+{"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/navareo-empire/","dgPassFrontmatter":true}
 ---
 
 The **Navareo Empire**, commonly known as **Navareo**, is a political and economic entity located on the South-western period of the galactic disc. It consists of 5 homeworlds, 22 colonies, 1872 outlying space stations and one arcology knows as the [[Narrative/Locations/Arcology Six\|Vi Station]]. The Navareo Empire shares celestial borders with the Southern Neutral Zone and the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. With a population of over 12 billion, it is the most populous entity in the known galaxy. The unified capital is the [[Narrative/Locations/Arcology Six\|Vi Station]], and the financial centre is Phyllis, primary capital of Navareo II.
