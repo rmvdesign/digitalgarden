@@ -8,12 +8,13 @@ The HyperMetro was developed by the Delta, an isolationist and xenophobic amphib
 
 As trains enter the station, their compartments rotate 90 degrees to the side. This unique design allows trains to run vertically like a rocket, while the stations remain horizontal like traditional train stations. The trains are managed by automated systems, with a control hub at one of the termini on each line. Teams of three or four operators oversee the smooth operation of the lines.
 
-The HyperMetro network consists of the following lines:
+The HyperMetro consists of the following lines:
+- Line A - Aquarius Express: Delton via Navareo to Sagittarius
+- Line E - Eddystone Line: [[Narrative/Locations/Worlds/Telenn\|Telenn]] to [[Narrative/Species/Varyn\|Varyn]]
+- Line K - Kelth Line: Ralean to Kelth-6N1
+- Line N - Nova Line: TIC 257060897 B via New Tallis to Nonapri
+- Line R - Ring Line: Tethys via the [[Narrative/Factions/Ring Worlds\|Ring Worlds]] to [[Narrative/Species/Varyn\|Varyn]]
+- Line T - Theotech Line: Maxwell via [[Narrative/Locations/Worlds/Galathea Station\|Galathea]] to the [[Narrative/Locations/Theotech Corporate Sovereignty\|Theotech CS]]
+- Line S - Star Loop: Circular line from [[Narrative/Locations/Worlds/Ixbalanque\|Ixbalanque]] via Navareo back to [[Narrative/Locations/Worlds/Ixbalanque\|Ixbalanque]]
 
-- **Navaryn Express (Blue)**: Varyn to New Tallis via Navareo
-- **Rose Express (Burgundy)**: Maxwell to Light Fields Power Plant via Theotech TechLabs
-- **A-Star (Grey)**: Circular line around the inner worlds of the galaxy, connecting Navareo, Maxwell, [[Narrative/Locations/Minor Worlds/Ixbalanque\|Ixbalanque]], and the Navarean colonies
-- **Rapid Line (Red)**: Tethys to [[Narrative/Locations/Minor Worlds/Iris\|Iris]] via Tallis
-- **Unity Line (Green)**: Lorem to Varyn via Tallis, with a planned extension to Theotech EdgeLabs
-- **Ring Line (Pink)**: Circular line in the Ring Worlds, connecting Emac, Vel'xivv, and other Ring Worlds
-- **Neutral Line (Orange)**: Delton to [[Narrative/Locations/Minor Worlds/Pulaski\|Pulaski]] via Navareo and Maxwell
+![hypermap2.png](/img/user/Resources/hypermap2.png)
