@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/hora/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A03","R06","N10"],"permalink":"/narrative/locations/worlds/hora/","dgPassFrontmatter":true}
 ---
 
 **Hora** is a unique, terraformed planet in the galaxy, created as a showcase of both advanced terraforming technology and a demonstration of the potential for interspecies collaboration in the aftermath of the [[Narrative/Concepts/History/Martian Backup\|Martian Backup]]'s decryption. Conceived and developed by the Tallisite terraforming laboratory, Yalgeth Labs, Hora was transformed from a rogue wasteland planet into a lush, vibrant haven. It is located within the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]].
@@ -10,6 +10,6 @@ In an effort to preserve the pristine beauty and ecological harmony of Hora, the
 
 A select group of custodians, known as the **Hora Park Rangers**, have been entrusted with the protection of the planet's eco-paradise. These rangers typically reside in tall overwatch towers reminiscent of fire lookout towers. From their various vantage points, they vigilantly observe the planet's surface, working to prevent unauthorised landings and breaches to its natural integrity.
 
-Once every two years, Hora hosts a significant event known as [[Narrative/Concepts/Society/The Universe Fair\|the Universe Fair]]. This gathering displays a diverse array of art, culture, technology, and science achievements from participating worlds across the galaxy. The architectural structures for the fair are designed and constructed by the finest architects from each of these worlds.
+Once every two years, Hora hosts a significant event known as [[Resources/The Universe Fair\|the Universe Fair]]. This gathering displays a diverse array of art, culture, technology, and science achievements from participating worlds across the galaxy. The architectural structures for the fair are designed and constructed by the finest architects from each of these worlds.
 
 The mandate of the Hora Park Rangers is motivated by a fervent desire to uphold the pristine and undisturbed sanctity of Hora—an intrinsic component of its symbolic meaning to the galaxy. To achieve this mission, rangers have been granted power to take decisive action, including employing deadly force, against unauthorised visitors. The custody of Hora under the guardianship of these devoted protectors reinforces both the planet's ecological importance and its esteemed status within the galaxy as a symbol of hope, regeneration, and potential.
