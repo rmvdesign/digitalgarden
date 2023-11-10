@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/theodyne/","dgPassFrontmatter":true}
 ---
 
-Theodyne is a potent fuel derived from the exotic and mysterious material [[Narrative/Concepts/Science/Theorium\|Theorium]], refined through a process developed by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] of the Tallis Institute. With the ability to generate coherence fields that alter reality's fundamental constants, Theodyne has revolutionised the fields of science, technology, and exploration in the cosmos. In its purest form, Theodyne-100, the substance has enabled groundbreaking applications such as faster-than-light (FTL) travel and gravity manipulation.
+Theodyne is a potent fuel derived from the exotic and mysterious material [[Narrative/Concepts/Science/Theorium\|Theorium]], refined through a process developed by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] of the Tallis Institute. With the ability to generate coherence fields that alter reality's fundamental constants, Theodyne has revolutionised the fields of science, technology, and exploration in the cosmos. In its purest form, Theodyne-100, the substance has enabled groundbreaking applications such as hyperlight (HL) travel and gravity manipulation.
 
 ## Refinement Process
 
@@ -14,9 +14,9 @@ There are several variants of Theodyne, each with its own unique properties, app
 
 ## Applications
 
-### FTL Travel
+### Hyperlight Travel
 
-Theodyne-100 has enabled the development of faster-than-light (FTL) travel by generating coherence fields in which the speed of light is temporarily increased. This allows spacecraft to traverse vast interstellar distances without violating the universal light-speed limit, transforming space exploration and interstellar travel.
+Theodyne-100 has enabled the development of hyperlight (HL) travel by generating coherence fields in which the speed of light is temporarily increased. This allows spacecraft to traverse vast interstellar distances without violating the universal light-speed limit, transforming space exploration and interstellar travel.
 
 ### Advanced Materials Engineering
 
