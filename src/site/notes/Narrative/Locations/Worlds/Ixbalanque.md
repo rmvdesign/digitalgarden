@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/ixbalanque/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["S01","S13"],"permalink":"/narrative/locations/worlds/ixbalanque/","dgPassFrontmatter":true}
 ---
 
 
