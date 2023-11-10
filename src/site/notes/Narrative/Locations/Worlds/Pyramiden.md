@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/pyramiden/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["K07"],"permalink":"/narrative/locations/worlds/pyramiden/","dgPassFrontmatter":true}
 ---
 
 **Pyramiden** is a frozen world located in the outer reaches of the galaxy. It is known for its harsh and unforgiving climate, with temperatures often reaching well below freezing. Despite this, Pyramiden is home to a unique alien species known as the Pyramidenians.
