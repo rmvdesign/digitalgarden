@@ -17,6 +17,6 @@ Using this technology, the ISPD collected genetic material from all compatible o
 
 This has caused some controversy, as there are concerns about the ethical implications of cloning sentient beings for the purpose of labor. However, the ISPD argues that the clones are treated with the same respect and rights as any other officer, and that they provide a necessary solution to the shortage of qualified candidates.
 
-The ISPD is equipped with a variety of advanced technology, including faster-than-light ships for pursuit and transport, and specialised armour and weapons for various situations.
+The ISPD is equipped with a variety of advanced technology, including hyperlight ships for pursuit and transport, and specialised armour and weapons for various situations.
 
 The ISPOC is the organised crime division of the ISPD. It is responsible for investigating and combating organised crime within the neutral zone. The division is known for its use of undercover officers and informants to gather intelligence on criminal organisations. In addition to traditional detective work, the ISPOC also utilises advanced technology, such as surveillance drones and sophisticated tracking software, to track and apprehend suspects. Despite their efforts, organised crime remains a persistent problem within the neutral zone, with numerous criminal organisations operating in the shadows.
