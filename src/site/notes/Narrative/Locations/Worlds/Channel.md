@@ -1,4 +1,9 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/channel/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N08"],"permalink":"/narrative/locations/worlds/channel/","dgPassFrontmatter":true}
 ---
 
+The Nexus of Stellar Nomads, colloquially known as the Channel, is an extensive flotilla of asteroids and space stations situated within the neutral zone sandwiched between the [[Narrative/Factions/Ring Worlds\|Ring Worlds]] and the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. This astrogation waypoint operates primarily as an interstellar pit stop, bereft of any single governing body and largely relying upon a loose confederation of independent operators.
+
+Although primarily intended for the use of [[Narrative/Factions/Corporations/Porters United\|Porters]] - interstellar couriers famed for their long-haul voyages across the cosmos - the Channel also caters to a wide panoply of transient travellers. It proffers a range of services that, while not known for their luxury or high quality, cater comprehensively to the fundamental needs of a nomadic spacefaring populace. These essentials include refuelling and restocking services, basic accommodation facilities, relaxation amenities, and a bustling marketplace for procuring new contracts or trading goods.
+
+Perhaps the most distinctive feature of the Asteroid Caravanserai lies in its implementation of artificial gravity. The majority of the rocky outposts within the Channel are too minuscule to generate a noticeable gravitational pull, leading to the widespread practice of spin-gravity. The asteroids are deliberately shifted into a rotation pattern, simulating a gravitational environment conducive to regular human functioning and comfortable habitation. In contrast, a sprinkling of the smaller ‘rocks’ exist in a state of perpetual microgravity, functioning as zero-G playgrounds and training grounds for travellers who seek to adapt to or exploit such environments.
