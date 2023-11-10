@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/comprann/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A05","K06"],"permalink":"/narrative/locations/worlds/comprann/","dgPassFrontmatter":true}
 ---
 
 **Comprann** is a barren planet with a harsh, dry surface. However, beneath the surface lies a network of underground caves filled with rich, fertile soil. These caves are home to a vast array of plant life and are the primary source of food for the planet's inhabitants. Despite its inhospitable surface, Comprann is a thriving planet thanks to the abundance of life found in its underground caves. Comprann is a member of [[Narrative/Factions/The World Unity\|The World Unity]].
