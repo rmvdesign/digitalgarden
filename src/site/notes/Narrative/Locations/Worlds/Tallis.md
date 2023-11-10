@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/tallis/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R07","N14"],"permalink":"/narrative/locations/worlds/tallis/","dgPassFrontmatter":true}
 ---
 
 
