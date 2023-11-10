@@ -1,10 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/iris/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["T04"],"permalink":"/narrative/locations/worlds/iris/","dgPassFrontmatter":true}
 ---
 
-
-
-**Iris** is a small planet located in the outer reaches of the galaxy. It is known for its vibrant, colorful atmosphere, which is a result of the planet's unique chemical composition. The atmosphere is made up of gases that reflect light in different wavelengths, creating a dazzling display of colors that can be seen from space.
+**Iris** is a small planet located in the outer reaches of the galaxy. It is known for its vibrant, colourful atmosphere, which is a result of the planet's unique chemical composition. The atmosphere is made up of gases that reflect light in different wavelengths, creating a dazzling display of colours that can be seen from space.
 
 Despite its small size, Iris is home to a diverse range of plant and animal life. The planet's surface is covered in lush, green forests and fields, and there are many different species of animals that call Iris home. The planet's climate is temperate, with mild winters and warm summers, making it an ideal place for life to thrive.
 
