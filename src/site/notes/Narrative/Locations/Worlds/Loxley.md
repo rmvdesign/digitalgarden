@@ -1,4 +1,4 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/loxley/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["K08"],"permalink":"/narrative/locations/worlds/loxley/","dgPassFrontmatter":true}
 ---
 
