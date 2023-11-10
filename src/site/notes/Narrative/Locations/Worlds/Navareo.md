@@ -1,5 +1,5 @@
 ---
-{"aliases":"Navareo System","tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/navareo/","dgPassFrontmatter":true}
+{"aliases":["Navareo System"],"tags":null,"dg-publish":true,"Station code":["A06","S07"],"permalink":"/narrative/locations/worlds/navareo/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@ The **Navareo star system** is home to the Navarean species and the centre of op
 
 The Navareo star is a large class G star, classified as a G5IVf. It produces a significant amount of gamma and UV radiation, which [[Narrative/Species/Navareans\|Navareans]] are naturally resistant to due to their biology. The innermost planet, Navareo I, is the hottest due to its close proximity to the star. Navareo II, III, and IV are all capable of supporting life and have developed Navarean civilisations.
 
-Unfortunately, Navareo IV was destroyed in an incident involving an FTL-accelerated ramjet, rendering the planet uninhabitable. Efforts to rebuild the planet using terraforming technology are ongoing and being led by Yalgeth Labs.
+Unfortunately, Navareo IV was destroyed in an incident involving an HL-accelerated ramjet, rendering the planet uninhabitable. Efforts to rebuild the planet using terraforming technology are ongoing and being led by Yalgeth Labs.
 
 Despite the loss of Navareo IV, the Navareo star system remains a major hub of activity in the galaxy and is home to a diverse array of cultures and civilisations. The [[Narrative/Locations/Arcology Six\|Vi Station]], located on Navareo V, is a hub of commerce and trade, serving as a central hub for the [[Narrative/Factions/Navareo Empire\|Navareo Empire]].
 
@@ -19,7 +19,7 @@ Navareo II is a terrestrial planet with thick oceans of gas that are heavier tha
 
 Navareo III is a terrestrial planet that is similar in many ways to Earth. It has a wide range of climates, including polar regions, deserts, and tropical rainforests. Navareo III is home to a wide variety of lifeforms, including many species of plants and animals that are native to the planet. The [[Narrative/Species/Navareans\|Navareans]] have a strong cultural connection to Navareo III, and it is considered one of the most important planets in the Navareo system.
 
-Navareo IV was a terrestrial planet that was destroyed by an FTL-accelerated ramjet. Efforts are ongoing to rebuild the planet using terraforming technology, and the terraforming company Yalgeth Labs is leading the charge.
+Navareo IV was a terrestrial planet that was destroyed by an HL-accelerated ramjet. Efforts are ongoing to rebuild the planet using terraforming technology, and the terraforming company Yalgeth Labs is leading the charge.
 
 Navareo V is a terrestrial planet that is known for its extreme cold temperatures. It is home to the [[Narrative/Locations/Arcology Six\|Vi Station]], an arcology located on the Lagrange point L3 of Navareo V's orbit. The [[Narrative/Locations/Arcology Six\|Vi Station]] is a hub of trade and commerce, and it serves as the primary gateway to the Navareo system for travellers from other parts of the galaxy.
 
