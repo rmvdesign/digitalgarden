@@ -1,6 +1,7 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Role":"Assistant","Species":"Android","Gender":"Android Woman","Pronouns":"she/her","permalink":"/narrative/characters/phyrra-s-spark/omelette/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Role":"Assistant","Species":"Android","Gender":"Android Woman","Pronouns":"she","permalink":"/narrative/characters/phyrra-s-spark/omelette/","dgPassFrontmatter":true}
 ---
+
 
 **Omelette** is a prototype N-type [[Narrative/Concepts/Tech/Q-Series Android\|android]] developed by [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]] for hardware testing purposes. Initially intended for research and development, Omelette was decommissioned and repurposed to serve as part of the staff at the Android Cafe located in [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/Tallis City\|Tallis City]], an experimental fully-automated restaurant that does not employ any organic workers. 
 
