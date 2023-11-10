@@ -18,11 +18,11 @@ Theorium is a crystalline substance with a structure similar to bismuth. Its iri
 
 ## [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]] and Realistics
 
-The study and application of Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 led to the development of a new scientific discipline known as [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]], or Realistics. This field explores the myriad possibilities offered by [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 and its ability to bend the rules of reality. Among its most remarkable applications is the advent of faster-than-light (FTL) travel, which is achieved by temporarily increasing the speed of light within coherence fields.
+The study and application of Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 led to the development of a new scientific discipline known as [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]], or Realistics. This field explores the myriad possibilities offered by [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 and its ability to bend the rules of reality. Among its most remarkable applications is the advent of hyperlight (HL) travel, which is achieved by temporarily increasing the speed of light within coherence fields.
 
 ## Applications
 
-Beyond FTL travel, Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 have numerous applications in fields such as advanced materials engineering, gravity manipulation, and the control of fundamental forces like electromagnetism and nuclear forces. These breakthroughs have led to the development of unprecedented technologies that have reshaped every aspect of galactic society, including medicine, agriculture, communication, and transportation.
+Beyond HL travel, Theorium and [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100 have numerous applications in fields such as advanced materials engineering, gravity manipulation, and the control of fundamental forces like electromagnetism and nuclear forces. These breakthroughs have led to the development of unprecedented technologies that have reshaped every aspect of galactic society, including medicine, agriculture, communication, and transportation.
 
 ## Regulation and Control
 
