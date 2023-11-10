@@ -7,7 +7,7 @@ A classic satellitist, Fillion grew up in poverty and squalor on the Navarean co
 
 # Physical description
 
-Fillion is a satellitist. Due to the low gravity and terrible medical systems on his homeworld of Envilles, his bones and muscles have developed stagnantly, causing him to be inhumanly tall at almost 7'3" (220 cm). He is a Navarean, has teal-green hair that's made into a slick back, and unkempt stubble he wears because he thinks it makes him look ruggedly handsome. Fillion is augmented. In an atmospheric flight, he lost control of his ship and crashed onto the surface, leaving the right side of his face heavily scarred and his right eye critically injured.
+Fillion is a colonist. Due to the low gravity and terrible medical systems on his homeworld of Envilles, his bones and muscles have developed stagnantly, causing him to be inhumanly tall at almost 7'3" (220 cm). He is a Navarean, has teal-green hair that's made into a slick back, and unkempt stubble he wears because he thinks it makes him look ruggedly handsome. Fillion is augmented. In an atmospheric flight, he lost control of his ship and crashed onto the surface, leaving the right side of his face heavily scarred and his right eye critically injured.
 
 Even though he does not like the idea of body augmentation, he likes it more than the idea of losing his right eye. So, he replaced his damaged eye with an augmented one, letting him also display a HUD and IR/UV vision. However, it also leaves him with a permanent titanium faceplate implanted into his skull.
 
