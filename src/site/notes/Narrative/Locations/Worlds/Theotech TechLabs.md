@@ -1,4 +1,4 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/theotech-tech-labs/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R10","T07"],"permalink":"/narrative/locations/worlds/theotech-tech-labs/","dgPassFrontmatter":true}
 ---
 
