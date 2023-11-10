@@ -32,8 +32,7 @@ By dividing our beloved station into five meticulously curated sections, we assu
 Galathea Holdings LLC warmly invites you to embark on this stellar voyage and make Galathea Station your next destination. Here, amidst the tapestry of the cosmos, you’ll find not just a space station, but a living, breathing community that’s waiting with open arms. Welcome aboard, where the infinity of space meets infinite possibilities.
 
 
->[!danger]
->**Galathea Holdings LLC Corporate Disclaimer**
+>[!danger] **Galathea Holdings LLC Corporate Disclaimer**
 >
 >**Official Position on Historical Operations of RP-55**
 >
