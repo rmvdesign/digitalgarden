@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/the-hyper-metro/","dgPassFrontmatter":true}
 ---
 
-The HyperMetro is a galactic rapid transit system designed to connect homeworlds separated by thousands of light years. Utilising advanced faster-than-light (FTL) technology, it enables the economic viability of interstellar travel. The system comprises a network of automated HyperLanes, canals of space with altered physical constants that allow the HyperMetro Trains to accelerate to significantly higher speeds than the speed of light. The trains, which are also automated, run hourly and serve approximately 40 stations throughout the network.
+The HyperMetro is a galactic rapid transit system designed to connect homeworlds separated by thousands of light years. Utilising advanced hyperlight (HL) technology, it enables the economic viability of interstellar travel. The system comprises a network of automated HyperLanes, canals of space with altered physical constants that allow the HyperMetro Trains to accelerate to significantly higher speeds than the speed of light. The trains, which are also automated, run hourly and serve approximately 40 stations throughout the network.
 
 The HyperMetro was developed by the Delta, an isolationist and xenophobic amphibian species with a highly caste-based society. Their homeworld, Delton, is also connected to the network. Most HyperMetro stations utilise a single platform for both directions of travel, although multiple platforms are available for different HyperMetro lines.
 
