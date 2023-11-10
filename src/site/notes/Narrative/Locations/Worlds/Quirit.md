@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/quirit/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A04","E04"],"permalink":"/narrative/locations/worlds/quirit/","dgPassFrontmatter":true}
 ---
 
 
