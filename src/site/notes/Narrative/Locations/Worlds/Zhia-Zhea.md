@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/zhia-zhea/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["E08"],"permalink":"/narrative/locations/worlds/zhia-zhea/","dgPassFrontmatter":true}
 ---
 
 
