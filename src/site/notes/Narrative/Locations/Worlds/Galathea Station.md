@@ -20,13 +20,9 @@ Galathea Holdings LLC is proud to present the reimagined Galathea Station, an oa
 By dividing our beloved station into five meticulously curated sections, we assure a tailored experience for every guest and resident:
 
 - **Exec Level**: The nerve center of Galathea – a sanctuary for our revered management and an exclusive enclave for our executives where strategy and comfort align.
-
 - **Mainway Level**: The splendid Promenade – the heart of commerce and community, a place where you can indulge in luxury shopping and find sanctuary in the most high-end accommodations.
-
 - **Wela Level**: A testament to the diversity and vigor of life aboard – here amidst the vast array of living quarters and essential services, the pulse of Galathea's vibrant community beats strongest.
-
 - **Docks Level**: The gateway to the galaxy – thrumming with the comings and goings of over 200 ships daily, our Docks are a spectacle of interstellar trade and travel, equipped for even the grandest of starships.
-
 - **Reactor Level**: The unsung hero of Galathea – a restricted yet critical domain where the heart of our station beats, maintaining the seamless flow of power, gravity, and life's essentials.
 
 Galathea Holdings LLC warmly invites you to embark on this stellar voyage and make Galathea Station your next destination. Here, amidst the tapestry of the cosmos, you’ll find not just a space station, but a living, breathing community that’s waiting with open arms. Welcome aboard, where the infinity of space meets infinite possibilities.
