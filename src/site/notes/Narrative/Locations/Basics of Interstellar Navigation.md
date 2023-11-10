@@ -56,5 +56,5 @@ To encapsulate each of the six directions in this coordinate system succinctly, 
 - **Trailward** (Tw/A-), the reverse of Spinward, signifies traversing against the direction of the galaxy’s rotation, hence decreasing in Ascension.
 - **Zenithward** (Zw/D+) determines ascension above the galactic plane, an increase in Declination.
 - **Nadirward** (Nw/D-), refers to descent below the galactic plane, a decrease in Declination.
-- **Rimward** (Rw/R+) in contrast, refers to movement away from the Galactic Core, increasing in Radius.
+- **Rimward** (Rw/R+) refers to movement away from the Galactic Core, increasing in Radius.
 - **Coreward** (Cw/R-) denotes movement towards the Galactic Core, decreasing in Radius.
