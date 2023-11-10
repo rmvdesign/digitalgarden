@@ -1,10 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/sagittarius-station/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A08","S03"],"permalink":"/narrative/locations/worlds/sagittarius-station/","dgPassFrontmatter":true}
 ---
 
-
-
-**Sagittarius Station** is a space-based settlement located in the vicinity of the supermassive black hole at the centre of the galaxy. It is home to a diverse population of scientists, mystics, and seekers who are drawn to the black hole's enigmatic properties. Sagittarius Station is also the home base of the **[[Narrative/Concepts/Folklore/The Milkwalker Cult\|Milkwalkers]]**. It is also directly connected to [[Narrative/Concepts/Society/The HyperMetro\|the HyperMetro]], and was originally planned as a transfer station for multiple smaller worlds, who ended up not joining [[Narrative/Factions/The World Unity\|The World Unity]]. 
+**Sagittarius Station** is a space-based settlement located in the vicinity of the supermassive black hole at the centre of the galaxy. It is home to a diverse population of scientists, mystics, and seekers who are drawn to the black hole's enigmatic properties. Sagittarius Station is also the home base of the **[[Narrative/Concepts/Folklore/The Milkwalker Cult\|Milkwalkers]]**. It is also directly connected to [[Resources/The HyperMetro\|the HyperMetro]], and was originally planned as a transfer station for multiple smaller worlds, who ended up not joining [[Narrative/Factions/The World Unity\|The World Unity]]. 
 
 The [[Narrative/Concepts/Folklore/The Milkwalker Cult\|Milkwalkers]] are known for their unorthodox beliefs and practices, which revolve around the worship of the black hole and the pursuit of enlightenment through its cosmic energy.
 
