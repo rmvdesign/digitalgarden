@@ -1,4 +1,4 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/tides/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["E10"],"permalink":"/narrative/locations/worlds/tides/","dgPassFrontmatter":true}
 ---
 
