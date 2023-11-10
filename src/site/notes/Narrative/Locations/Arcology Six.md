@@ -2,7 +2,7 @@
 {"aliases":"Vi Station","tags":null,"dg-publish":true,"permalink":"/narrative/locations/arcology-six/","dgPassFrontmatter":true}
 ---
 
-Built originally as a massive colony ship named the NV Kvizùn, Arcology Six is the largest space station in the galaxy. It was intended to be a long-haul ship that would lead a group of about 200 000 [[Narrative/Species/Navareans\|Navareans]] to exoplanets, where they would start colonisation. However, FTL travel was invented before the Kvizùn was completed, so the propulsion methods were largely removed and the station was converted into what [[Narrative/Species/Navareans\|Navareans]] now know as Arcology Six. It's placed on Lagrange point L3 of Navareo V. Colloquially, Arcology Six is also known as the Vi Station, in reference to Navareo VI.
+Built originally as a massive colony ship named the NV Kvizùn, Arcology Six is the largest space station in the galaxy. It was intended to be a long-haul ship that would lead a group of about 200 000 [[Narrative/Species/Navareans\|Navareans]] to exoplanets, where they would start colonisation. However, HL travel was invented before the Kvizùn was completed, so the propulsion methods were largely removed and the station was converted into what [[Narrative/Species/Navareans\|Navareans]] now know as Arcology Six. It's placed on Lagrange point L3 of Navareo V. Colloquially, Arcology Six is also known as the Vi Station, in reference to Navareo VI.
 
 In addition to providing permanent residence for more than half a million [[Narrative/Species/Navareans\|Navareans]], the Vi Station is also the headquarters of the Navarean administration, and the home of the Navarean Board of Directors, although they also have residences on the homeworlds.
 
