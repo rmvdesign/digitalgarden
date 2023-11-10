@@ -1,27 +1,61 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
+{"aliases":["Galathea"],"tags":null,"dg-publish":true,"Station code":["T02","A07"],"permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
 ---
 
+> [!info]
+> This article is a paid sponsorship with Galathea Holdings, LLC.
 
----
-aliases: Galathea
-tags: 
-dg-publish: true
----
-Galathea Station, formerly known as Research Platform 55 (RP-55), is the second biggest public space station after [[Narrative/Locations/Arcology Six\|Arcology Six]]. It is a vast space station complex that's about two kilometres in length and one in width at the widest point. Using plasma thrusters, the station pushes against the gravity of the black hole below, providing a usable gravity of about .2g at the lowest and .15g at the highest point. 
+Experience the Wonder of Galathea Station – A Galathea Holdings LLC Triumph!
 
-It's home to about 200 000 people and it supplied with water and food synthesis materials from several private hauling companies. Water is provided by hauling large chunks of ice harvested from asteroids, while food, especially fresh produce, is provided by colonies like Airesem and Ten'serrat. Both of these are Navarean colonies and were chosen for their close proximity to the station. A full haul providing food for the entire station lasts about one week and can be transported in two to three days.
+Nestled among the shining stars and a breathtaking cosmic tapestry, Galathea Station – brought to you with pride by Galathea Holdings LLC – towers as a jewel in the vastness of space. This magnificent marvel, extending over two kilometers in length, stands as the ultimate destination for adventurers and dreamers alike, right after the renowned Arcology Six.
 
-Galathea Station is being powered by a fusion reactor that runs mostly on interstellar hydrogen collected through several arrays on the lower areas on the station. The reactor is placed at the bottom of the station, providing power through the entire station's power grid. It is rated at 250 MW, which is barely enough to power the infrastructure and systems Galathea station requires in order to function.
+Galathea Station, your home among the stars, effortlessly combines luxury with practicality across its sprawling expanse. Imagine awaking to a gravity just like the moon’s gentle embrace, thanks to our state-of-the-art plasma thrusters working in harmony with the cosmic forces. A symphony of engineering and innovative design, the Station offers gravity variances between .2g and .15g, ideal for both comfort and health in the celestial realm.
 
-The station was originally built as an ambitious research task, experimenting with the effects of isolation in a low-gravity environment. Just one week after the experiment was started and RP-55 was sealed with a crew of 2000 and 150 000 test subjects, society began to break down and the heads of research were killed in armed riots. After this, the test was quickly stopped and RP-55 was put up for auction.
+Home to an astounding 200,000 souls, Galathea Station's commitment to sustainability and excellence is evident through partnerships with leading private hauling companies. Revel in the freshness of produce from Airesem and Ten'serrat, lush Navarean colonies chosen for their proximity and bounty supporting our station's culinary needs. These reliable hauls ensure a steady influx of sustenance, making life onboard as seamless as it is on solid ground.
 
-In the year 52, it was bought by an anonymous Navarean woman who had inherited a large sum of money who is, to this day, only known as The Director. After the acquisition, RP-55 was gradually transformed into Galathea Station, expanding the spartan interior with luxurious living spaces, holographic simulators, a real hydroponic garden and an expansive arboretum that would simulate planet-side living with holographic displays overlaid on top of the night sky of outer space.
+At Galathea Station – powered by the fusion of tomorrow – our robust 250 MW reactor runs on the most abundant element in the cosmos: interstellar hydrogen. This cutting-edge power source hums through the station, electrifying the grid and creating a symphony of life and light in the inky void of space.
 
-From an administrative side, Galathea Station is divided in five sections:
+Galathea Holdings LLC is proud to present the reimagined Galathea Station, an oasis that emerged from the vision of the enigmatic Director. In an astonishing transformation from Research Platform 55, our opulent abodes, immersive holographic simulators, and verdant arboretum now offer an unrivaled planetary living experience, underpinned by the awe-inspiring backdrop of the universe itself.
 
-- Exec Level - Galathea management and living quarters for most executive staff. The command bridge, along with the director's quarters, the exec quarters, an executive holographic simulator and a staff cafeteria are located on the Exec Level. It is accessible only to Galathea Station staff.
-- Mainway Level - Also often called the Promenade, Mainway is the main commercial avenue. Comparable to downtown New York, Mainway is a crowded and bustling place for anyone to come and make acquisitions. Most high-rise hotels are also found on the Mainway. Traders usually set up on the Mainway to trade their goods, whereas the actual delivery will be done on the Wela or Docks levels.
-- Wela Level - The largest sector of the station. Making up almost 50% of the station, it is where the main bulk of living quarters and services are found. The most important fixtures of Galathea are found here as well: the trauma centre and citizen services are located in the bowels of the station. Wela is a social melting pot. Many different cultures and species live next to each other. It is also badly managed and has a very high crime rate, especially in the poorer sections.
-- Docks Level - With more than 200 ships docking and departing every day, Docks is the beating heart of trade and transit on the station. Hundreds of people come and go, and Docks is even equipped to handle the docking of large starships like a Navarean battleship and the larger [[Narrative/Locations/Worlds/Varyn\|Varyn]] exploration vessels.
-- Reactor Level - The engineering compartment is the smallest section of Galathea station. Along with the eponymous fusion reactor, this is also where the maintenance of the station takes place. The power grid is managed here, and so are the gravity and water/sewage systems. The chief engineer works and lives here. Much like the Exec sector, it is only accessible to select members of the crew.
+By dividing our beloved station into five meticulously curated sections, we assure a tailored experience for every guest and resident:
+
+- **Exec Level**: The nerve center of Galathea – a sanctuary for our revered management and an exclusive enclave for our executives where strategy and comfort align.
+
+- **Mainway Level**: The splendid Promenade – the heart of commerce and community, a place where you can indulge in luxury shopping and find sanctuary in the most high-end accommodations.
+
+- **Wela Level**: A testament to the diversity and vigor of life aboard – here amidst the vast array of living quarters and essential services, the pulse of Galathea's vibrant community beats strongest.
+
+- **Docks Level**: The gateway to the galaxy – thrumming with the comings and goings of over 200 ships daily, our Docks are a spectacle of interstellar trade and travel, equipped for even the grandest of starships.
+
+- **Reactor Level**: The unsung hero of Galathea – a restricted yet critical domain where the heart of our station beats, maintaining the seamless flow of power, gravity, and life's essentials.
+
+Galathea Holdings LLC warmly invites you to embark on this stellar voyage and make Galathea Station your next destination. Here, amidst the tapestry of the cosmos, you’ll find not just a space station, but a living, breathing community that’s waiting with open arms. Welcome aboard, where the infinity of space meets infinite possibilities.
+
+
+>[!danger]
+>**Galathea Holdings LLC Corporate Disclaimer**
+>
+>**Official Position on Historical Operations of RP-55**
+>
+>As part of Galathea Holdings LLC's commitment to transparency and historical accuracy, we find it necessary to disclose certain operational strategies from the era of Research Platform 55 that have informed our current procedural manuals. These strategies, reflective of a different epoch in the development of space-based living and research, comprise a record of measures that, while once deemed necessary, have since been thoroughly reviewed and revised.
+>
+>To fully iterate, these measures included, but were not limited to:
+>
+>- Detainment of civilians under non-normative conditions,
+>- Implementation of compulsory labor systems,
+>- Distribution of sustenance on a performance-based metric,
+>- Quarantine practices invoking prolonged solitary confinement,
+>- Enforced participation in high-risk research protocols,
+>- Utilization of psychological stress tests beyond recommended standard limits,
+>- Surveillance operations with invasive methodologies,
+>- Programmatically sanctioned social stratification,
+>- Administration of experimental stimuli without conventional consent frameworks,
+>- Employment of coercive incentivization relating to essential goods and privileges,
+>- Discretionary enforcement of disciplinary protocols without external oversight,
+>- Execution of crisis simulations resulting in sustained emotional trauma.
+>
+>It is with the hindsight these operations provide that Galathea Holdings LLC has structured a more humane, ethical, and just governance. These historical practices, now decommissioned, have been replaced with rigorous standards of conduct respectful of individual rights and freedoms, and a dedication to the promotion of well-being for all members of the Galathea community.
+>
+>Present strategies embrace the most advanced socio-ethical principles, ensuring that Galathea Station both meets and exceeds contemporary expectancies for responsible station administration. Consequently, any suggestion that past operational strategies would resurface under current management is unfounded and not indicative of the exemplary environment for which Galathea Station is celebrated.
+>
+>Galathea Holdings LLC is highly focused on advancing the frontier of space habitation responsibly, always learning from the past to illuminate a path toward an enlightened and sustainable future. Our residents and visitors can trust in our enduring devotion to maintaining Galathea Station as a paragon of modern interstellar society.
