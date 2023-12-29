@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A02"],"permalink":"/narrative/locations/worlds/eclias/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A02"],"Universal Name":"","permalink":"/narrative/locations/worlds/eclias/","dgPassFrontmatter":true}
 ---
 
 **Eclias** stands as a stark representation of the Delta’s draconian principles, sequestered within the formidable expanse of the Dominion of Delta. As a former colony originally rooted in Delta's rigorous eugenic ideologies and the consolidation of their interstellar sovereignty, Eclias embodies the rigidity of power and honour that the Delta uphold as the bastions of their hegemony.
