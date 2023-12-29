@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Role":"Dreamer","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/harvey-dale/","dgPassFrontmatter":true}
+{"Universal Name":"·𐑣𐑸𐑝𐑰 ·𐑛𐑱𐑤","aliases":null,"tags":null,"dg-publish":true,"Role":"Dreamer","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/harvey-dale/","dgPassFrontmatter":true}
 ---
 
-**Harvey Dale** is a security officer contracted by Galathea Holdings, working on [[Narrative/Locations/Worlds/Galathea Station\|Galathea Station]]. With over a decade of experience in various law enforcement and security roles, Harvey is a dedicated professional who firmly believes in maintaining order and ensuring the safety of the station's inhabitants. Born on [[Narrative/Locations/Worlds/Tallis\|Tallis]], Harvey signed up with Galathea Holdings after a brief time with [[Narrative/Factions/Corporations/Porters United\|Porters United]]. He's a member of [[Narrative/Concepts/Folklore/The Church of the Sundom\|the Church of the Sundom]].
+**Harvey Dale** (·𐑣𐑸𐑝𐑰 ·𐑛𐑱𐑤) is a security officer contracted by Galathea Holdings, working on [[Narrative/Locations/Worlds/Galathea Station\|Galathea Station]]. With over a decade of experience in various law enforcement and security roles, Harvey is a dedicated professional who firmly believes in maintaining order and ensuring the safety of the station's inhabitants. Born on [[Narrative/Locations/Worlds/Tallis\|Tallis]], Harvey signed up with Galathea Holdings after a brief time with [[Narrative/Factions/Corporations/Porters United\|Porters United]]. He's a member of [[Narrative/Concepts/Folklore/The Church of the Sundom\|the Church of the Sundom]].
 
 As a decorated member of the station's security forces, Harvey is skilled in advanced combat techniques and proficient in handling various types of weapons. He is also trained in negotiation and conflict resolution, making him an indispensable asset for the station's security team.
 
