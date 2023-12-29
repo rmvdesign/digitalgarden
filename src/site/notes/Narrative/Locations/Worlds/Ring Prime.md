@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R05","N07"],"permalink":"/narrative/locations/worlds/ring-prime/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R05","N07"],"Universal Name":"","permalink":"/narrative/locations/worlds/ring-prime/","dgPassFrontmatter":true}
 ---
 
 **Ring Prime** is recognised as the capital and central hub of the Ring Dwellers’ civilisation. Distinctly different from the standard Ring Worlds, it is a combined structure consisting of a natural planet and an artificial ring that is affixed to the planet’s surface.
