@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/theotech-products/theotech-auto-drive/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"·𐑔𐑰𐑴𐑑𐑧𐑒 𐑭𐑑𐑴𐑛𐑮𐑲𐑝","permalink":"/narrative/concepts/tech/theotech-products/theotech-auto-drive/","dgPassFrontmatter":true}
 ---
 
-**Theotech AutoDrive** is a comprehensive reading and writing solution for the  [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] format, a cutting-edge data-storage technology that operates seamlessly in both the analogue and digital domains. Modelled as a cabinet-sized unit, the AutoDrive is an integral component of the [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] ecosystem, providing the necessary hardware interface to interact with its dual-nature capability.
+**Theotech AutoDrive** (·𐑔𐑰𐑴𐑑𐑧𐑒 𐑭𐑑𐑴𐑛𐑮𐑲𐑝) is a comprehensive reading and writing solution for the  [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] format, a cutting-edge data-storage technology that operates seamlessly in both the analogue and digital domains. Modelled as a cabinet-sized unit, the AutoDrive is an integral component of the [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] ecosystem, providing the necessary hardware interface to interact with its dual-nature capability.
 
 1. **AutoDrive 45**: A compact, tabletop-sized device, it is specifically engineered to cater to the [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] 45 - the smallest [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] designed for moderate data-storage requirements. Ideal for home and small businesses, the AutoDrive 45 blends space-saving design with efficient data processing capabilities.
 2. **AutoDrive 90**: A unit designed for the [[Narrative/Concepts/Tech/Magnetic Autotape\|Autotape]] 90, serving somewhat larger data storage applications. The AutoDrive 90 continues to maintain a compact tabletop footprint while providing enhanced storage and access speeds, making it a preferred model for medium-sized enterprises.
