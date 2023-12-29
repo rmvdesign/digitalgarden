@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/welcome-to-the-flipside/memory/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/characters/welcome-to-the-flipside/memory/","dgPassFrontmatter":true}
 ---
 
 Madeline Linn, who goes by the code name Memory, is a gifted computer whiz who's in the same grade as her brother, who happens to be two years her senior. She builds and maintains computers in the AV Club, and is also easily the smartest member of the club. She often leads others to underestimate her based on her size and age, but in reality, she's [[Narrative/Characters/Welcome to the Flipside/Tesla\|Tesla]]'s second in command and arguably also the most mature member of the AV club. She has a slight lisp and wears big round glasses. At the age of ten, she was run over by a car, leaving her permanently paraplegic and wheelchair-bound. Improving her wheelchair is one of her favourite pastimes, and she's augmented it to the point of being able to climb ladders and stairs with it.
