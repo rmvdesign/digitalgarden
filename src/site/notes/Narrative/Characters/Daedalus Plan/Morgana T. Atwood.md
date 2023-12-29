@@ -1,5 +1,5 @@
 ---
-{"aliases":["Morgana","Morgana Terry Atwood"],"tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Morgana Terry Atwood","Role":"Protagonist","Species":"Tallisite","Gender":"Cis Woman","Universal Name":"·𐑥𐑸𐑜𐑨𐑯𐑩 ·𐑑𐑧𐑮𐑰 ·𐑨𐑑𐑢𐑫𐑛","permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
+{"Universal Name":"·𐑥𐑸𐑜𐑨𐑯𐑩 ·𐑑𐑧𐑮𐑰 ·𐑨𐑑𐑢𐑫𐑛","aliases":["Morgana","Morgana Terry Atwood"],"tags":null,"dg-publish":true,"Pronouns":"she/her","Full Name":"Morgana Terry Atwood","Role":"Protagonist","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/daedalus-plan/morgana-t-atwood/","dgPassFrontmatter":true}
 ---
 
 Grown and raised on [[Narrative/Factions/Interstellar Police Department\|ISPD]] precinct 21-A, **Morgana Terry Atwood** (·𐑥𐑸𐑜𐑨𐑯𐑩 ·𐑑𐑧𐑮𐑰 ·𐑨𐑑𐑢𐑫𐑛) is an idealistic and good-natured police officer who is obsessed with puzzles and tries to fill the void in her soul with solving increasingly elaborate cases with her partner [[Narrative/Characters/Daedalus Plan/Chase\|Chase]]. One of [[Narrative/Concepts/Folklore/The Parallel Descendants\|The Parallel Descendants]].
