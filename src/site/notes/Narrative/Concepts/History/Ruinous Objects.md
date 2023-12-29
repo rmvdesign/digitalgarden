@@ -1,8 +1,8 @@
 ---
-{"aliases":["ruinous","Ruinous"],"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/history/ruinous-objects/","dgPassFrontmatter":true}
+{"aliases":["ruinous","Ruinous"],"tags":null,"dg-publish":true,"Universal Name":"𐑮𐑵𐑩𐑯𐑩𐑕 𐑭𐑚𐑡𐑧𐑒𐑕","permalink":"/narrative/concepts/history/ruinous-objects/","dgPassFrontmatter":true}
 ---
 
-**Ruinous objects** describe anything that's taken or inspired from the Ruins of Earth. This includes Ruinous plants like coffee, Ruinous technology like silicon semiconductors, or Ruinous media like the works of Earth poet William Shakespeare.
+**Ruinous objects** (𐑮𐑵𐑩𐑯𐑩𐑕 𐑭𐑚𐑡𐑧𐑒𐑕) describe anything that's taken or inspired from the Ruins of Earth. This includes Ruinous plants like coffee, Ruinous technology like silicon semiconductors, or Ruinous media like the works of Earth poet William Shakespeare.
 
 The term "Ruinous" has become synonymous with Earth culture and technology in many parts of the galaxy. This is due to the fact that Earth was one of the first planets in the galaxy to develop advanced technology and culture, which eventually spread to other worlds after the [[Narrative/Concepts/History/Death of Earth\|Death of Earth]]. As a result, many of the most important and influential technologies, art forms, and ideas in the galaxy can trace their roots back to Earth.
 
