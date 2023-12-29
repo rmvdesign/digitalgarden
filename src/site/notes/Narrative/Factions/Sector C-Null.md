@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/sector-c-null/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/sector-c-null/","dgPassFrontmatter":true}
 ---
 
 Sector C-Null is an anarchist federation founded and led by Constance Augustine, also known as [[Narrative/Characters/Daedalus Plan/C-Null\|C-Null]]. The federation is based in the Neutral Zone, an area of space not claimed by any particular government or authority. [[Narrative/Characters/Daedalus Plan/C-Null\|C-Null]] formed the federation by bringing together various pirate and mercenary groups under a socialist ideology and providing services such as charity and medical care to those in need. 
