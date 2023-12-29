@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/onyx-black-3/harlan-yvonte/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"·𐑣𐑸𐑤𐑩𐑯 ·𐑧𐑝𐑩𐑯𐑑𐑱","permalink":"/narrative/characters/onyx-black-3/harlan-yvonte/","dgPassFrontmatter":true}
 ---
 
-**Harlan Yvonte** is a veteran officer in [[Narrative/Factions/The World Unity\|The World Unity]]'s Relief Efforts Department (WURED). At the age of sixty, his appearance is characterised by a bald head, a slightly rounded face, a pair of spectacles perpetually resting on his nose, and an overall wearied but still congenially receptive demeanour.
+**Harlan Yvonte** (·𐑣𐑸𐑤𐑩𐑯) is a veteran officer in [[Narrative/Factions/The World Unity\|The World Unity]]'s Relief Efforts Department (WURED). At the age of sixty, his appearance is characterised by a bald head, a slightly rounded face, a pair of spectacles perpetually resting on his nose, and an overall wearied but still congenially receptive demeanour.
 
 Yvonte initially served in the Tallisite Department of Habitation before transitioning to WURED. His primary responsibility as a Tallisite officer was orderly civilian resettlement among integrated components of [[Narrative/Factions/The World Unity\|The World Unity]], furnishing him with decades of experience in handling large-scale evacuations.
 
