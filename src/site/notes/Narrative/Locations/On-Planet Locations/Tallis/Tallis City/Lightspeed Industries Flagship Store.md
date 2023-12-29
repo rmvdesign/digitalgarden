@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/lightspeed-industries-flagship-store/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/lightspeed-industries-flagship-store/","dgPassFrontmatter":true}
 ---
 
 The **Lightspeed Industries Flagship Store** is a state-of-the-art facility situated in the heart of [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/Tallis City\|Tallis City]] at 31 Marble Road. As the company's premier showcase, this location serves as both a cutting-edge technology centre and an interactive shopping destination, attracting enthusiasts, curiosity-seekers, and casual consumers alike.
