@@ -1,9 +1,9 @@
 ---
-{"aliases":["android"],"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/q-series-android/","dgPassFrontmatter":true}
+{"aliases":["android"],"tags":null,"dg-publish":true,"Universal Name":"·𐑒𐑿-𐑕𐑰𐑮𐑰𐑟 𐑨𐑯𐑛𐑮𐑶𐑛","permalink":"/narrative/concepts/tech/q-series-android/","dgPassFrontmatter":true}
 ---
 
 
-The Q-Series Android is a line of autonomous household helper robots developed by [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]]. Designed to resemble the Tallisite species, the Q-Series Android is equipped with advanced artificial intelligence, allowing it to perform a wide range of tasks including cleaning, cooking, and providing companionship.
+The **Q-Series Android** (·𐑒𐑿-𐑕𐑰𐑮𐑰𐑟 𐑨𐑯𐑛𐑮𐑶𐑛) is a line of autonomous household helper robots developed by [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]]. Designed to resemble the Tallisite species, the Q-Series Android is equipped with advanced artificial intelligence, allowing it to perform a wide range of tasks including cleaning, cooking, and providing companionship.
 
 The original Q-Series Android was released to the market as an intelligent assistant, but it was not well received due to its limited capabilities. In response, [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]] integrated their proprietary [[Narrative/Concepts/Tech/N-type Neural Coprocessor\|N-type Neural Coprocessor]] into the Q-Series Android, significantly improving its performance and capabilities.
 
