@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["S08"],"permalink":"/narrative/locations/worlds/envilles/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["S08"],"Universal Name":"","permalink":"/narrative/locations/worlds/envilles/","dgPassFrontmatter":true}
 ---
 
 **Envilles** is an industrious colony etched upon the rugged terrain of a barren world within the territory of the Navareo Empire. Bereft of a natural atmosphere and devoid of indigenious life, Envilles is a quintessential example of a colony fully dedicated to the manufacturing prowess of the Empire. The lack of hospitable conditions on the rocky surface has not deterred its transformation into a vital node of production in the galaxy.
