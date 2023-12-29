@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/narration/phyrra-s-spark/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/narration/phyrra-s-spark/","dgPassFrontmatter":true}
 ---
 
 ## Prologue: The android attacks!
