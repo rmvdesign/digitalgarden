@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/theodyne/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"·𐑔𐑰𐑴𐑛𐑲𐑯","permalink":"/narrative/concepts/science/theodyne/","dgPassFrontmatter":true}
 ---
 
-Theodyne is a potent fuel derived from the exotic and mysterious material [[Narrative/Concepts/Science/Theorium\|Theorium]], refined through a process developed by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] of the Tallis Institute. With the ability to generate coherence fields that alter reality's fundamental constants, Theodyne has revolutionised the fields of science, technology, and exploration in the cosmos. In its purest form, Theodyne-100, the substance has enabled groundbreaking applications such as hyperlight (HL) travel and gravity manipulation.
+**Theodyne** (·𐑔𐑰𐑴 𐑛𐑲𐑯) is a potent fuel derived from the exotic and mysterious material [[Narrative/Concepts/Science/Theorium\|Theorium]], refined through a process developed by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] of the Tallis Institute. With the ability to generate coherence fields that alter reality's fundamental constants, Theodyne has revolutionised the fields of science, technology, and exploration in the cosmos. In its purest form, Theodyne-100, the substance has enabled groundbreaking applications such as hyperlight (HL) travel and gravity manipulation.
 
 ## Refinement Process
 
