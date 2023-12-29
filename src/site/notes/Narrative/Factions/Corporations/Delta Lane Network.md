@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/delta-lane-network/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/delta-lane-network/","dgPassFrontmatter":true}
 ---
 
 The Delta Lane Network (DLN) is a transport group that has been operating for over a century, specialising in the maintenance and operation of the HyperLanes and HyperMetro systems. Established in the early years of galactic expansion, the Delta Lane Network has grown into a multi-sector corporation, serving thousands of planets and billions of commuters every day.
