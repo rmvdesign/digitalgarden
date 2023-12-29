@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/species/varyn/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/species/varyn/","dgPassFrontmatter":true}
 ---
 
 The Varyn (Varyn: VARIN) are a silicon-based, gelatinous species native to the planet Varyn. They are known for their unique physical characteristics, which include a translucent blue appearance under neutral light and a lack of traditional organs.
