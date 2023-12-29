@@ -1,9 +1,9 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Chase Q1-K120N","Role":"Chorus","Species":"Android","Gender":"Android Man","permalink":"/narrative/characters/daedalus-plan/chase/","dgPassFrontmatter":true}
+{"Universal Name":"·𐑗𐑱𐑕 ·𐑒𐑿1-𐑒𐑱120𐑧𐑯","aliases":null,"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Chase Q1-K120N","Role":"Chorus","Species":"Android","Gender":"Android Man","permalink":"/narrative/characters/daedalus-plan/chase/","dgPassFrontmatter":true}
 ---
 
 
-One of the six [[Narrative/Concepts/Tech/Q-Series Android\|androids]] that work for the [[Narrative/Factions/Interstellar Police Department\|ISPD]], Detective 2nd Grade Chase Q1-K120N is a detective and undercover Lorem operative. During his five year mission with the [[Narrative/Factions/Interstellar Police Department\|ISPD]], he became a detective and was assigned [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana]] as his partner. He grows to trust and respect her, and eventually tells her the truth regarding his work.
+One of the six [[Narrative/Concepts/Tech/Q-Series Android\|androids]] that work for the [[Narrative/Factions/Interstellar Police Department\|ISPD]], Detective 2nd Grade **Chase Q1-K120N** (·𐑗𐑱𐑕 ·𐑒𐑿1-𐑒𐑱120𐑧𐑯) is a detective and undercover Lorem operative. During his five year mission with the [[Narrative/Factions/Interstellar Police Department\|ISPD]], he became a detective and was assigned [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana]] as his partner. He grows to trust and respect her, and eventually tells her the truth regarding his work.
 
 # Physical description
 
