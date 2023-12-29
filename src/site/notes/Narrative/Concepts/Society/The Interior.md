@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/the-interior/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑞 𐑦𐑯𐑑𐑦𐑮𐑰𐑼","permalink":"/narrative/concepts/society/the-interior/","dgPassFrontmatter":true}
 ---
 
-**The Interior** is a vast, interconnected virtual world designed specifically for users of [[Narrative/Concepts/Tech/Neural Virtual Reality\|Neural Virtual Reality]] (NVR) headsets, providing a shared environment where individuals can interact with each other using highly detailed and realistic avatars. The Interior has grown exponentially since its inception, attracting millions of users worldwide who contribute to its ever-growing landscape, shaping the world through their unique designs and creativity.
+**The Interior** (𐑞 𐑦𐑯𐑑𐑦𐑮𐑰𐑼) is a vast, interconnected virtual world designed specifically for users of [[Narrative/Concepts/Tech/Neural Virtual Reality\|Neural Virtual Reality]] (NVR) headsets, providing a shared environment where individuals can interact with each other using highly detailed and realistic avatars. The Interior has grown exponentially since its inception, attracting millions of users worldwide who contribute to its ever-growing landscape, shaping the world through their unique designs and creativity.
 
 The Interior is not only a platform for entertainment but also serves as a hub for various communities and activities. Its spatial network extends to various realms, catering to different interests and desires, ranging from gaming, education, and social interaction to immersive experiences, such as full-scale simulations and virtual vacations.
 
