@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/the-spire/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/the-spire/","dgPassFrontmatter":true}
 ---
 
 The Spire, an architectural marvel within Tallis City, is a groundbreaking megabuilding that houses a meticulously designed microcity. Rising majestically over the skyline, the Spire serves as a testament to sustainable living, walkability, and innovative urban planning. With a seamless blend of residential, commercial, and transportation services, the Spire embodies the essence of urban efficiency.
