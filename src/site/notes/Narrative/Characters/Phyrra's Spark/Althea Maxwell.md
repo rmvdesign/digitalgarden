@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Althea Maxwell","Pronouns":"she/her","Role":"Opponent","Species":"Tallisite","Gender":"Cis Woman","permalink":"/narrative/characters/phyrra-s-spark/althea-maxwell/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Althea Maxwell","Pronouns":"she/her","Role":"Opponent","Species":"Tallisite","Gender":"Cis Woman","Universal Name":"·𐑨𐑤𐑔𐑰𐑩 ·𐑥𐑨𐑒𐑕𐑢𐑧𐑤","permalink":"/narrative/characters/phyrra-s-spark/althea-maxwell/","dgPassFrontmatter":true}
 ---
 
-**Althea Maxwell** is a well-known and respected news anchor and reporter for the [[Narrative/Factions/Corporations/Galactic Feed\|Galactic Feed]], the most popular video-based news outlet in the known galaxy. She has been in the industry for over a decade and has established herself as one of the top journalists in the business.
+**Althea Maxwell** (·𐑨𐑤𐑔𐑰𐑩 ·𐑥𐑨𐑒𐑕𐑢𐑧𐑤) is a well-known and respected news anchor and reporter for the [[Narrative/Factions/Corporations/Galactic Feed\|Galactic Feed]], the most popular video-based news outlet in the known galaxy. She has been in the industry for over a decade and has established herself as one of the top journalists in the business.
 
 Maxwell is known for her sleek and stylish appearance, always impeccably dressed and perfectly coiffed. She takes great pride in her appearance and is not shy about flaunting it, often using her looks to her advantage in her career. However, she is also aware of her vanity and works to balance it with her professionalism and dedication to her work.
 
