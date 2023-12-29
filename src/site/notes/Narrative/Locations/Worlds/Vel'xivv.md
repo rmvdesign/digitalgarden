@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R02"],"permalink":"/narrative/locations/worlds/vel-xivv/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R02"],"Universal Name":"","permalink":"/narrative/locations/worlds/vel-xivv/","dgPassFrontmatter":true}
 ---
 
 **Vel’xivv**, often referred to in historical documents as the ‘**Original Experiment**’, is a Ring World recognised for its role as a prototype station instrumental in the development and advancement of subsequent Ring Worlds, primarily for the spacefaring race, the Ring Dwellers.
