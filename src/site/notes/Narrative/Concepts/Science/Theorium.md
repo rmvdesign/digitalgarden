@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/theorium/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑔𐑰𐑼𐑰𐑘𐑳𐑥","permalink":"/narrative/concepts/science/theorium/","dgPassFrontmatter":true}
 ---
 
-Theorium is an exotic, iridescent, and translucent crystalline material with the extraordinary ability to manipulate the fabric of reality itself. First discovered by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] from the Tallis Institute, Theorium has revolutionised the fields of science, technology, and exploration in the cosmos. This powerful substance has the potential to reshape the physical constants of reality, providing its users with seemingly god-like powers over creation. However, it is important to note that Theorium, in its raw and unrefined state, is highly unstable and can have dangerous effects on gravity and spacetime.
+**Theorium** (𐑔𐑰𐑼𐑰𐑘𐑳𐑥) is an exotic, iridescent, and translucent crystalline material with the extraordinary ability to manipulate the fabric of reality itself. First discovered by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] from the Tallis Institute, Theorium has revolutionised the fields of science, technology, and exploration in the cosmos. This powerful substance has the potential to reshape the physical constants of reality, providing its users with seemingly god-like powers over creation. However, it is important to note that Theorium, in its raw and unrefined state, is highly unstable and can have dangerous effects on gravity and spacetime.
 
 ## Origin and Discovery
 
