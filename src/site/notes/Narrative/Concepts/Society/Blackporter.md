@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/blackporter/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑚𐑤𐑨𐑒𐑐𐑹𐑑𐑼","permalink":"/narrative/concepts/society/blackporter/","dgPassFrontmatter":true}
 ---
 
-A **Blackporter** is a specialised type of porter, operating primarily in the galactic delivery industry. While most porters are responsible for legal deliveries and supply runs between various planetary systems, blackporters distinguish themselves through their involvement in the criminal underbelly of the galaxy. They are often hired by criminal elements to transport illegal goods, controlled substances, weapons, and other types of forbidden cargo.
+A **Blackporter** (𐑚𐑤𐑨𐑒𐑐𐑹𐑑𐑼) is a specialised type of porter, operating primarily in the galactic delivery industry. While most porters are responsible for legal deliveries and supply runs between various planetary systems, blackporters distinguish themselves through their involvement in the criminal underbelly of the galaxy. They are often hired by criminal elements to transport illegal goods, controlled substances, weapons, and other types of forbidden cargo.
 
 Blackporters typically maintain a facade of legitimacy as regular porters working for the reputable delivery collective [[Narrative/Factions/Corporations/Porters United\|Porters United]]. This allows them to leverage their ostensibly legal positions as cover for their covert activities. As a result, blackporters are highly sought-after by criminal organisations, who value their ability to bypass security measures and various regulations in place throughout the galaxy.
 
