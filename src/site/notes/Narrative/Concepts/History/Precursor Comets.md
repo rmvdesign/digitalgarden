@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/history/precursor-comets/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑐𐑮𐑰𐑒𐑻𐑕𐑼 𐑒𐑭𐑥𐑩𐑑𐑕","permalink":"/narrative/concepts/history/precursor-comets/","dgPassFrontmatter":true}
 ---
 
-Precursor Comets (PCs) are a series of celestial objects known for carrying organic compounds capable of seeding life on the planets they pass. Their origin and their final destinations remain shrouded in mystery.
+**Precursor Comets** (𐑐𐑮𐑰𐑒𐑻𐑕𐑼 𐑒𐑭𐑥𐑩𐑑𐑕, PCs) are a series of celestial objects known for carrying organic compounds capable of seeding life on the planets they pass. Their origin and their final destinations remain shrouded in mystery.
 
 Precursor Comets are composed of a unique mix of materials, including water ice, dust, and a rich array of organic compounds, which differentiate them from ordinary comets. These organic compounds encompass the building blocks essential for the development of life, such as amino acids, nucleic acids, and simple sugars. Additionally, an extensive variety of lipids and phospholipids which lay the foundation for cell membrane structures are also present within the comets.
 
