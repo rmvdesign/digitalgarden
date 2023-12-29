@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/realistics-drive/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/concepts/tech/realistics-drive/","dgPassFrontmatter":true}
 ---
 
 The **Realistics Drive** is a method of hyperlight (HL) travel. It works by temporarily altering the fundamental constants of reality within a "bubble" around a ship or individual, allowing them to accelerate to speeds that are above the speed of light within the bubble. This allows the ship or individual to effectively travel faster than the speed of light, despite the fact that the speed of light remains constant within the bubble.
