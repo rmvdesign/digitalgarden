@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/alma-net/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"·𐑨𐑤𐑥𐑩𐑯𐑧𐑑","permalink":"/narrative/concepts/tech/alma-net/","dgPassFrontmatter":true}
 ---
 
-**AlmaNet** (Also known as the Interconnected Digital Almanac, AlmaNet itself is an acronym for *Advanced Library of Multidisciplinary Articles and Networked Encyclopaedia Tabulator*) is a comprehensive, galaxy-wide encyclopaedia and search engine that operates within the extensive PlaNet computer network. Unlike many open source platforms, AlmaNet restricts edit privileges solely to verified domain experts, ensuring a consistent level of accuracy and reliability across the digital almanac.
+**AlmaNet** (·𐑨𐑤𐑥𐑩𐑯𐑧𐑑, Also known as the Interconnected Digital Almanac, AlmaNet itself is an acronym for *Advanced Library of Multidisciplinary Articles and Networked Encyclopaedia Tabulator*) is a comprehensive, galaxy-wide encyclopaedia and search engine that operates within the extensive PlaNet computer network. Unlike many open source platforms, AlmaNet restricts edit privileges solely to verified domain experts, ensuring a consistent level of accuracy and reliability across the digital almanac.
 
 As an encyclopaedia, AlmaNet is focused on providing high-quality, impartial, and well-sourced content. Unlike more collaborative online encyclopaedias, AlmaNet's editing process is restricted to renowned experts in their respective fields, who undergo a rigorous vetting and approval process. This system, known as _Selective Editing_ (SE), is designed to maintain the integrity and reliability of the information available on the platform.
 
