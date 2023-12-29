@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/inter-planet-indicator/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/inter-planet-indicator/","dgPassFrontmatter":true}
 ---
 
 The Inter Planet Indicator, commonly referred to as the IPI, is the largest and most influential newspaper in the galaxy. Founded over a hundred years ago, the IPI has a reputation for thorough and unbiased reporting, covering a wide range of topics from politics and economics to science and entertainment.
