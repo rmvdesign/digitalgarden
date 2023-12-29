@@ -1,5 +1,5 @@
 ---
-{"aliases":"LD Drive","tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/light-distortion-drive/","dgPassFrontmatter":true}
+{"aliases":["LD Drive"],"tags":null,"dg-publish":true,"Universal Name":"𐑤𐑲𐑑 𐑛𐑦𐑕𐑑𐑸𐑖𐑩𐑯 𐑛𐑮𐑲𐑝","permalink":"/narrative/concepts/tech/light-distortion-drive/","dgPassFrontmatter":true}
 ---
 
 The **Light Distortion Drive** (**LD Drive**) is an experimental hyperlight (HL) propulsion system designed for interstellar travel. By manipulating light and space-time curvature to create a stable and traversable wormhole, the LD Drive enables instantaneous point-to-point travel anywhere in the galaxy. Due to its experimental nature, the LD Drive has yet to be widely implemented and is currently undergoing extensive research and development. It is currently under development, with research efforts ongoing in a collaboration between the Varyn Council of Scientists and the Tallis Institute's Hyperlight Division.
