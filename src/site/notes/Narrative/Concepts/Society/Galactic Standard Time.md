@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/galactic-standard-time/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑜𐑩𐑤𐑨𐑒𐑑𐑦𐑒 𐑕𐑑𐑨𐑯𐑛𐑼𐑛 𐑑𐑲𐑥","permalink":"/narrative/concepts/society/galactic-standard-time/","dgPassFrontmatter":true}
 ---
 
-**Galactic Standard Time (GST)** is a widely-adopted, uniform system of time measurement developed in response to the rapid dissemination of information across the galaxy after the complete decryption of the [[Narrative/Concepts/History/Martian Backup\|Martian Backup]]. With numerous species and cultures using different methods of timekeeping, the need for a standardised time system became apparent to maintain efficient communication, trade, and cooperation between various galactic factions.
+**Galactic Standard Time (GST)** (𐑜𐑩𐑤𐑨𐑒𐑑𐑦𐑒 𐑕𐑑𐑨𐑯𐑛𐑼𐑛 𐑑𐑲𐑥) is a widely-adopted, uniform system of time measurement developed in response to the rapid dissemination of information across the galaxy after the complete decryption of the [[Narrative/Concepts/History/Martian Backup\|Martian Backup]]. With numerous species and cultures using different methods of timekeeping, the need for a standardised time system became apparent to maintain efficient communication, trade, and cooperation between various galactic factions.
 
 Inspired by the terraformation of the planet [[Narrative/Locations/Worlds/Hora\|Hora]], Yalgeth Labs devised a new time system based on [[Narrative/Locations/Worlds/Hora\|Hora]]'s unique orbital characteristics. The planet was deliberately shaped and positioned in orbit to facilitate accurate time measurement according to the following specifications:
 
