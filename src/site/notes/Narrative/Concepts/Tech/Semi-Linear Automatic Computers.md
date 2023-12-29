@@ -1,5 +1,5 @@
 ---
-{"aliases":"Computer","tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/semi-linear-automatic-computers/","dgPassFrontmatter":true}
+{"aliases":"Computer","tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/concepts/tech/semi-linear-automatic-computers/","dgPassFrontmatter":true}
 ---
 
 **Semi-Linear Automatic Computers** (SLACs, often just called **computers**) are an advanced class of computational devices that ingeniously amalgamate digital and analogue technologies. Rising to prominence subsequent to the exposition of silicon semiconductor technologies, these machines differentiate themselves from the standard digital computers through their non-traditional storage and data organisation methods.
