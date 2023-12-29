@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Austin Taswell","Pronouns":"he/him","Role":"Dreamer","Species":"Tallisite","Gender":"Trans Man","permalink":"/narrative/characters/phyrra-s-spark/austin-taswell/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Full Name":"Austin Taswell","Pronouns":"he/him","Role":"Dreamer","Species":"Tallisite","Gender":"Trans Man","Universal Name":"·𐑭𐑕𐑑𐑩𐑯 ·𐑑𐑨𐑟𐑢𐑧𐑤","permalink":"/narrative/characters/phyrra-s-spark/austin-taswell/","dgPassFrontmatter":true}
 ---
 
-Austin Taswell is a Tallisite man in his mid-thirties. Standing at around 6', he is tall and lean, with short black hair and a neatly trimmed goatee. He wears round glasses that frame his piercing blue eyes, and is known for his love of white button-down shirts paired with grey pants and a crisp white apron when he's working in his studio. As a trans man, Austin has always been proud of his identity and has worked hard to establish himself as a respected and successful architect.
+**Austin Taswell** (·𐑭𐑕𐑑𐑩𐑯 ·𐑑𐑨𐑟𐑢𐑧𐑤) is a Tallisite architect in his mid-thirties. Standing at around 6', he is tall and lean, with short black hair and a neatly trimmed goatee. He wears round glasses that frame his piercing blue eyes, and is known for his love of white button-down shirts paired with grey pants and a crisp white apron when he's working in his studio. As a trans man, Austin has always been proud of his identity and has worked hard to establish himself as a respected and successful architect.
 
 Despite his busy schedule, Austin is a devoted husband to [[Narrative/Characters/Daedalus Plan/Bill Taswell\|Bill Taswell]] and a loving father to their children. He values his family above all else and is always willing to make time for them, whether it's taking the kids to the park or simply sitting down to a family dinner. In his free time, Austin enjoys cooking and trying out new recipes, as well as working on personal projects in his studio.
 
