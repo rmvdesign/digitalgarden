@@ -1,9 +1,8 @@
 ---
-{"aliases":"Bill","tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Winfred Ian Taswell","Role":"Assistant","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/bill-taswell/","dgPassFrontmatter":true}
+{"Universal Name":"·𐑢𐑦𐑯𐑓𐑮𐑦𐑛 ·𐑰𐑩𐑯 ·𐑑𐑨𐑟𐑢𐑧𐑤","aliases":["Bill"],"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Winfred Ian Taswell","Role":"Assistant","Species":"Tallisite","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/bill-taswell/","dgPassFrontmatter":true}
 ---
 
-
-The practical embodiment of the rich grounder stereotype, Executive Editor Winfred Ian Taswell writes for the galaxy's biggest newspaper and lives on Tallis with his husband Austin and two daughters Julie and Marie. While he usually likes to work on op-eds and more involved projects compared to field reporting, he joins Morgana and Fillion in search of the adventure of a lifetime.
+The practical embodiment of the rich grounder stereotype, **Executive Editor Winfred Ian Taswell** (·𐑢𐑦𐑯𐑓𐑮𐑦𐑛 ·𐑰𐑩𐑯 ·𐑑𐑨𐑟𐑢𐑧𐑤) writes for the galaxy's biggest newspaper and lives on Tallis with his husband Austin and two daughters Julie and Marie. While he usually likes to work on op-eds and more involved projects compared to field reporting, he joins Morgana and Fillion in search of the adventure of a lifetime.
 
 # Physical description
 
