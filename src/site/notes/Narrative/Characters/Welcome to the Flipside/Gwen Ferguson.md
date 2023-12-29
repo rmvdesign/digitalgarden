@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/welcome-to-the-flipside/gwen-ferguson/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/characters/welcome-to-the-flipside/gwen-ferguson/","dgPassFrontmatter":true}
 ---
 
 Gwen was about fifteen years old and grew up in Edinburgh before she was shot and killed by [[Narrative/Characters/Welcome to the Flipside/Paula Sinclair\|Paula Sinclair]] when her family was detained. She was wearing an oversized grey hooded sweater and a pair of loose blue jeans that were transferred with her into the afterlife when she was killed by three gunshots to the back. She's of average height and pale complexion and is on the chubbier side. That said, she's by no means under- or overweight. She's just average. Gwen's primary identifying trait is her almost waist long bright orange hair that she inherited from her parents. She has emerald green eyes, but these are almost always accompanied by tired shadows. Her death marks are three black dots on her back.
