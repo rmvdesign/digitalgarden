@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/lightspeed-industries/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/lightspeed-industries/","dgPassFrontmatter":true}
 ---
 
 Lightspeed Industries is a multi-planetary corporation that specializes in the production of advanced starship parts, specifically engines and navigation systems. Founded by CEO [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], the company quickly gained a reputation for its high-quality products and innovative design. It is a wholly-owned subsidiary of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]].
