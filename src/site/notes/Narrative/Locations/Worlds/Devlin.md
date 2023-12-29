@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["K11"],"permalink":"/narrative/locations/worlds/devlin/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["K11"],"Universal Name":"","permalink":"/narrative/locations/worlds/devlin/","dgPassFrontmatter":true}
 ---
 
 **Devlin**, a tertiary planet situated along the HyperMetro's K line, thrives in relative obscurity within the tapestry of a galaxy encompassing grand narratives and colossal civilisations. An unaligned world, it shuns the convoluted politics and power struggles characterising the prominent players of the cosmos. The planet is not a part of the World Unity nor any major faction, maintaining an almost strategic significance in its insignificance.
