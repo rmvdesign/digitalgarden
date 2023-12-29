@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/uni/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/uni/","dgPassFrontmatter":true}
 ---
 
 UNI is a universally renowned and widely distributed retail corporation and the largest retailer in the galaxy, specialising in operating a chain of grocery stores across various planets, such as [[Narrative/Locations/Worlds/Tallis\|Tallis]] and Navareo, the majority of public refuelling stations, and numerous smaller worlds. UNI is celebrated for its extensive range of fresh and varied produce, sourced from diverse regions across the galaxy, with a focus on streamlining logistics, sustainability, and accessibility for populations of all economic backgrounds.
