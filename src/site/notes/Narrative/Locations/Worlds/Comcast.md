@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N06"],"permalink":"/narrative/locations/worlds/comcast/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N06"],"Universal Name":"","permalink":"/narrative/locations/worlds/comcast/","dgPassFrontmatter":true}
 ---
 
 Comcast Station is the outermost Ring World, characterised by its barren exterior and remote placement on the very cusp of Ring Dwellers’ domain. Standing as the last gas stop before venturing into the bustling intergalactic avenues, it often serves as the last sight of home for explorers or as a first welcome sight for foreign vessels.
