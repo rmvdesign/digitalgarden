@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/enle-tera/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/enle-tera/","dgPassFrontmatter":true}
 ---
 
 **Enle Tera**, Navarean for "Earth's Bounty", is a private corporation specialising in hydroponics and phytogenetics. The sole patent holder for multiple [[Narrative/Concepts/History/Ruinous Objects\|Ruinous]] plants, their business model is based on producing said plants and derivative projects of them. They are mainly known for producing coffee beans and selling coffee directly.
