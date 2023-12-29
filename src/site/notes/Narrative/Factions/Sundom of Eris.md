@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/factions/sundom-of-eris/","dgPassFrontmatter":true}
+{"aliases":[],"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","Universal Name":"","permalink":"/narrative/factions/sundom-of-eris/","dgPassFrontmatter":true}
 ---
 
 The **Sundom of Eris**, commonly known as **[[Narrative/Locations/Worlds/Tallis\|Tallis]]**, is a political and economic entity located on the Western period of the galactic disc. It consists of one homeworld, 2 colonies and 15 outlying space stations. The Sundom shares celestial borders with the Southern Neutral Zone and the [[Narrative/Factions/Navareo Empire\|Navareo Empire]]. Named after the solar centre of its homeworld, Eris, the Sundom is one of the most important entities in [[Narrative/Factions/The World Unity\|The World Unity]], as well as a founding member.
