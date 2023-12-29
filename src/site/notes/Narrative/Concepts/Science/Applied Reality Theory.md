@@ -1,8 +1,8 @@
 ---
-{"aliases":"Realistics","tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/applied-reality-theory/","dgPassFrontmatter":true}
+{"aliases":["Realistics"],"tags":null,"dg-publish":true,"Universal Name":"𐑩𐑐𐑤𐑲𐑛 𐑮𐑰𐑨𐑤𐑩𐑑𐑰 𐑔𐑰𐑼𐑰","permalink":"/narrative/concepts/science/applied-reality-theory/","dgPassFrontmatter":true}
 ---
 
-**Applied Reality Theory**, also known as **Realistics**, is a branch of physics that focuses on the manipulation of fundamental constants, the fundamental physical quantities that define the nature of the universe. It is based on the idea that these constants are not fixed, but can be altered through the application of certain stimuli.
+**Applied Reality Theory** (𐑩𐑐𐑤𐑲𐑛 𐑮𐑰𐑨𐑤𐑩𐑑𐑰 𐑔𐑰𐑼𐑰), also known as **Realistics** (𐑮𐑰𐑩𐑤𐑦𐑕𐑑𐑦𐑒𐑕), is a branch of physics that focuses on the manipulation of fundamental constants, the fundamental physical quantities that define the nature of the universe. It is based on the idea that these constants are not fixed, but can be altered through the application of certain stimuli.
 
 One of the main applications of Applied Reality Theory is the development of the [[Narrative/Concepts/Tech/Realistics Drive\|Realistics Drive]], a method of hyperlight (HL) travel that works by temporarily altering the fundamental constants of reality within a "bubble" around a ship or individual. This allows them to effectively travel faster than the speed of light, despite the fact that the speed of light remains constant within the bubble.
 
