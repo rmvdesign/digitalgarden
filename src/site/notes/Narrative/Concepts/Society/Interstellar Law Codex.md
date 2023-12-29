@@ -1,8 +1,8 @@
 ---
-{"aliases":["ILC"],"tags":[],"dg-publish":true,"permalink":"/narrative/concepts/society/interstellar-law-codex/","dgPassFrontmatter":true}
+{"aliases":["ILC"],"tags":null,"dg-publish":true,"Universal Name":"𐑦𐑯𐑑𐑼𐑕𐑑𐑧𐑤𐑼 𐑤𐑭 𐑒𐑴𐑛𐑧𐑒𐑕","permalink":"/narrative/concepts/society/interstellar-law-codex/","dgPassFrontmatter":true}
 ---
 
-The **Interstellar Law Codex** (ILC) is a canonical legal document authored and upheld by the _[[Narrative/Factions/Interstellar Police Department\|Interstellar Police Department]]_. It serves as the legal pillar in the vast, bustling expanse known as the **Neutral Zone**, a region dotted with multifarious lunar landscapes, churning nebulas, and cosmic thoroughfares, where species from across the galaxies converge, cohabitate, and interact.
+The **Interstellar Law Codex** (𐑦𐑯𐑑𐑼𐑕𐑑𐑧𐑤𐑼 𐑤𐑭 𐑒𐑴𐑛𐑧𐑒𐑕, ILC) is a canonical legal document authored and upheld by the _[[Narrative/Factions/Interstellar Police Department\|Interstellar Police Department]]_. It serves as the legal pillar in the vast, bustling expanse known as the **Neutral Zone**, a region dotted with multifarious lunar landscapes, churning nebulas, and cosmic thoroughfares, where species from across the galaxies converge, cohabitate, and interact.
 
 The purpose of the ILC is multifold. It not only firmly establishes the rules of conduct within the Neutral Zone, preventing potential disorder, and laying guidelines for interspecies interactions, but also mitigates fiery disputes and cultivates harmony among a veritable cacophony of interstellar inhabitants.
 
