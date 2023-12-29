@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","permalink":"/narrative/locations/theotech-corporate-sovereignty/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":"Quick Facts","Universal Name":"","permalink":"/narrative/locations/theotech-corporate-sovereignty/","dgPassFrontmatter":true}
 ---
 
 
