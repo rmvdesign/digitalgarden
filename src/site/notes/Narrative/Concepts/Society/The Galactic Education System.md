@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/the-galactic-education-system/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑧𐑡𐑩𐑒𐑱𐑖𐑩𐑯 𐑦𐑯 𐑞 𐑿𐑯𐑲𐑑𐑦𐑛 ·𐑢𐑻𐑤𐑛𐑟","permalink":"/narrative/concepts/society/the-galactic-education-system/","dgPassFrontmatter":true}
 ---
 
 
