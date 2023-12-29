@@ -1,5 +1,5 @@
 ---
-{"aliases":["DP","OB1"],"tags":null,"dg-publish":true,"permalink":"/narrative/narration/daedalus-plan/","dgPassFrontmatter":true}
+{"aliases":["DP","OB1"],"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/narration/daedalus-plan/","dgPassFrontmatter":true}
 ---
 
 
