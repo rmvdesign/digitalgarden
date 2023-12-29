@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/icarus-falls/beauregard-olivia-atwood/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"·𐑚𐑷𐑮𐑦𐑜𐑸𐑛 ·𐑴𐑤𐑦𐑝𐑰𐑩 ·𐑨𐑑𐑢𐑫𐑛","permalink":"/narrative/characters/icarus-falls/beauregard-olivia-atwood/","dgPassFrontmatter":true}
 ---
 
-**Beauregard Olivia Atwood**, affectionately known as '**Beau**' by his few close confidantes, offers a stark contrast to his sister and former co-worker [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana Terry Atwood]]. Once a dedicated officer of the [[Narrative/Factions/Interstellar Police Department\|Interstellar Police Department]] alongside his sister, Beauregard traded in the straight-laced life of a law enforcer for a far more adventurous and freewheeling existence. He is known across the stars as a mischief-laden trickster and a cunning charlatan, armed with an abundance of charm and a talent for peddling artefacts of dubious origin and doubtful value.
+**Beauregard Olivia Atwood** (·𐑚𐑷𐑮𐑦𐑜𐑸𐑛 ·𐑴𐑤𐑦𐑝𐑰𐑩 ·𐑨𐑑𐑢𐑫𐑛), affectionately known as '**Beau**' (·𐑚𐑴) by his few close confidantes, offers a stark contrast to his sister and former co-worker [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana Terry Atwood]]. Once a dedicated officer of the [[Narrative/Factions/Interstellar Police Department\|Interstellar Police Department]] alongside his sister, Beauregard traded in the straight-laced life of a law enforcer for a far more adventurous and freewheeling existence. He is known across the stars as a mischief-laden trickster and a cunning charlatan, armed with an abundance of charm and a talent for peddling artefacts of dubious origin and doubtful value.
 
 Standing at 5'4", Beauregard is an eye-catching figure, bearing the same dark brown hair as his sister, albeit fashioning them into a short, carefree style. Add a perpetual layer of slight stubble and you have a man that emanates an aura of perennial roguery. His proud display of his top surgery scars serves as an acknowledgement of his transgender identity.
 
