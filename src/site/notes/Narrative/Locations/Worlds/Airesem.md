@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":"S06","permalink":"/narrative/locations/worlds/airesem/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":"S06","Universal Name":"","permalink":"/narrative/locations/worlds/airesem/","dgPassFrontmatter":true}
 ---
 
 **Airesem** is the frontier outpost of the Navareo Empire. Stretching across the rocky expanse of a moon at the empire periphery, Airesem represents a crucial juncture between the core territories of the Navareo Empire and its trailward edge realms. It is located within an interstellar strait, a funnel for traffic that necessitated its transformation from a mere research outpost to a penal colony over the course of its growth.
