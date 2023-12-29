@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/the-rose-field/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑮𐑴𐑟𐑱 𐑓𐑰𐑤𐑛","permalink":"/narrative/concepts/science/the-rose-field/","dgPassFrontmatter":true}
 ---
 
-The Rose Field is the underlying technology behind quantum entanglement communication. It is an engineering solution to a conceptual paradox. This paradox - known as the Einstein-Podolsky-Rosen Paradox, as first stipulated by Human physicist Albert Einstein - states that if two entangled particles are measured, their properties will always be the same. However, it also states that if those properties are changed by an outside force - thus, not measured, but changed - that entanglement breaks. The Rose Field is a way of maintaining this entanglement even though its properties are being actively manipulated.
+The **Rose Field** (𐑮𐑴𐑟𐑱 𐑓𐑰𐑤𐑛) is the underlying technology behind quantum entanglement communication. It is an engineering solution to a conceptual paradox. This paradox - known as the Einstein-Podolsky-Rosen Paradox, as first stipulated by Human physicist Albert Einstein - states that if two entangled particles are measured, their properties will always be the same. However, it also states that if those properties are changed by an outside force - thus, not measured, but changed - that entanglement breaks. The Rose Field is a way of maintaining this entanglement even though its properties are being actively manipulated.
 
 The Rose Field operates by using specialised coherence fields to create a "bubble" around the entangled particles, allowing them to maintain their entanglement even when their properties are being actively manipulated. The fields use a combination of quantum decoherence techniques and quantum error correction algorithms to protect the particles from outside interference, essentially "shielding" them from the effects of their environment.
 
