@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["S10"],"permalink":"/narrative/locations/worlds/corryio/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["S10"],"Universal Name":"","permalink":"/narrative/locations/worlds/corryio/","dgPassFrontmatter":true}
 ---
 
 **Corryio** is an extra-solar colony planet under the governance of the [[Narrative/Factions/Navareo Empire\|Navareo Empire]]. With a predominantly arid climate and perilous geographical formations, the planet’s natural conditions are generally inhospitable. Yet, it finds commercial and strategic importance due to its rich deposits of natural resources and material wealth.
