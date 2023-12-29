@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/low-reality/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑤𐑴 𐑮𐑰𐑨𐑤𐑩𐑑𐑰","permalink":"/narrative/concepts/science/low-reality/","dgPassFrontmatter":true}
 ---
 
-In a state of **Low Reality**, the dominant paradigm of physics as we understand it begins to take on an increasingly surreal quality. This is characterised by the gradual erosion of typical cause-and-effect relationships, leading to a gradual shift toward consequences that do not align with our standard perception of reality.
+In a state of **Low Reality** (𐑤𐑴 𐑮𐑰𐑨𐑤𐑩𐑑𐑰), the dominant paradigm of physics as we understand it begins to take on an increasingly surreal quality. This is characterised by the gradual erosion of typical cause-and-effect relationships, leading to a gradual shift toward consequences that do not align with our standard perception of reality.
 
 Across low reality regions, objects and individuals may exhibit behaviours that starkly contradict established natural laws. For instance, physical injury, such as losing an arm, might not result in functional loss. The detached arm, guided by a form of phantom agency, may continue to behave as if it is attached, manipulating objects, and reacting to stimuli.
 
