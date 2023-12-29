@@ -1,9 +1,8 @@
 ---
-{"aliases":"Theotech","tags":null,"dg-publish":true,"permalink":"/narrative/factions/corporations/theotech-llc/","dgPassFrontmatter":true}
+{"aliases":["Theotech"],"tags":null,"dg-publish":true,"Universal Name":"·𐑔𐑰𐑴𐑑𐑧𐑒","permalink":"/narrative/factions/corporations/theotech-llc/","dgPassFrontmatter":true}
 ---
 
-
-**Theotech** is a multiplanetary conglomerate specializing in advanced technology development, with a focus on energy production, computing, transportation, and biotechnology. Founded in -16 by [[Narrative/Characters/WB Characters/Theo Rose\|Theo Rose]], the company has become one of the leading players in the technology sector, with a strong presence in both the corporate sovereignty and the neutral zone. The current CEO is [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]].
+**Theotech** (·𐑔𐑰𐑴𐑑𐑧𐑒) is a multi-planetary conglomerate specialising in advanced technology development, with a focus on energy production, computing, transportation, and biotechnology. Founded in -16 by [[Narrative/Characters/WB Characters/Theo Rose\|Theo Rose]], the company has become one of the leading players in the technology sector, with a strong presence in both the corporate sovereignty and the neutral zone. The current CEO is [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]].
 
 Theotech is also the sole patent holder for semiconductor manufacturing, which has allowed the company to dominate the computing market. The company's advanced manufacturing techniques and proprietary designs have made it the only significant player in the field, and its products are used in a wide range of industries including aviation, space exploration, and military applications.
 
