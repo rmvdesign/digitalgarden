@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/history/1-pre-history/before-the-creation-of-the-universe/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/history/1-pre-history/before-the-creation-of-the-universe/","dgPassFrontmatter":true}
 ---
 
 ```timeline
