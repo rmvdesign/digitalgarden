@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/neural-virtual-reality/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑧𐑯𐑝𐑰𐑸","permalink":"/narrative/concepts/tech/neural-virtual-reality/","dgPassFrontmatter":true}
 ---
 
-**Neural Virtual Reality**, also known as **NVR**, is a technology that allows users to fully immerse themselves in a virtual reality environment by directly stimulating the nerves in their body. An NVR headset consists of a headband with electrodes that read the user's nerve activity and two laser arrays that send information directly into the brain via hyper-precise laser pulses to the optic nerve.
+**Neural Virtual Reality** (𐑧𐑯𐑝𐑰𐑸), also known as **NVR**, is a technology that allows users to fully immerse themselves in a virtual reality environment by directly stimulating the nerves in their body. An NVR headset consists of a headband with electrodes that read the user's nerve activity and two laser arrays that send information directly into the brain via hyper-precise laser pulses to the optic nerve.
 
 The technology behind NVR has been in development for decades, but it has only recently become widely available to the general public. The first NVR systems used electrodes on the scalp to read brain activity and deep brain stimulation to provide feedback to the user, but these systems were limited in their capabilities and often caused discomfort for the user.
 
