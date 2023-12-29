@@ -1,5 +1,5 @@
 ---
-{"aliases":"ISPD","tags":null,"dg-publish":true,"permalink":"/narrative/factions/interstellar-police-department/","dgPassFrontmatter":true}
+{"aliases":"ISPD","tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/interstellar-police-department/","dgPassFrontmatter":true}
 ---
 
 
