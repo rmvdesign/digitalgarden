@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R03"],"permalink":"/narrative/locations/worlds/emac/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R03"],"Universal Name":"","permalink":"/narrative/locations/worlds/emac/","dgPassFrontmatter":true}
 ---
 
 **Emac** resonates as an engineering triumph among Ring Worlds, known for its resplendent pulsar-light emitting facade and its unprecedented orbit within a binary star system. The prime architects behind Emac's ascendancy are the Ygriths, a Ring Dweller clan whose lineage is steeped in spatial engineering prowess and a relentless pursuit for resource acquisition and monetisation.
