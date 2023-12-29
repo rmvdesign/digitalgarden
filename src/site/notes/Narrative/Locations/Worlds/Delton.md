@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A01"],"permalink":"/narrative/locations/worlds/delton/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["A01"],"Universal Name":"","permalink":"/narrative/locations/worlds/delton/","dgPassFrontmatter":true}
 ---
 
 **Delton** is the primary planet of the Delta species, categorised for its dying biosphere and inhospitable conditions reminiscent of an advanced stage of catastrophic climate deviation. Once teeming with life, Delton has suffered a drastic shift, now presenting vast expanses of desolation and a toxic atmospheric veil. 
