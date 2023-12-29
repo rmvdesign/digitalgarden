@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/folklore/cyclic-redundancy/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/concepts/folklore/cyclic-redundancy/","dgPassFrontmatter":true}
 ---
 
 Reality, defined as "the setting and world in which all the stories in this vault take place", is part of a self-repeating learning programme designed to learn and archive as much about the whole of creation. This includes overarching insights such as the nature of physics, but also more macroscopic topics such as relationships, creativity and consciousness. The process of creation, letting creation rest, and destruction followed by the cycle starting anew but slightly adjusted this time is called **Cyclic Redundancy**.
