@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/blackbox-implant/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑚𐑤𐑨𐑒 𐑚𐑭𐑒𐑕 𐑦𐑥𐑐𐑤𐑨𐑯𐑑","permalink":"/narrative/concepts/tech/blackbox-implant/","dgPassFrontmatter":true}
 ---
 
 **Blackbox Implants**, also known as **Blackboxes**, are neurointegrated augmentations that are implanted near the brain stem of an individual. These implants are designed to record every sensation experienced by the individual, including sight, sound, touch, and emotion. The recordings are stored in a buffer with a capacity of a few minutes, allowing the individual's final moments to be accessed after their death.
