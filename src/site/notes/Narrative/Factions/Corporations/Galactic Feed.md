@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"tags":[],"dg-publish":true,"permalink":"/narrative/factions/corporations/galactic-feed/","dgPassFrontmatter":true}
+{"aliases":[],"tags":[],"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/corporations/galactic-feed/","dgPassFrontmatter":true}
 ---
 
 The **Galactic Feed** is a major news organisation that operates 24/7 news channels and has a strong online presence. Based out of the capital city of the United Worlds, the Galactic Feed is known for its extensive coverage of current events and breaking news from around the galaxy. The organisation is known for its team of experienced and respected journalists, including its most well-known host, [[Narrative/Characters/Phyrra's Spark/Althea Maxwell\|Althea Maxwell]]. They are the main competitor to the [[Narrative/Factions/Corporations/Inter Planet Indicator\|Inter Planet Indicator]].
