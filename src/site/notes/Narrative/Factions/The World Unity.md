@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/factions/the-world-unity/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/factions/the-world-unity/","dgPassFrontmatter":true}
 ---
 
 The World Unity is a political and economic alliance of several interstellar civilisations in the galaxy. It was formed with the goal of promoting cooperation and understanding among its member states. The World Unity is made up of the [[Narrative/Factions/Navareo Empire\|Navareo Empire]], the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]], the [[Narrative/Factions/Varyn Confederacy\|Varyn Confederacy]], and several minor worlds including [[Narrative/Locations/Worlds/Ixbalanque\|Ixbalanque]], [[Narrative/Locations/Worlds/Pyramiden\|Pyramiden]], [[Narrative/Locations/Worlds/Quirit\|Quirit]], [[Narrative/Locations/Worlds/Telenn\|Telenn]], [[Narrative/Locations/Worlds/Eddystone\|Eddystone]], and [[Narrative/Locations/Worlds/Zhia-Zhea\|Zhia-Zhea]]. While each member state maintains its own sovereignty, they agree to work together and follow certain guidelines in order to further the goals of the alliance.
