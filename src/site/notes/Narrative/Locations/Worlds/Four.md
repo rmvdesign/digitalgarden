@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R04"],"permalink":"/narrative/locations/worlds/four/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R04"],"Universal Name":"","permalink":"/narrative/locations/worlds/four/","dgPassFrontmatter":true}
 ---
 
 **Four** distinguishes itself within the galactic community as a Ring World that has wholly embraced automation through an intricate network of programmable logic controllers (PLCs). The technology that drives Four is deliberately constructed from robust electromechanical components, deliberately eschewing the integrated circuitry that defines most contemporary technological systems.
