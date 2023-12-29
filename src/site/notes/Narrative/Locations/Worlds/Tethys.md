@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R01"],"permalink":"/narrative/locations/worlds/tethys/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["R01"],"Universal Name":"","permalink":"/narrative/locations/worlds/tethys/","dgPassFrontmatter":true}
 ---
 
 **Tethys** is a notable Ring World that has earned its distinction as the ancestral homeworld of a spacefaring race known as the Ring Dwellers. Its historical significance and cultural impact shape the societal and technological narratives of the Ring Dweller civilisation.
