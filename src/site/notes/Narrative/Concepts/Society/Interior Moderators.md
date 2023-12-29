@@ -1,5 +1,5 @@
 ---
-{"aliases":"Moderators","tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/interior-moderators/","dgPassFrontmatter":true}
+{"aliases":["Moderators"],"tags":null,"dg-publish":true,"Universal Name":"𐑦𐑯𐑑𐑦𐑮𐑰𐑼 𐑥𐑭𐑛𐑼𐑱𐑑𐑼𐑟","permalink":"/narrative/concepts/society/interior-moderators/","dgPassFrontmatter":true}
 ---
 
 In an effort to maintain efficient oversight and responsiveness within [[Narrative/Concepts/Society/The Interior\|the Interior]], [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] has taken a revolutionary approach by employing Moderators in a unique manner. These carefully chosen individuals agree to enter a voluntary, prolonged immersion into the system as a living testament to their commitment as guardians of the virtual world. This arduous arrangement showcases the lengths that [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] will go to provide a safe and secure environment for its users.
