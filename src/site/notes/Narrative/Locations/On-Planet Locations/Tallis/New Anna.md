@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/new-anna/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/on-planet-locations/tallis/new-anna/","dgPassFrontmatter":true}
 ---
 
 New Anna is a unique settlement located on the [[Narrative/Locations/Worlds/Tallis\|Tallis]] Date Line, a distinct boundary where perpetual sunlight gives way to the dark hemisphere of the tidally locked planet [[Narrative/Locations/Worlds/Tallis\|Tallis]]. As the sole inhabited area near this border, New Anna thrives as a primarily agricultural community, with the majority of its economic activity stemming from a single family-owned cooperative, the Date Line Farmstead.
