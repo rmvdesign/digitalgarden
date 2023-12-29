@@ -1,9 +1,9 @@
 ---
-{"aliases":"Fillion","tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Fillion","Role":"Protagonist","Species":"Navarean","Gender":"Cis Man","permalink":"/narrative/characters/daedalus-plan/officer-fillion/","dgPassFrontmatter":true}
+{"aliases":["Fillion"],"tags":null,"dg-publish":true,"Pronouns":"he/him","Full Name":"Fillion","Role":"Protagonist","Species":"Navarean","Gender":"Cis Man","Universal Name":"·𐑓𐑦𐑤𐑘𐑩𐑯","permalink":"/narrative/characters/daedalus-plan/officer-fillion/","dgPassFrontmatter":true}
 ---
 
 
-A classic satellitist, Fillion grew up in poverty and squalor on the Navarean colony Envilles. His parents were simple workers, hard labourers that worked in the mining facility of Perigard, the capital city of Envilles. As an adult, he joined the Navy in search of an honourable profession that would net him money and respect, but deserted after a traumatic mission that left him the only remaining alive member of his squad.
+A classic satellitist, **Fillion** (·𐑓𐑦𐑤𐑘𐑩𐑯) grew up in poverty and squalor on the Navarean colony Envilles. His parents were simple workers, hard labourers that worked in the mining facility of Perigard, the capital city of Envilles. As an adult, he joined the Navy in search of an honourable profession that would net him money and respect, but deserted after a traumatic mission that left him the only remaining alive member of his squad.
 
 # Physical description
 
