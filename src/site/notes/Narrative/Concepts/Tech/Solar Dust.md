@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/tech/solar-dust/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/concepts/tech/solar-dust/","dgPassFrontmatter":true}
 ---
 
 **Solar Dust** is a type of photovoltaic material used in advanced solar power generation systems. Comprising such systems as high-performance solar collectors and semiconductor-based solar panels, Solar Dust is a result of refinement and augmentation of naturally occurring substances.
