@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["T06","E06"],"permalink":"/narrative/locations/worlds/sypso/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["T06","E06"],"Universal Name":"","permalink":"/narrative/locations/worlds/sypso/","dgPassFrontmatter":true}
 ---
 
 
