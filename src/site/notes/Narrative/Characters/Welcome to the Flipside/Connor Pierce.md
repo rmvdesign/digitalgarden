@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/characters/welcome-to-the-flipside/connor-pierce/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/characters/welcome-to-the-flipside/connor-pierce/","dgPassFrontmatter":true}
 ---
 
 Connor Jacques Pierce is of average weight and height. His hair is dark brown, just like his father - but beyond that, and the fact that they're both men, they couldn't be further apart. He is wealthy, but only because his father is. In fact, he even smells of riches - a subtle scent of wood and high quality eau de toilette follows him, but not because he applies it. It's a feature of the apartment and he is completely oblivious to it.
