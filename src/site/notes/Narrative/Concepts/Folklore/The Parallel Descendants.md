@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/folklore/the-parallel-descendants/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑞 𐑐𐑨𐑮𐑩𐑤𐑧𐑤 𐑛𐑦𐑕𐑧𐑯𐑦𐑯𐑑𐑕","permalink":"/narrative/concepts/folklore/the-parallel-descendants/","dgPassFrontmatter":true}
 ---
 
-The Parallel Descendants are a group of prophesied "chosen ones" that are said to bring about a major cataclysmic change in the universe once all of them die. 
+**The Parallel Descendants** (𐑞 𐑐𐑨𐑮𐑩𐑤𐑧𐑤 𐑛𐑦𐑕𐑧𐑯𐑦𐑯𐑑𐑕) are a group of prophesied "chosen ones" that are said to bring about a major cataclysmic change in the universe once all of them die. 
 
 The prophecy of the change of the universe (more commonly falsely translated as the *end* of the universe) has been passed down for centuries for various ancient texts and oral traditions. Interestingly, most cultures seem to have some form of the Parallel Descendant prophecy, even though their interpretations differ vastly.
 
