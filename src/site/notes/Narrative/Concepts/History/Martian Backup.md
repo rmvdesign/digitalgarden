@@ -1,9 +1,9 @@
 ---
-{"aliases":["The Archive","The Backup","Lutèce Backup","Martian Archive"],"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/history/martian-backup/","dgPassFrontmatter":true}
+{"aliases":["The Archive","The Backup","Lutèce Backup","Martian Archive"],"tags":null,"dg-publish":true,"Universal Name":"·𐑥𐑸𐑖𐑩𐑯 𐑚𐑨𐑒𐑳𐑐","permalink":"/narrative/concepts/history/martian-backup/","dgPassFrontmatter":true}
 ---
 
 
-The **Martian Backup** (also known as *The Archive*, the *Lutèce Backup*, the *Martian Archive* or simply *Backup*) is a device created by Human colonists on Mars after the extinction of the human race on Earth in 2119, an event known as the [[Narrative/Concepts/History/Death of Earth\|Death of Earth]]. It contains a comprehensive collection of human knowledge and culture, including millions of books, billions of gigabytes of recordings, media, music, shows, games, messages, and writing. The backup was designed to be decoded by other life forms in the event that humanity is discovered by extraterrestrial civilisations in the future.
+The **Martian Backup** (·𐑥𐑸𐑖𐑩𐑯 𐑚𐑨𐑒𐑳𐑐, also known as *The Archive*, the *Lutèce Backup*, the *Martian Archive* or simply *Backup*) is a device created by Human colonists on Mars after the extinction of the human race on Earth in 2119, an event known as the [[Narrative/Concepts/History/Death of Earth\|Death of Earth]]. It contains a comprehensive collection of human knowledge and culture, including millions of books, billions of gigabytes of recordings, media, music, shows, games, messages, and writing. The backup was designed to be decoded by other life forms in the event that humanity is discovered by extraterrestrial civilisations in the future.
 
 The creation of the Martian Backup was spurred by the realisation that even those who had managed to escape to Mars were not immune to the eventual extinction of the human race. As such, the colonists on Mars made it their mission to assemble a comprehensive archive of all human knowledge and culture in order to preserve it for future generations, both Human and xenote.
 
