@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N08"],"permalink":"/narrative/locations/worlds/channel/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N08"],"Universal Name":"","permalink":"/narrative/locations/worlds/channel/","dgPassFrontmatter":true}
 ---
 
 The Nexus of Stellar Nomads, colloquially known as the Channel, is an extensive flotilla of asteroids and space stations situated within the neutral zone sandwiched between the [[Narrative/Factions/Ring Worlds\|Ring Worlds]] and the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. This astrogation waypoint operates primarily as an interstellar pit stop, bereft of any single governing body and largely relying upon a loose confederation of independent operators.
