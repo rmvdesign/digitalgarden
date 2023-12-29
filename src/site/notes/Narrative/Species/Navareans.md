@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":null,"permalink":"/narrative/species/navareans/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"linter-yaml-title-alias":null,"Universal Name":"","permalink":"/narrative/species/navareans/","dgPassFrontmatter":true}
 ---
 
 Navareans (N. primus) are the only sapient species on the Navarean worlds, and as such are the primary intelligent species in the [[Narrative/Factions/Navareo Empire\|Navareo Empire]]. Navareans are classes as planetary animals characterised by their humanoid stature which is visually remarkably similar to their evolutionary analogue in the PC-3 evotrail.
