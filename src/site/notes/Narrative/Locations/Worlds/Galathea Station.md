@@ -1,5 +1,5 @@
 ---
-{"aliases":["Galathea"],"tags":null,"dg-publish":true,"Station code":["T02","A07"],"permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
+{"aliases":["Galathea"],"tags":null,"dg-publish":true,"Station code":["T02","A07"],"Universal Name":"","permalink":"/narrative/locations/worlds/galathea-station/","dgPassFrontmatter":true}
 ---
 
 > [!info]
@@ -11,7 +11,7 @@ Nestled among the shining stars and a breathtaking cosmic tapestry, Galathea Sta
 
 Galathea Station, your home among the stars, effortlessly combines luxury with practicality across its sprawling expanse. Imagine awaking to a gravity just like the moon’s gentle embrace, thanks to our state-of-the-art plasma thrusters working in harmony with the cosmic forces. A symphony of engineering and innovative design, the Station offers gravity variances between .2g and .15g, ideal for both comfort and health in the celestial realm.
 
-Home to an astounding 200,000 souls, Galathea Station's commitment to sustainability and excellence is evident through partnerships with leading private hauling companies. Revel in the freshness of produce from Airesem and Ten'serrat, lush Navarean colonies chosen for their proximity and bounty supporting our station's culinary needs. These reliable hauls ensure a steady influx of sustenance, making life onboard as seamless as it is on solid ground.
+Home to an astounding 200,000 stationeers, Galathea Station's commitment to sustainability and excellence is evident through partnerships with leading private hauling companies. Revel in the freshness of produce from Airesem and Ten'serrat, lush Navarean colonies chosen for their proximity and bounty supporting our station's culinary needs. These reliable hauls ensure a steady influx of sustenance, making life onboard as seamless as it is on solid ground.
 
 At Galathea Station – powered by the fusion of tomorrow – our robust 250 MW reactor runs on the most abundant element in the cosmos: interstellar hydrogen. This cutting-edge power source hums through the station, electrifying the grid and creating a symphony of life and light in the inky void of space.
 
