@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N15"],"permalink":"/narrative/locations/worlds/ds-tucanae-a-b/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["N15"],"Universal Name":"","permalink":"/narrative/locations/worlds/ds-tucanae-a-b/","dgPassFrontmatter":true}
 ---
 
 **DS Tucanae A-b** is an exoplanet situated in the binary star system of DS Tucanae, found within The Azure Span, a region of the Milky Way renowned for its radiant nebulas and prolific star-forming areas. Orbiting the primary star, DS Tucanae A, the planet is notable for its gas giant classification and a significant role in cultural space mythology.
