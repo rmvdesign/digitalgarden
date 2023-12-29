@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/substrate-fray-hypothesis/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑕𐑳𐑚𐑕𐑑𐑮𐑱𐑑 𐑓𐑮𐑱 𐑣𐑲𐑐𐑭𐑔𐑩𐑕𐑩𐑕","permalink":"/narrative/concepts/science/substrate-fray-hypothesis/","dgPassFrontmatter":true}
 ---
 
-The **Substrate Fray Hypothesis** is a theoretical proposition suggesting that the application of [[Narrative/Concepts/Tech/Realistics Drive\|Realistics Drive]], predicated on the manipulation of fundamental constants, may incur unanticipated damage to the basic structure of reality.
+The **Substrate Fray Hypothesis** (𐑕𐑳𐑚𐑕𐑑𐑮𐑱𐑑 ·𐑓𐑮𐑱 𐑣𐑲𐑐𐑭𐑔𐑩𐑕𐑩𐑕) is a theoretical proposition suggesting that the application of [[Narrative/Concepts/Tech/Realistics Drive\|Realistics Drive]], predicated on the manipulation of fundamental constants, may incur unanticipated damage to the basic structure of reality.
 
 Although initially the usage of [[Narrative/Concepts/Science/Applied Reality Theory\|Realistics]] technology for interstellar travel and other applications was celebrated, it was not long before a subset of physicists began voicing concerns about the possible repercussions of meddling with Reality’s backbone. These anxieties coalesced into the Substrate Fray Hypothesis.
 
