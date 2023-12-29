@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":["E07"],"permalink":"/narrative/locations/worlds/eddystone/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":["E07"],"Universal Name":"","permalink":"/narrative/locations/worlds/eddystone/","dgPassFrontmatter":true}
 ---
 
 ### Eddystone
