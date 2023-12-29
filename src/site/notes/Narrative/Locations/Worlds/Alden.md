@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"Station code":"N13","permalink":"/narrative/locations/worlds/alden/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Station code":"N13","Universal Name":"","permalink":"/narrative/locations/worlds/alden/","dgPassFrontmatter":true}
 ---
 
 **Alden**, prominently known as the Alden Colony, is one of the nascent colonies birthed within the celestial realm of the [[Narrative/Factions/Sundom of Eris\|Sundom of Eris]]. Uniquely positioned in the extreme vicinity of a class F0 star, Alden boasts a complex ecology and unconventional societal structures heavily influenced by this celestial feature.
