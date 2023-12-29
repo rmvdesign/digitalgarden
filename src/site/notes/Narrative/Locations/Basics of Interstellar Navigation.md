@@ -1,5 +1,5 @@
 ---
-{"aliases":["Coreward","Rimward","Zenithward","Nadirward","Spinward","Trailward"],"tags":null,"dg-publish":true,"permalink":"/narrative/locations/basics-of-interstellar-navigation/","dgPassFrontmatter":true}
+{"aliases":["Coreward","Rimward","Zenithward","Nadirward","Spinward","Trailward"],"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/basics-of-interstellar-navigation/","dgPassFrontmatter":true}
 ---
 
 **Interstellar navigation** represents the future of spatial travel in the cosmos, made viable by advancements in understanding [[Narrative/Concepts/Science/Applied Reality Theory\|the complexities of the universe]]. Unlocking the vast potential of the galaxy, it facilitates navigation on a wide scale and revolutionises the conventional terrestrial concepts of direction.
