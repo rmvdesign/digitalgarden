@@ -1,5 +1,5 @@
 ---
-{"aliases":"Subcity","tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/the-subcity/","dgPassFrontmatter":true}
+{"aliases":"Subcity","tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/the-subcity/","dgPassFrontmatter":true}
 ---
 
 The subterranean second city of [[Narrative/Locations/Worlds/Tallis\|Tallis]], colloquially known as "The Subcity," serves as a dynamic space beneath the bustling streets of [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/Tallis City\|Tallis City]]. This complex underground infrastructure has evolved over time, mirroring the development of the surface metropolis and catering to the diverse needs of its inhabitants.
