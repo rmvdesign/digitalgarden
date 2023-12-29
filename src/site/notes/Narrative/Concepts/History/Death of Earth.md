@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/history/death-of-earth/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑛𐑧𐑔 𐑝 𐑼𐑮𐑔","permalink":"/narrative/concepts/history/death-of-earth/","dgPassFrontmatter":true}
 ---
 
-The Death of Earth refers to the catastrophic event that took place in the year 2119 (-266), resulting in the extinction of the Human species. The event was caused by the depletion of the ozone layer, which led to a widespread famine and an epidemic of skin cancer. The damage to the ozone layer was primarily due to human activity and was exacerbated by a number of factors such as the use of fossil fuels and industrial pollution.
+The **Death of Earth** (𐑛𐑧𐑔 𐑝 𐑼𐑮𐑔) refers to the catastrophic event that took place in the year 2119 (-266), resulting in the extinction of the Human species. The event was caused by the depletion of the ozone layer, which led to a widespread famine and an epidemic of skin cancer. The damage to the ozone layer was primarily due to human activity and was exacerbated by a number of factors such as the use of fossil fuels and industrial pollution.
 
 As the situation on Earth continued to deteriorate, the surviving Humans began to realise the gravity of the situation. Many attempts were made to counter the effects of the ozone depletion, but they were largely unsuccessful. Eventually, the damage to the ozone layer became so severe that the majority of life on Earth was wiped out, including the Human species.
 
