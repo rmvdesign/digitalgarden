@@ -1,12 +1,12 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/tallis-city/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/locations/on-planet-locations/tallis/tallis-city/tallis-city/","dgPassFrontmatter":true}
 ---
 
 Tallis City is the bustling capital and largest city on the planet of Tallis. Its metropolitan area is a significant department in the Tallisite government and is home to nearly 40 million inhabitants, predominantly Tallisites. The city also houses a substantial Navarean population and a thriving Irisian expat community, fostering a diverse multicultural environment.
 
 The Irisian expats of Tallis City have established a sub-community focused on conservation and harmony with nature in the southern centre of town. This lush, green nature park – named the Irisian Gardens – has grown into a serene oasis of tranquility amidst the urban landscape, promoting the importance of environmental preservation.
 
-Tallis City stands out as a pivotal trade and travel hub for not only the Tallis City Metro Area (TCMA) but the entire planet. Atmospheric buses facilitate rapid transfers to the orbital [[Resources/The HyperMetro\|HyperMetro]] station, ensuring seamless access to other worlds within the galaxy. Meanwhile, state-of-the-art automatic Maglev trains connect Tallis City with other areas on the surface, enhancing inter-regional communication and commerce.
+Tallis City stands out as a pivotal trade and travel hub for not only the Tallis City Metro Area (TCMA) but the entire planet. Atmospheric buses facilitate rapid transfers to the orbital [[Narrative/Concepts/Society/The HyperMetro\|HyperMetro]] station, ensuring seamless access to other worlds within the galaxy. Meanwhile, state-of-the-art automatic Maglev trains connect Tallis City with other areas on the surface, enhancing inter-regional communication and commerce.
 
 A noteworthy landmark within Tallis City is [[Narrative/Locations/On-Planet Locations/Tallis/Tallis City/The Spire\|The Spire]], a towering rectangular megabuilding that stands as the first of its kind on the planet. The Spire boasts a massive square footprint of nearly a kilometre in diameter and a breathtaking height of 1,052 metres. This architectural marvel serves as a symbol of the progressive spirit and innovative nature of Tallis City.
 
