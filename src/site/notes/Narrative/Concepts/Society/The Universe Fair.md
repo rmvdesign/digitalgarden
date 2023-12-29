@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/society/the-universe-fair/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑿𐑯𐑩𐑝𐑻𐑮𐑕 𐑓𐑱𐑮","permalink":"/narrative/concepts/society/the-universe-fair/","dgPassFrontmatter":true}
 ---
 
-The Universe Fair, held biennially on the ecologically harmonious planet of [[Narrative/Locations/Worlds/Hora\|Hora]], serves as a vibrant showcase for scientific discoveries, technological breakthroughs, cultural celebrations, and artistic masterpieces from across the galaxy. Spanning two weeks, the fair offers a multitude of events and activities that foster togetherness and collaboration among the diverse species in attendance.
+The **Universe Fair** (𐑿𐑯𐑩𐑝𐑻𐑮𐑕 𐑓𐑱𐑮), held biennially on the ecologically harmonious planet of [[Narrative/Locations/Worlds/Hora\|Hora]], serves as a vibrant showcase for scientific discoveries, technological breakthroughs, cultural celebrations, and artistic masterpieces from across the galaxy. Spanning two weeks, the fair offers a multitude of events and activities that foster togetherness and collaboration among the diverse species in attendance.
 
 In line with [[Narrative/Locations/Worlds/Hora\|Hora]]'s eco-conscious principles, all buildings for the Universe Fair are made from a material called Temporary Concrete. This innovative invention ensures that structures built with it rapidly decay after being poured, allowing the planet to reclaim the materials and maintaining its pristine ecological balance. Notably, exhibition pieces at the fair are also left for [[Narrative/Locations/Worlds/Hora\|Hora]] to reclaim, further solidifying the event's commitment to sustainability and harmony with the environment.
 
