@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/history/2-earth-divergence/timeline-of-earth-s-divergence/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"","permalink":"/narrative/history/2-earth-divergence/timeline-of-earth-s-divergence/","dgPassFrontmatter":true}
 ---
 
 ```timeline
