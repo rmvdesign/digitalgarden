@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/narrative/concepts/science/etheric-transference/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑰𐑔𐑧𐑮𐑰𐑒 𐑑𐑮𐑨𐑯𐑕𐑓𐑻𐑩𐑯𐑕","permalink":"/narrative/concepts/science/etheric-transference/","dgPassFrontmatter":true}
 ---
 
-From a historical perspective, the defunct concept of **Etheric Transference**, championed by scholars in the early days of interstellar exploration, is often compared to the [[Narrative/Concepts/History/Ruinous Objects\|ruinous]] misconception of phlogiston in terms of its eventual dissolution in the face of better scientific theories.
+From a historical perspective, the defunct concept of **Etheric Transference** (𐑰𐑔𐑧𐑮𐑰𐑒 𐑑𐑮𐑨𐑯𐑕𐑓𐑻𐑩𐑯𐑕), championed by scholars in the early days of interstellar exploration, is often compared to the [[Narrative/Concepts/History/Ruinous Objects\|ruinous]] misconception of phlogiston in terms of its eventual dissolution in the face of better scientific theories.
 
 Etheric Transference operated on the proposition that a universal medium, the ‘Ether’, permeated the entirety of space. This medium was postulated to be a pliable, malleable substance subjected to the influences of the so-called ‘Ether Shapers’, devices powered by various energy sources, including the pre-refinement phase of [[Narrative/Concepts/Science/Theodyne\|Theodyne]], [[Narrative/Concepts/Science/Theorium\|Theorium]].
 
