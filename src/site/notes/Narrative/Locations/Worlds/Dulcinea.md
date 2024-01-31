@@ -2,8 +2,6 @@
 {"aliases":null,"tags":null,"dg-publish":true,"Station code":["N05","E03"],"Universal Name":"","permalink":"/narrative/locations/worlds/dulcinea/","dgPassFrontmatter":true}
 ---
 
-### Dulcinea
-
 **Dulcinea** is a strategically located planet that serves as a rare converging point for two major HyperMetro lines, N and E, within the designated Galactic Neutral Zone. Its position along these important transit routes has imbued it with a significance that belies its otherwise unaligned status. As part of the neutral zone, Dulcinea functions under a set of regulations that maintain its status as a bastion of detente amidst surrounding galactic tensions.
 
 #### Infrastructure and Commerce
