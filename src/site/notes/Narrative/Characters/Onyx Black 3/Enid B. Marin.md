@@ -1,8 +1,8 @@
 ---
-{"Universal Name":"·𐑰𐑯𐑦𐑛 ·𐑚𐑤𐑲𐑑𐑩𐑯 ·𐑥𐑭𐑮𐑨𐑙","aliases":["Enid"],"tags":null,"dg-publish":true,"Pronouns":"she/they","Full Name":"Enid Blyton Marin","Role":"Protagonist","Species":"Tallisite","permalink":"/narrative/characters/onyx-black-3/enid-b-marin/","dgPassFrontmatter":true}
+{"Universal Name":"·𐑰𐑯𐑦𐑛 ·𐑚𐑤𐑲𐑑𐑩𐑯 ·𐑥𐑭𐑮𐑨𐑯","aliases":["Enid"],"tags":null,"dg-publish":true,"Pronouns":"she/they","Full Name":"Enid Blyton Marin","Role":"Protagonist","Species":"Tallisite","permalink":"/narrative/characters/onyx-black-3/enid-b-marin/","dgPassFrontmatter":true}
 ---
 
-**Enid Blyton Marin** (·𐑰𐑯𐑦𐑛 ·𐑚𐑤𐑲𐑑𐑩𐑯 ·𐑥𐑭𐑮𐑨𐑙) is a tall and well-trained Tallisite-Human hybrid with short pink hair and brown eyes. They are a skilled porter, delivering goods from [[Narrative/Factions/The World Unity\|The World Unity]] to the far reaches of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] EdgeLabs in the Neutral Zone. 
+”**Enid Blyton Marin** (·𐑰𐑯𐑦𐑛 ·𐑚𐑤𐑲𐑑𐑩𐑯 ·𐑥𐑭𐑮𐑨𐑙) is a tall and well-trained Tallisite-Human hybrid with short pink hair and brown eyes. They are a skilled porter, delivering goods from [[Narrative/Factions/The World Unity\|The World Unity]] to the far reaches of [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] EdgeLabs in the Neutral Zone. 
 
 With a love of all things nautical, Enid can often be found sailing or fishing in their free time. They are known for their free-spirited nature and are not afraid to take on [[Narrative/Concepts/Society/Blackporter\|blackporter]] duties for [[Narrative/Factions/Sector C-Null\|Sector C-Null]] and pirate groups. Despite their unconventional lifestyle, Enid is respected by those who know them for their reliability and dedication to their work.
 
