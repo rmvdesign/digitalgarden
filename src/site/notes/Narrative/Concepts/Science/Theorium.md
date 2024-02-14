@@ -2,11 +2,11 @@
 {"aliases":null,"tags":null,"dg-publish":true,"Universal Name":"𐑔𐑰𐑼𐑰𐑘𐑳𐑥","permalink":"/narrative/concepts/science/theorium/","dgPassFrontmatter":true}
 ---
 
-**Theorium** (𐑔𐑰𐑼𐑰𐑘𐑳𐑥) is an exotic, iridescent, and translucent crystalline material with the extraordinary ability to manipulate the fabric of reality itself. First discovered by physicist [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] from the Tallis Institute, Theorium has revolutionised the fields of science, technology, and exploration in the cosmos. This powerful substance has the potential to reshape the physical constants of reality, providing its users with seemingly god-like powers over creation. However, it is important to note that Theorium, in its raw and unrefined state, is highly unstable and can have dangerous effects on gravity and spacetime.
+**Theorium** (𐑔𐑰𐑼𐑰𐑘𐑳𐑥) is an exotic, iridescent, and translucent crystalline material with the extraordinary ability to manipulate the fabric of reality itself. First discovered by physicist [[Theo Rose\|Theodore Rose]] from the Tallis Institute, Theorium has revolutionised the fields of science, technology, and exploration in the cosmos. This powerful substance has the potential to reshape the physical constants of reality, providing its users with seemingly god-like powers over creation. However, it is important to note that Theorium, in its raw and unrefined state, is highly unstable and can have dangerous effects on gravity and spacetime.
 
 ## Origin and Discovery
 
-In a universe created by random chance, the emergence of life sent deterministic ripples, known as coherence waves, throughout spacetime. As these coherence waves collided and intertwined, they created the exotic material known as Theorium. [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]], a physicist at the prestigious Tallis Institute, first discovered this enigmatic crystal and recognised its potential to reshape the understanding of reality while on an interplanetary trip in the Tallisite solar system.
+In a universe created by random chance, the emergence of life sent deterministic ripples, known as coherence waves, throughout spacetime. As these coherence waves collided and intertwined, they created the exotic material known as Theorium. [[Theo Rose\|Theodore Rose]], a physicist at the prestigious Tallis Institute, first discovered this enigmatic crystal and recognised its potential to reshape the understanding of reality while on an interplanetary trip in the Tallisite solar system.
 
 ## Properties and Characteristics
 
@@ -14,7 +14,7 @@ Theorium is a crystalline substance with a structure similar to bismuth. Its iri
 
 ## Refinement into [[Narrative/Concepts/Science/Theodyne\|Theodyne]]
 
-[[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] developed a process to refine raw Theorium into a potent fuel known as [[Narrative/Concepts/Science/Theodyne\|Theodyne]]. When diluted, [[Narrative/Concepts/Science/Theodyne\|Theodyne]] serves as an exceptional energy source for cold fusion, powering starships and remote installations where renewable resources are scarce. In its purest form, [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100, the substance can generate coherence fields, which allow for the alteration of reality's fundamental constants.
+[[Theo Rose\|Theodore Rose]] developed a process to refine raw Theorium into a potent fuel known as [[Narrative/Concepts/Science/Theodyne\|Theodyne]]. When diluted, [[Narrative/Concepts/Science/Theodyne\|Theodyne]] serves as an exceptional energy source for cold fusion, powering starships and remote installations where renewable resources are scarce. In its purest form, [[Narrative/Concepts/Science/Theodyne\|Theodyne]]-100, the substance can generate coherence fields, which allow for the alteration of reality's fundamental constants.
 
 ## [[Narrative/Concepts/Science/Applied Reality Theory\|Applied Reality Theory]] and Realistics
 
