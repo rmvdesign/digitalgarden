@@ -53,9 +53,9 @@ Commonly, these five stages are not divided further down to make it easier to st
 -   Ld. Marie Lowsik, LSc - Board member, NAAS
 -   Ld. Mercury, LSc - Board member, NAAS
 -   Ld. Tijona, LSc - Board member, NAAS
--   Ld. [[Narrative/Characters/WB Characters/Dinah Rose\|Dinah Rose]], LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
+-   Ld. [[Dinah Rose\|Dinah Rose]], LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
 -   Ld. Palla Parvenu, LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
 -   Ld. Corie Mouru, LSc - [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]] Corporation
--   Ld. [[Narrative/Characters/Phyrra's Spark/Hatena Mouru\|Hatena Mouru]], LSc - [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]]
--   Ld. [[Narrative/Characters/The Exchange/Quentin Marcolla\|Quentin Marcolla]], LSc - QEX Quantum Communications, Ltd.
+-   Ld. [[Hatena Mouru\|Hatena Mouru]], LSc - [[Narrative/Factions/Corporations/Lightspeed Industries\|Lightspeed Industries]]
+-   Ld. [[Quentin Marcolla\|Quentin Marcolla]], LSc - QEX Quantum Communications, Ltd.
 -   Ld. Katherine Yalgeth, LSc - Yalgeth Labs
