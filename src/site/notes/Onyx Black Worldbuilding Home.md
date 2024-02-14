@@ -12,7 +12,7 @@ It hasn't been going very well.
 
 All notes are linked to one another in some way or another. Here are a few notes to start you off:
 
-[[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana T. Atwood]] - the protagonist of the mainline Onyx Black novels.
+[[Narrative/Characters/Morgana T. Atwood\|Morgana T. Atwood]] - the protagonist of the mainline Onyx Black novels.
 
 [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech, LLC]] - biggest corporation and sole patent holder for silicon semiconductors.
 
