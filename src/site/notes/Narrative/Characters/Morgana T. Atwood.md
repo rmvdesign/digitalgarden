@@ -9,7 +9,7 @@
 **Basic Information:**
 
 - **Name:** Morgana T. Atwood
-- **Universal**: ·𐑛𐑦𐑤𐑲𐑤𐑩 ·𐑣𐑧𐑯𐑮𐑰 ·𐑨𐑑𐑢𐑫𐑛
+- **Universal**: ·𐑥𐑸𐑜𐑨𐑯𐑩 ·𐑑𐑧𐑮𐑰 ·𐑨𐑑𐑢𐑫𐑛
 - **Age:** 24
 - **Species:** Tallisite (Clone)
 - **Rank:** Detective 1. Grade
