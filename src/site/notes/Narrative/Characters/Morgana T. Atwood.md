@@ -32,7 +32,7 @@
 
 **Background:**
 
-Came through the ISPD academy with distinction. Self-reliant, often preferring solitary work over collaboration. Initially resisted partnership with Android Detective Chase, but has since shown adaptability and potential for inter-species teamwork. Background in spatial environments contributes to a unique perspective on cases—for better or worse.
+Came through the ISPD academy with distinction. Self-reliant, often preferring solitary work over collaboration. Initially resisted partnership with Detective Chase, but has since shown adaptability and potential for inter-species teamwork. Background in spatial environments contributes to a unique perspective on cases—for better or worse. 21 Siblings. *Game night must be a nightmare. Parallel descendant?*
 
 **Personality Traits:**
 
