@@ -8,7 +8,7 @@ The prophecy of the change of the universe (more commonly falsely translated as 
 
 Despite the uncertainty surrounding the prophecy, many people throughout history have searched for the Parallel Descendants, hoping to find and protect them. Some have even claimed to be one of the chosen ones themselves, although most of these claims have proven to be false.
 
-The Parallel Descendants are, in fact, the 22 sisters of the Atwood family, an [[Narrative/Factions/Interstellar Police Department\|ISPD]] clone family. Their unusually high rate of survival is a manifestation of the collective improbability of reality, and a similar macroscopic effect of "unrealism" is found in the existence of Theorium minerals. The last of the parallel descendants refers to [[Narrative/Characters/Daedalus Plan/Morgana T. Atwood\|Morgana T. Atwood]].
+The Parallel Descendants are, in fact, the 22 sisters of the Atwood family, an [[Narrative/Factions/Interstellar Police Department\|ISPD]] clone family. Their unusually high rate of survival is a manifestation of the collective improbability of reality, and a similar macroscopic effect of "unrealism" is found in the existence of Theorium minerals. The last of the parallel descendants refers to [[Narrative/Characters/Morgana T. Atwood\|Morgana T. Atwood]].
 
 As the parallel descendants die, the stress on reality rises. In quantified terms, this means the baseline factor of reality (usually 1) slowly drops until complete cessation of reality is reached.
 
