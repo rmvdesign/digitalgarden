@@ -4,7 +4,7 @@
 
 # Sequential
 
-Sequential is a dynamic, hybrid programming language tailored to the distinct hardware architecture of Semi-Linear Computers (SLCs). Developed by [[Narrative/Characters/WB Characters/Theo Rose\|Theodore Rose]] in year -3 to interact with the emerging sector of digital computers, Sequential represents a watershed in the evolution of programming, merging traditional linear code with the fluidity of analogue systems. Renowned for empowering programmers to 'knit' sequences of operations in a manner akin to setting up a complex musical synthesiser, Sequential forms the core software expression mode for SLCs across the galaxy.
+Sequential is a dynamic, hybrid programming language tailored to the distinct hardware architecture of Semi-Linear Computers (SLCs). Developed by [[Theo Rose\|Theodore Rose]] in year -3 to interact with the emerging sector of digital computers, Sequential represents a watershed in the evolution of programming, merging traditional linear code with the fluidity of analogue systems. Renowned for empowering programmers to 'knit' sequences of operations in a manner akin to setting up a complex musical synthesiser, Sequential forms the core software expression mode for SLCs across the galaxy.
 ## Background
 
 Built to interface seamlessly with the revolutionary storage capacities of [[Narrative/Concepts/Tech/Magnetic Autotape\|Magnetic Autotape]] and to manipulate both digital and analogue information, Sequential was conceived in the summer estate of the Rose family by a small team of enthusiasts led by the visionary Theodore Rose. As SLCs began to proliferate, the need for a compatible programming language grew. In response, Sequential was crafted to bridge the gap between the computational models of the time and the advanced capacities of new Semi-Linear storage and processing systems.
@@ -24,10 +24,6 @@ Sequential takes advantage of the inherent flexibility offered by SLC hardware, 
 
 A key innovation brought forth by Sequential is Sequence Knitting, a tactile programming methodology that reflects the craftsmanship ethos deeply embedded in SLC culture. Programmers 'knit' together operations by physically adjusting sequences on an interactive panel complete with knobs, dials, and a step sequencer-like code matrix, similar to playing an instrument. This hands-on approach allows programmers to compose and execute intricate sequences, opening new dimensions for how software is articulated and thought of. Sequence Knitting requires the use of a Knitting Board, a physical programming and debugging device available for purchase from [[Narrative/Factions/Corporations/Theotech, LLC\|Theotech]]. Sequential can also be written by hand as direct line instructions, but this method is much more time-consuming and often produces unoptimised code.
 
-## Syntax and Semantics
-
-Syntax in Sequential is intentionally minimalist, drawing on the philosophies of early programming languages, fused with specialised controls for engaging with the SLC's tape-based sequencing. Each sequence is transcribed into line instructions, which the SLC executes by interpreting the depth-positioned data on the [[Narrative/Concepts/Tech/Magnetic Autotape\|tape]]. Common programming paradigms converge in Sequential, with procedural and functional elements underpinning its Analog-Digital Hybrid nature.
-
 ## In Practice
 
 Sequential quickly found widespread application in data analysis, scientific research, and the digital art scene. Its multifaceted nature allows it to manipulate the immense datasets collected by interplanetary probes or to craft elegant, responsive multimedia installations. Financial institutions adopted Sequential for the secure interpolation of cryptographic tape sequences, while academic institutions harnessed it for modelling simulations across multidisciplinary studies.
@@ -38,9 +34,13 @@ Beyond functionality, Sequential has engendered a renaissance in the conceptuali
 
 ## How to use
 
-A Sequential program contains at least one Sequence. A Sequence is made up of one or more patterns. By default, the sequence loops through all patterns defined in order. This also means that every Sequence has an "Intro" field that defines the initial pattern queue, which loops by default, unless a pattern includes the PBRK instruction within the highest loop. The current level of the execution loop is stored within the system's LPLV (loop level) register. If it is 0, only the sequence's main pattern loop is running. Calling PBRK will halt execution of the program at the end of the current pattern.
+A Sequential program contains at least one Sequence. A Sequence is made up of one or more patterns. By default, the sequence loops through all patterns defined in order. This also means that every Sequence has an "Intro" field that defines the initial pattern queue, which loops by default, unless a pattern includes the `PBRK` instruction within the highest loop. The current level of the execution loop is stored within the system's `LPLV` (loop level) register. If it is 0, only the sequence's main pattern loop is running. Calling `PBRK` will halt execution of the program at the end of the current pattern, for halting from within a sequence, call `HALT`. `PLAD` can be used to dynamically load sets of patterns into the file to be used. It is the only instruction to be called outside of a pattern or `SEQD` container.
 
-Interrupts are also defined using `PTIN` followed by their Interrupt name. They execute automatically, in line, without needing to be called in the sequence. However, they *may* be included in the sequence definition, and if so, execute their code without being triggered. Usually, waiting for input is accomplished using the `WAIT` instruction, which waits until an interrupt is triggered. It's highly recommended to overload `WAIT` with the name of an interrupt to wait for that interrupt specifically. This may also lead to unintended side effects due to interrupt registers like `INXX` not being populated.
+Interrupts are also defined using `PTIN` followed by their Interrupt name. They execute automatically, in line, without needing to be called in the sequence. However, they *may* be included in the sequence definition, and if so, execute their code without being triggered. This may also lead to unintended side effects due to interrupt registers like `INXX` not being populated. Usually, waiting for input is accomplished using the `WAIT` instruction, which waits until an interrupt is triggered. It's highly recommended to overload `WAIT` with the name of an interrupt to wait for that interrupt specifically.
+
+Conditional instructions like `CMPR` or `TEST` store their result in two places: The `TSTR` register, which is either 0 or 1, or the test result flag. The `TSTR` register doesn't change until the next conditional instruction, and therefore is useful for carrying the state of a test into a later sequence. If the test is immediately relevant, prefix the following lines with `+` and `-` to specify if they should be executed if the test was positive or negative. Matching lines will be executed and non-matching lines will be skipped at runtime. Any non-prefixed line resets the flag to default.
+
+Sequential lets the scribe define any register as a multipurpose variable. However, storing transient data may be accomplished using the `LIFT` and `DROP` instructions. Note that `LIFT` and `DROP` process their contents on a LIFO (last in, first out) basis. Example: `LIFT`ed data 3, 2, 1 would be `DROP`ped as 1, 2, 3. 
 
 A program in Sequential is defined first with a definition of the patterns in order at the start of execution. The `SEQD` instruction defines the initial sequence. It expects `PTIN`-defined identifiers as arguments. If desired, two `SEQD` instructions can be used to wrap a longer sequence of patterns. The following program prompts the user for input using the keyboard and then prints a multiplication table on the terminal.
 
@@ -58,7 +58,9 @@ SEQD
 SEQD
 
 PTIN MODESET
-	MOVE 1 MODE
+	TEST MODE 1
+	+ MOVE 1 MODE
+	- NOOP
 PEND
 
 ; Prompt User for Multiplication Number Pattern
@@ -73,9 +75,12 @@ PEND
 ; IKEY is triggered upon key press events
 PTIN IKEY
     LIFT IN99 ; Lift the character from IN99 (keyboard register)
-    CMPR IN99 100 ; Compare input to NULL, checking for 'Commit' key (value 100)
-    JZER TSTR INITSEQ ; If 'Enter' key is detected, initialize sequence
-    DROP Y ; Otherwise, store the character into the multiplicand register Y
+    VDRP ECHO
+    LIFT ECHO
+    DROP TTY0
+    TEST IN99 100 ; Compare input to 100, checking for 'Commit' key (value 100)
+    + JUMP INITSEQ ; If 'Enter' key is detected, initialize sequence
+    - DROP Y ; Otherwise, store the character into the multiplicand register Y
 PEND
 
 ; Init Pattern - Initializes registers for storing calculation values
@@ -116,10 +121,10 @@ PEND
 
 ; Check Sequence - Determines whether to continue or stop the multiplication table
 PTIN CHECKSEQ
-    CMPR X T ; Compare the counter X with the limit T
-    JNZR TSTR HALTSEQ ; If X == T, halt program
-    INCR X ; Otherwise, increment X for next multiplication line
-    PJMP MULTSEQ ; Jump back to multiplication sequence
+    TEST X T ; Compare the counter X with the limit T
+    + JUMP HALTSEQ ; If X == T, halt program
+    - INCR X ; Otherwise, increment X for next multiplication line
+    - PJMP MULTSEQ ; Jump back to multiplication sequence
 PEND
 
 ; Halt Sequence - Stops program execution
@@ -134,7 +139,7 @@ PSTR ; Start executing patterns from the sequence definition
 
 System-wide registers and their formats:
 
-NULL - Zero register. If called, returns 0. If written to, discards data.
+NULL - Zero register. If called, returns 0. If written to, discards data. Useful for memory management.
 TTYX - Direct character output of terminal X. Use TTY0 for default terminal. Write-only.
 PROG - Current position of the program counter. Read-only. To move execution, use SEEK or JUMP.
 CPAT - Current pattern. Returns PTIN identifier. Read-only. To move execution, use PNXT, PPRV or PJMP.
@@ -145,7 +150,7 @@ MODE - Special register. Changes the SLC's operation mode (analogue/digital) whe
 TIME - Stores current timestamp. Read-only.
 PTME - Stores time elapsed since program started. Read-only.
 TSTR - Stores latest test result. Read-only. Fires the ITST interrupt when changed.
-ECHO - Text converter. Written text can be read back as character data for use in OUXX/TTYX registers for display.
+ECHO - Text converter "magic register". Written text can be read back as character data for use in OUXX/TTYX registers for display.
 
 System-wide interrupts:
 
@@ -172,7 +177,7 @@ Pattern and Sequence control instructions:
 SEQD - Sequence Define: Define initial sequence.
 PTIN - Initialise Pattern: Define the start of a new pattern with a unique identifier.
 PEND - End Pattern: Mark the end of the current pattern definition.
-PLAD - Load Pattern: Load a pattern into the sequence queue by its identifier.
+PLAD - Load Pattern: Load a pattern into the sequence queue by its identifier or a tape position.
 PSTR - Start Patterns: Start or resume pattern sequence playback from the current position.
 PSTP - Stop Patterns: Stop pattern sequence playback, allows for pausing and manipulation.
 PRES - Restart: Restart the sequence from the first pattern in the queue.
@@ -211,13 +216,14 @@ SWAP - Swap contents between two registers or between a register and a tape posi
 ADDV - Add values from two specified registers, storing the result in the first register.
 SUBV - Subtract the value of the second specified register from the first.
 MULT - Multiply contents of two registers, storing the result in the first register.
-DIVV - Divide the first register by the second, storing the result in the first register.
-INCR - Increment the value in the specified register.
-DECR - Decrement the value in the specified register.
+DIVV - Divide the first register by the second, storing the result in the first register. In digital mode, always rounds down.
+MODV - Modulo the first register by the second. Digital/hybrid mode only.
+INCR - Increment the value in the specified register by 1.
+DECR - Decrement the value in the specified register by 1.
 SEEK - Unconditional jump to a specified tape position (instruction address).
 JNZR - Jump to a specified tape position if register does not equal zero.
 JZER - Jump to a specified tape position if register equals zero.
-CMPR - Compare the values in two registers, setting flags for equal, less than, or greater than.
+CMPR - Compare the values in two registers, setting flags for equal (1), less than (2), or greater than (3).
 TEST - Test the value in a specified register against a condition, setting a flag if true.
 CALL - Call a subroutine at a specific tape position, storing return address.
 RETN - Return from subroutine, using the stored return address.
